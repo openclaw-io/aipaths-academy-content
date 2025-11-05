@@ -1,10 +1,14 @@
 ---
-title: "Understanding AI Agents in Claude Code"
-description: "Learn how AI agents work in Claude Code, why they matter, and how to leverage them effectively for complex tasks"
-tags: ["agents", "claude-code", "beginner", "context-window"]
+title: AI Agents in Claude Code
+description: Learn how AI agents work in Claude Code, why they matter, and how to leverage them effectively for complex tasks
+tags:
+  - agents
+  - claude-code
+  - beginner
+  - context-window
 published: true
-lastUpdated: "2025-01-05"
-author: "AIPaths Academy"
+lastUpdated: 2025-01-05
+author: AIPaths Academy
 ---
 
 # Understanding AI Agents in Claude Code
@@ -138,154 +142,6 @@ Claude Code (Sonnet 4.5) has a **200,000 token context window**. Approximately:
 4. **Clear Completed Tasks**: Old todo items and conversation history count toward your limit
 5. **Restart When Needed**: If context feels cluttered, consider starting a fresh conversation
 
-## Practical Examples
-
-### Example 1: Understanding a New Codebase
-
-**Task:** You've joined a new project and need to understand the authentication flow.
-
-**Approach:**
-```typescript
-// Launch an Explore agent with medium thoroughness
-Task({
-  description: "Explore authentication flow",
-  prompt: `Explore how user authentication works in this application.
-
-  Focus on:
-  - Login and registration flows
-  - Session management
-  - Password handling
-  - Token generation
-
-  Thoroughness: medium
-
-  Return a summary explaining the flow from login to authenticated session.`,
-  subagent_type: "Explore"
-})
-```
-
-**What the agent does:**
-1. Searches for auth-related files
-2. Reads relevant files (login, register, middleware)
-3. Follows code references
-4. Maps the flow
-5. Returns concise summary
-
-**What you get:**
-A clear explanation of the auth flow without polluting your context with dozens of file reads.
-
-### Example 2: Planning a New Feature
-
-**Task:** Add payment processing to your e-commerce app.
-
-**Approach:**
-```typescript
-// Launch a Plan agent
-Task({
-  description: "Plan payment processing",
-  prompt: `Plan how to implement Stripe payment processing.
-
-  Consider:
-  - Where to integrate in the checkout flow
-  - Database schema changes needed
-  - Security considerations
-  - Error handling
-  - Webhook handling for payment events
-
-  Review existing checkout code and propose a detailed implementation plan.`,
-  subagent_type: "Plan"
-})
-```
-
-**What the agent does:**
-1. Explores current checkout flow
-2. Identifies integration points
-3. Plans database migrations
-4. Considers security implications
-5. Creates step-by-step implementation plan
-
-**What you get:**
-A comprehensive plan you can review and execute, without your context filling up with exploratory searches.
-
-## Common Patterns
-
-### Pattern 1: Parallel Exploration
-
-When you need to understand multiple related systems:
-
-```typescript
-// Launch multiple Explore agents at once
-Task("Explore authentication system") +
-Task("Explore authorization/permissions") +
-Task("Explore session management")
-
-// All three run simultaneously
-// You get three focused summaries
-// Much faster than sequential exploration
-```
-
-### Pattern 2: Explore → Plan → Execute
-
-For implementing new features:
-
-```typescript
-// Step 1: Understand current implementation
-Task("Explore existing user profile system", subagent_type: "Explore")
-
-// Step 2: Plan the new feature (after reviewing exploration results)
-Task("Plan adding profile picture upload", subagent_type: "Plan")
-
-// Step 3: Execute based on plan
-// You implement based on the plan
-// Then commit with git-commit-guardian
-```
-
-## When NOT to Use Agents
-
-Agents are powerful but not always necessary:
-
-**Don't use agents when:**
-
-1. **You know the exact file**: Use Read tool directly
-   ```typescript
-   // Don't: Task("Read config.json")
-   // Do: Read("config.json")
-   ```
-
-2. **Simple, single-file edits**: Just edit directly
-   ```typescript
-   // Don't: Task("Add a comment to line 50")
-   // Do: Edit the file directly
-   ```
-
-3. **Quick terminal commands**: Use Bash tool
-   ```typescript
-   // Don't: Task("Run npm install")
-   // Do: Bash("npm install")
-   ```
-
-## Troubleshooting
-
-### "Agent found too many results"
-
-**Problem:** Agent returns overwhelming summary.
-
-**Solution:** Be more specific in your prompt.
-```typescript
-// Before: "Explore the application"
-// After: "Find where user passwords are hashed"
-```
-
-### "Agent didn't find what I need"
-
-**Problem:** Agent missed relevant code.
-
-**Solutions:**
-- Increase thoroughness level to "very thorough"
-- Provide more specific search terms
-- Try different phrasing of what you're looking for
-- Give the agent file path hints if you have them
-
 ## Next Steps
 
 Now that you understand AI agents:
@@ -304,13 +160,6 @@ Now that you understand AI agents:
    - Practice launching multiple agents at once
    - Measure the time savings
    - Notice the context window benefits
-
-## Additional Resources
-
-- [Claude Code Documentation](https://docs.claude.com/claude-code)
-- [Agent Tool Reference](https://docs.claude.com/claude-code/tools/task)
-- [Context Window Deep Dive](/docs/agents/context-window-deep-dive)
-- [Example Agent Workflows](/docs/agents/examples)
 
 ---
 
