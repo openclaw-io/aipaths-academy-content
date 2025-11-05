@@ -164,3 +164,4 @@ Now that you understand AI agents:
 ---
 
 **Questions?** Open an [issue](https://github.com/GonzaSab/aipaths-academy-content/issues) or join our community discussions!
+
