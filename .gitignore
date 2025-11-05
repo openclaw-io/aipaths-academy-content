@@ -1,0 +1,30 @@
+# Obsidian
+.obsidian/
+*.md.backup
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+.temp/
+temp/
+
+# Don't track AI context files (they're in parent folder)
+../.ai-context/
