@@ -1,11 +1,15 @@
 ---
-title: "10 Prompt Patterns That Changed My Claude Workflow"
-description: "Discover the proven prompt patterns that transformed how I work with Claude. Real examples from production code, debugging sessions, and daily development."
-author: "AIPaths Academy"
-publishedAt: "2025-11-05"
-tags: ["claude", "prompt-engineering", "productivity", "workflows"]
+title: 10 Prompt Patterns That Changed My Claude Workflow
+description: Discover the proven prompt patterns that transformed how I work with Claude. Real examples from production code, debugging sessions, and daily development.
+author: AIPaths Academy
+publishedAt: 2025-11-05
+tags:
+  - claude
+  - prompt-engineering
+  - productivity
+  - workflows
 readingTime: 12
-published: false
+published: true
 ---
 
 # 10 Prompt Patterns That Changed My Claude Workflow

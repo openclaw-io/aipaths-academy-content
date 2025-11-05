@@ -1,11 +1,15 @@
 ---
-title: "10 Patrones de Prompts Que Cambiaron Mi Flujo de Trabajo con Claude"
-description: "Descubre los patrones de prompts probados que transformaron cómo trabajo con Claude. Ejemplos reales de código de producción, sesiones de depuración y desarrollo diario."
-author: "AIPaths Academy"
-publishedAt: "2025-11-05"
-tags: ["claude", "prompt-engineering", "productividad", "flujos-de-trabajo"]
+title: 10 Patrones de Prompts Que Cambiaron Mi Flujo de Trabajo con Claude
+description: Descubre los patrones de prompts probados que transformaron cómo trabajo con Claude. Ejemplos reales de código de producción, sesiones de depuración y desarrollo diario.
+author: AIPaths Academy
+publishedAt: 2025-11-05
+tags:
+  - claude
+  - prompt-engineering
+  - productividad
+  - flujos-de-trabajo
 readingTime: 12
-published: false
+published: true
 ---
 
 # 10 Patrones de Prompts Que Cambiaron Mi Flujo de Trabajo con Claude

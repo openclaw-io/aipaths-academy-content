@@ -1,11 +1,15 @@
 ---
-title: "5 Essential MCP Servers Every Claude Developer Needs"
-description: "Discover the most useful Model Context Protocol (MCP) servers that will supercharge your Claude workflows and save hours of development time."
-author: "AIPaths Academy"
-publishedAt: "2025-11-05"
-tags: ["mcp", "claude", "productivity", "tools"]
+title: 5 Essential MCP Servers Every Claude Developer Needs
+description: Discover the most useful Model Context Protocol (MCP) servers that will supercharge your Claude workflows and save hours of development time.
+author: AIPaths Academy
+publishedAt: 2025-11-05
+tags:
+  - mcp
+  - claude
+  - productivity
+  - tools
 readingTime: 8
-published: false
+published: true
 ---
 
 # 5 Essential MCP Servers Every Claude Developer Needs
