@@ -8,7 +8,7 @@ tags:
   - optimization
   - beginner
 published: true
-lastUpdated: 2025-10-15
+lastUpdated: 2025-11-05
 author: AIPaths Academy
 ---
 

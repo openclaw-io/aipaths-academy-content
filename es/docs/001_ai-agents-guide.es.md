@@ -7,7 +7,7 @@ tags:
   - beginner
   - context-window
 published: true
-lastUpdated: 2025-01-05
+lastUpdated: 2025-11-05
 author: AIPaths Academy
 ---
 

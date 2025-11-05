@@ -8,7 +8,7 @@ tags:
   - automation
   - beginner
 published: true
-lastUpdated: 2025-01-05
+lastUpdated: 2025-11-04
 author: AIPaths Academy
 ---
 
