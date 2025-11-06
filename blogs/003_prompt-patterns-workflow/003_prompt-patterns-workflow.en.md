@@ -1,6 +1,7 @@
 ---
 title: 10 Prompt Patterns That Changed My Claude Workflow
 description: Discover the proven prompt patterns that transformed how I work with Claude. Real examples from production code, debugging sessions, and daily development.
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/003_prompt-patterns-workflow/hero.jpg"
 author: AIPaths Academy
 publishedAt: 2025-11-05
 tags:

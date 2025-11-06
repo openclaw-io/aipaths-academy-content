@@ -1,6 +1,7 @@
 ---
 title: 10 Patrones de Prompts Que Cambiaron Mi Flujo de Trabajo con Claude
 description: Descubre los patrones de prompts probados que transformaron cómo trabajo con Claude. Ejemplos reales de código de producción, sesiones de depuración y desarrollo diario.
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/003_prompt-patterns-workflow/hero.jpg"
 author: AIPaths Academy
 publishedAt: 2025-11-05
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Claude Code vs Cursor: Which AI Coding Assistant Should You Choose in 2025?"
 description: A comprehensive comparison of Claude Code and Cursor AI from a professional developer who switched from Cursor to Claude. Real experience building production systems.
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/004_claude-code-vs-cursor/hero.jpg"
 author: AIPaths Academy
 publishedAt: 2025-11-05
 tags:
