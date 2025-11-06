@@ -5,10 +5,8 @@ on:
     branches:
       - main
     paths:
-      - 'en/docs/**'
-      - 'es/docs/**'
-      - 'en/blogs/**'
-      - 'es/blogs/**'
+      - 'docs/**'
+      - 'blogs/**'
 
 jobs:
   notify:

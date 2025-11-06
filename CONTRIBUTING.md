@@ -4,24 +4,27 @@ Thank you for your interest in contributing! This repository is designed to be s
 
 ## Repository Structure
 
-This repository uses a simple, language-based structure with numeric prefixes for ordering:
+This repository uses a content-first structure with numeric prefixes for ordering:
 
 ```
-/en/                           # English content
-  /docs/                       # Documentation
-    001_ai-agents-guide.en.md
-    002_claude-context-window.en.md
-    003_superclaude.en.md
-  /blogs/                      # Blog posts
-    001_getting-started-with-claude.en.md
+/blogs/                        # Blog posts
+  /001_getting-started/        # Each post in its own folder
+    001_getting-started.en.md  # English version
+    001_getting-started.es.md  # Spanish version
+  /002_ai-agents/
+    002_ai-agents.en.md
+    002_ai-agents.es.md
 
-/es/                           # Spanish content
-  /docs/                       # Documentation (Spanish versions)
-    001_ai-agents-guide.es.md
+/docs/                         # Documentation
+  /001_ai-agents-guide/        # Each doc in its own folder
+    001_ai-agents-guide.en.md  # English version
+    001_ai-agents-guide.es.md  # Spanish version
+  /002_claude-context-window/
+    002_claude-context-window.en.md
     002_claude-context-window.es.md
+  /003_superclaude/
+    003_superclaude.en.md
     003_superclaude.es.md
-  /blogs/                      # Blog posts (Spanish versions)
-    001_comenzando-con-claude.es.md
 
 /templates/                    # Templates for creating new content
   doc-template.md
@@ -30,13 +33,14 @@ This repository uses a simple, language-based structure with numeric prefixes fo
 
 ### Important Naming Convention
 
-All files use numeric prefixes and language suffixes:
-- **Numeric prefix**: `001_`, `002_`, `003_` - Controls display order
+All content is organized in folders with matching filenames:
+- **Folder name**: `001_title-slug/` - Controls display order and URL
+- **File names**: `001_title-slug.en.md` and `001_title-slug.es.md` - Must match folder name
 - **Language suffix**: `.en.md` (English) or `.es.md` (Spanish)
 
-The filename (without prefix and language suffix) becomes the URL slug:
-- `001_getting-started.en.md` → `/getting-started`
-- `002_ai-agents-guide.es.md` → `/ai-agents-guide`
+The folder name (without prefix) becomes the URL slug:
+- `blogs/001_getting-started/` → `/getting-started`
+- `docs/002_ai-agents-guide/` → `/ai-agents-guide`
 
 ## How to Contribute
 
@@ -53,13 +57,14 @@ The filename (without prefix and language suffix) becomes the URL slug:
 
 **Step 1:** Determine the next number
 
-Check existing files in `/en/docs/` to find the highest number (e.g., if last is `003_`, use `004_`)
+Check existing folders in `/docs/` to find the highest number (e.g., if last is `003_`, use `004_`)
 
-**Step 2:** Copy the template with numeric prefix
+**Step 2:** Create folder and copy template
 
 ```bash
-# If the last file is 003_superclaude.en.md, use 004_
-cp templates/doc-template.md en/docs/004_your-topic.en.md
+# If the last folder is 003_superclaude, use 004_
+mkdir docs/004_your-topic
+cp templates/doc-template.md docs/004_your-topic/004_your-topic.en.md
 ```
 
 **Step 3:** Fill in the frontmatter
@@ -92,8 +97,8 @@ Follow the template structure. Key guidelines:
 **Step 5:** Create Spanish version (optional but encouraged)
 
 ```bash
-# Use the same numeric prefix
-cp en/docs/004_your-topic.en.md es/docs/004_your-topic.es.md
+# Create Spanish version in the same folder
+cp docs/004_your-topic/004_your-topic.en.md docs/004_your-topic/004_your-topic.es.md
 ```
 
 Then translate the content. Don't just use machine translation—review and adjust for natural language.
@@ -103,9 +108,10 @@ Then translate the content. Don't just use machine translation—review and adju
 **Step 1:** Determine the next number and copy the template
 
 ```bash
-# Check existing files in /en/blogs/ for the highest number
-# If the last file is 001_getting-started-with-claude.en.md, use 002_
-cp templates/blog-template.md en/blogs/002_your-post-title.en.md
+# Check existing folders in /blogs/ for the highest number
+# If the last folder is 001_getting-started, use 002_
+mkdir blogs/002_your-post-title
+cp templates/blog-template.md blogs/002_your-post-title/002_your-post-title.en.md
 ```
 
 **Step 2:** Fill in the frontmatter
