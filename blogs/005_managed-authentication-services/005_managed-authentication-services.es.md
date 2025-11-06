@@ -1,12 +1,17 @@
 ---
-title: "Probablemente Estás Perdiendo Tiempo Construyendo Autenticación (Esto es lo que Hacen los Desarrolladores Inteligentes)"
-description: "Deja de reinventar la rueda. Descubre cómo servicios como Supabase y Firebase te permiten agregar autenticación segura a tu app en 15 minutos en lugar de 3 semanas."
-author: "AIPaths Academy"
-publishedAt: "2025-11-06"
-tags: ["beginner", "authentication", "security", "supabase", "firebase", "productivity"]
+title: Probablemente Estás Perdiendo Tiempo Construyendo Autenticación (Esto es lo que Hacen los Desarrolladores Inteligentes)
+description: Deja de reinventar la rueda. Descubre cómo servicios como Supabase y Firebase te permiten agregar autenticación segura a tu app en 15 minutos en lugar de 3 semanas.
+author: AIPaths Academy
+publishedAt: 2025-11-06
+tags:
+  - authentication
+  - security
+  - supabase
+  - firebase
+  - productivity
 readingTime: 8
 published: true
-locale: "es"
+locale: es
 ---
 
 # Probablemente Estás Perdiendo Tiempo Construyendo Autenticación (Esto es lo que Hacen los Desarrolladores Inteligentes)

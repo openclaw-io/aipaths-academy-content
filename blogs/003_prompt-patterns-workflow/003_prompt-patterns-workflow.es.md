@@ -4,7 +4,6 @@ description: Descubre los patrones de prompts probados que transformaron cómo t
 author: AIPaths Academy
 publishedAt: 2025-11-05
 tags:
-  - claude
   - prompt-engineering
   - productivity
   - workflows

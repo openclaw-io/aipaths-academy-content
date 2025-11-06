@@ -9,6 +9,8 @@ tags:
   - composer
   - agent
   - productivity
+  - news
+  - updates
 readingTime: 10
 published: true
 ---
@@ -293,7 +295,7 @@ La mejora "invisible" que sentirás cada día.
 - Nuevo modelo de completado lanzado en 2025
 - Refactorizaciones más inteligentes
 - Mejor conciencia de contexto
-- Rendimiento notablemente más rápido (<500ms típico)
+- Rendimiento notablemente más rápido (menos de 500ms típico)
 
 **Ejemplos Reales:**
 

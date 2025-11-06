@@ -3,9 +3,9 @@ title: Agentes de IA en Claude Code
 description: Aprende cómo funcionan los agentes de IA en Claude Code, por qué son importantes y cómo aprovecharlos efectivamente para tareas complejas
 tags:
   - agents
-  - claude-code
   - beginner
   - context-window
+  - claude
 published: true
 lastUpdated: 2025-11-05
 author: AIPaths Academy

@@ -4,7 +4,6 @@ description: Discover the proven prompt patterns that transformed how I work wit
 author: AIPaths Academy
 publishedAt: 2025-11-05
 tags:
-  - claude
   - prompt-engineering
   - productivity
   - workflows

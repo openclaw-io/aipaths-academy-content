@@ -3,9 +3,9 @@ title: AI Agents in Claude Code
 description: Learn how AI agents work in Claude Code, why they matter, and how to leverage them effectively for complex tasks
 tags:
   - agents
-  - claude-code
   - beginner
   - context-window
+  - claude
 published: true
 lastUpdated: 2025-11-05
 author: AIPaths Academy

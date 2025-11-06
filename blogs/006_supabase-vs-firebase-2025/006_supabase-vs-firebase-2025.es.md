@@ -1,12 +1,19 @@
 ---
 title: "Supabase vs Firebase: ¿Cuál deberías elegir en 2025?"
-description: "Una comparación exhaustiva de un desarrollador que ha usado ambas en producción. Precios reales, experiencias de migración y cuándo brilla cada plataforma."
-author: "AIPaths Academy"
-publishedAt: "2025-11-06"
-tags: ["intermediate", "comparison", "supabase", "firebase", "backend", "database"]
+description: Una comparación exhaustiva de un desarrollador que ha usado ambas en producción. Precios reales, experiencias de migración y cuándo brilla cada plataforma.
+author: AIPaths Academy
+publishedAt: 2025-11-06
+tags:
+  - intermediate
+  - comparison
+  - supabase
+  - firebase
+  - backend
+  - database
+  - authentication
 readingTime: 18
 published: true
-locale: "es"
+locale: es
 ---
 
 # Supabase vs Firebase: ¿Cuál deberías elegir en 2025?

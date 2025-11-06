@@ -4,9 +4,9 @@ description: Learn about SuperClaude, a meta-programming framework that enhances
 tags:
   - superclaude
   - framework
-  - claude-code
   - automation
   - intermediate
+  - claude
 published: true
 lastUpdated: 2025-11-04
 author: AIPaths Academy

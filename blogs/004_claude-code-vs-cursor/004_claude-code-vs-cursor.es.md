@@ -4,11 +4,11 @@ description: Una comparación exhaustiva de Claude Code y Cursor AI desde la per
 author: AIPaths Academy
 publishedAt: 2025-11-05
 tags:
-  - claude-code
   - cursor
   - ai-coding
   - comparison
   - developer-tools
+  - claude
 readingTime: 15
 published: true
 ---

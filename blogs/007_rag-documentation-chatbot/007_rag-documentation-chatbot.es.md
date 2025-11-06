@@ -1,12 +1,17 @@
 ---
-title: "Construye un Chatbot de Documentación con Claude y RAG"
-description: "Aprende a construir un chatbot de documentación listo para producción usando Claude AI y RAG. Tutorial completo con bases de datos vectoriales, embeddings y consejos de despliegue."
-author: "AIPaths Academy"
-publishedAt: "2025-11-06"
-tags: ["intermediate", "claude", "tutorial", "rag", "vector-database", "automation"]
+title: Construye un Chatbot de Documentación con Claude y RAG
+description: Aprende a construir un chatbot de documentación listo para producción usando Claude AI y RAG. Tutorial completo con bases de datos vectoriales, embeddings y consejos de despliegue.
+author: AIPaths Academy
+publishedAt: 2025-11-06
+tags:
+  - claude
+  - tutorial
+  - rag
+  - vector-database
+  - automation
 readingTime: 15
 published: true
-locale: "es"
+locale: es
 ---
 
 # Construye un Chatbot de Documentación con Claude y RAG

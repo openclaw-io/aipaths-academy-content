@@ -1,10 +1,14 @@
 ---
 title: "Building Your First MCP Server: A Complete Guide"
-description: "Learn how to build Model Context Protocol (MCP) servers to extend Claude's capabilities with custom tools and data sources."
-tags: ["mcp", "claude", "model-context-protocol", "tools", "intermediate"]
+description: Learn how to build Model Context Protocol (MCP) servers to extend Claude's capabilities with custom tools and data sources.
+tags:
+  - mcp
+  - claude
+  - tools
+  - intermediate
 published: true
-lastUpdated: "2025-11-05"
-author: "AIPaths Academy"
+lastUpdated: 2025-11-05
+author: AIPaths Academy
 ---
 
 # Building Your First MCP Server: A Complete Guide

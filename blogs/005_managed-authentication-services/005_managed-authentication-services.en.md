@@ -1,12 +1,17 @@
 ---
-title: "You're Probably Wasting Time Building Auth (Here's What Smart Developers Do Instead)"
-description: "Stop reinventing the wheel. Discover how services like Supabase and Firebase let you add secure authentication to your app in 15 minutes instead of 3 weeks."
-author: "AIPaths Academy"
-publishedAt: "2025-11-06"
-tags: ["beginner", "authentication", "security", "supabase", "firebase", "productivity"]
+title: You're Probably Wasting Time Building Auth (Here's What Smart Developers Do Instead)
+description: Stop reinventing the wheel. Discover how services like Supabase and Firebase let you add secure authentication to your app in 15 minutes instead of 3 weeks.
+author: AIPaths Academy
+publishedAt: 2025-11-06
+tags:
+  - authentication
+  - security
+  - supabase
+  - firebase
+  - productivity
 readingTime: 8
 published: true
-locale: "en"
+locale: en
 ---
 
 # You're Probably Wasting Time Building Auth (Here's What Smart Developers Do Instead)
