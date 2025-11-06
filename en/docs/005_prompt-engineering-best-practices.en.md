@@ -5,7 +5,7 @@ tags:
   - claude
   - prompt-engineering
   - best-practices
-  - intermediate
+  - beginner
 published: true
 lastUpdated: 2025-11-05
 author: AIPaths Academy

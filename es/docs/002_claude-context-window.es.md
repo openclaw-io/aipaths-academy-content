@@ -6,7 +6,7 @@ tags:
   - context-window
   - tokens
   - optimization
-  - beginner
+  - principiante
 published: true
 lastUpdated: 2025-11-05
 author: AIPaths Academy
