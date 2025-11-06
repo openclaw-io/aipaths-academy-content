@@ -8,7 +8,7 @@ tags:
   - ai-coding
   - composer
   - agent
-  - productividad
+  - productivity
 readingTime: 10
 published: true
 ---

@@ -7,8 +7,8 @@ tags:
   - claude-code
   - cursor
   - ai-coding
-  - comparacion
-  - herramientas-desarrollo
+  - comparison
+  - developer-tools
 readingTime: 15
 published: true
 ---

@@ -6,8 +6,8 @@ publishedAt: 2025-11-05
 tags:
   - claude
   - prompt-engineering
-  - productividad
-  - flujos-de-trabajo
+  - productivity
+  - workflows
 readingTime: 12
 published: true
 ---

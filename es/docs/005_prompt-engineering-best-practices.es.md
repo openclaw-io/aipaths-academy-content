@@ -4,8 +4,8 @@ description: Domina el arte del prompt engineering con Claude. Aprende técnicas
 tags:
   - claude
   - prompt-engineering
-  - mejores-practicas
-  - principiante
+  - best-practices
+  - beginner
 published: true
 lastUpdated: 2025-11-05
 author: AIPaths Academy

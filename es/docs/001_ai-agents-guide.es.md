@@ -4,8 +4,8 @@ description: Aprende cómo funcionan los agentes de IA en Claude Code, por qué 
 tags:
   - agents
   - claude-code
+  - beginner
   - context-window
-  - principiante
 published: true
 lastUpdated: 2025-11-05
 author: AIPaths Academy

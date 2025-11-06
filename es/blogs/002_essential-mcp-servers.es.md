@@ -6,8 +6,8 @@ publishedAt: 2025-11-05
 tags:
   - mcp
   - claude
-  - productividad
-  - herramientas
+  - productivity
+  - tools
 readingTime: 8
 published: true
 ---
