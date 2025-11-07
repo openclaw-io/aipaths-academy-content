@@ -542,7 +542,7 @@ Usa ejemplos de código con Express.js.
 
 Crea plantillas reutilizables para tareas comunes:
 
-```markdown
+````markdown
 ## Plantilla de Revisión de Código
 Revisa este código en {lenguaje} para {enfoque_específico}:
 
@@ -556,7 +556,7 @@ Destaca:
 3. {área_enfoque_3}
 
 Formato: Tabla con Problema | Severidad | Corrección
-```
+````
 
 **Beneficios:**
 - Ahorra tiempo en tareas repetidas
