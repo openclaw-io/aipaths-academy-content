@@ -966,7 +966,7 @@ git pull origin main
 git stash pop
 ```
 
-### Issue 4: "Merge conflict in &lt;file&gt;"
+### Issue 4: "Merge conflict in file"
 
 **Cause:** Same lines modified in two branches
 
