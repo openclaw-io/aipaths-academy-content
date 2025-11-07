@@ -966,7 +966,7 @@ git pull origin main
 git stash pop
 ```
 
-### Problema 4: "Conflicto de fusión en <archivo>"
+### Problema 4: "Conflicto de fusión en `<archivo>`"
 
 **Causa:** Las mismas líneas modificadas en dos ramas
 

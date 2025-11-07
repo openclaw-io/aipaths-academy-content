@@ -542,7 +542,7 @@ Use code examples with Express.js.
 
 Create reusable templates for common tasks:
 
-```markdown
+````markdown
 ## Code Review Template
 Review this {language} code for {specific_focus}:
 
@@ -556,7 +556,7 @@ Highlight:
 3. {focus_area_3}
 
 Format: Table with Issue | Severity | Fix
-```
+````
 
 **Benefits:**
 - Saves time on repeated tasks
