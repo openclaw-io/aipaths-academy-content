@@ -1,6 +1,6 @@
 ---
 title: "GitHub Fundamentals: A Beginner's Guide to Version Control"
-description: Learn GitHub basics including commits, branches, pull requests, and team collaboration. Complete guide for developers new to version control.
+description: "Learn Git and GitHub from scratch. Complete beginner guide covering repositories, commits, branches, and collaboration workflows."
 tags:
   - beginner
   - github

@@ -108,7 +108,7 @@ Context7 típicamente viene preconfigurado en Claude Code y Claude for Desktop. 
 3. **Combina con Memory**: Almacena patrones comúnmente usados para acceso más rápido
 4. **Verifica Actualidad**: Confirma que Claude está usando docs actuales preguntando por info de versión
 
-## 2. Memory: Dale a Claude Memoria a Largo Plazo
+## 2. Memory: Memoria a Largo Plazo
 
 **Repositorio:** [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)
 

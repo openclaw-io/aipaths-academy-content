@@ -1,6 +1,6 @@
 ---
 title: "Cursor 2.0: La Revolución del Código IA Que Cambia Todo"
-description: Cursor 2.0 introduce Composer, un modelo IA propietario 4x más rápido, además de arquitectura multi-agente con hasta 8 agentes paralelos. Aquí está lo que significa para los desarrolladores.
+description: "Cursor 2.0 cambia las reglas del código con IA. Descubre las nuevas características y cómo transforman el desarrollo diario."
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/001_cursor-2-0-updates/hero.jpg"
 author: AIPaths Academy
 publishedAt: 2025-11-05
@@ -420,7 +420,7 @@ El modelo Composer está **incluido** en tu suscripción. Sin costo adicional po
 
 **Nota:** Todavía puedes usar Claude/GPT-4 cuando sea necesario, sujeto a límites de uso.
 
-## Cambios de Flujo de Trabajo en el Mundo Real
+## Cambios de Flujo de Trabajo Real
 
 ### Cómo Cambió Mi Día
 

@@ -1,6 +1,6 @@
 ---
 title: "Fundamentos de GitHub: Guía para Principiantes sobre Control de Versiones"
-description: Aprende lo básico de GitHub incluyendo commits, ramas, pull requests y colaboración en equipo. Guía completa para desarrolladores nuevos en control de versiones.
+description: "Aprende Git y GitHub desde cero. Guía completa cubriendo repositorios, commits, ramas y flujos de trabajo colaborativos."
 tags:
   - beginner
   - github
@@ -170,7 +170,7 @@ git remote add origin https://github.com/TU_USUARIO/mi-primer-repo.git
 git push -u origin main
 ```
 
-## Entendiendo los Commits: Puntos de Guardado de Tu Proyecto
+## Entendiendo los Commits: Puntos de Guardado
 
 Los commits son la base de Git. Piensa en ellos como "puntos de guardado" en un videojuego—siempre puedes volver a cualquier estado anterior.
 

@@ -115,7 +115,7 @@ await supabase.auth.signInWithOtp({ email: 'user@example.com' })
 
 Your users get a link in their email, click it, and they're in. No passwords to remember, no "forgot password" flows.
 
-## Real-World Example: Adding Auth to an AI Chat App
+## Real-World Example: Adding Auth
 
 Let's say you're building a ChatGPT-style app with Claude. You want users to log in so they can save their conversations.
 

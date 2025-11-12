@@ -1,6 +1,6 @@
 ---
 title: Cómo Elegir tu Stack de Desarrollo de IA en 2025
-description: Un marco de decisión completo para elegir los modelos de IA, herramientas de desarrollo, frameworks, bases de datos y plataformas de despliegue adecuados para tu aplicación de IA en 2025.
+description: "Guía completa para elegir tu stack de desarrollo de IA en 2025. Compara frameworks, bases de datos y herramientas clave para tu proyecto."
 tags:
   - beginner
   - guide
@@ -351,7 +351,7 @@ export default function Chat() {
 
 **Recomendación del Mundo Real**: A menos que tengas razones fuertes en contrario, ve con React. Las herramientas de IA, ejemplos y soporte de la comunidad lo hacen la elección pragmática en 2025.
 
-## Capa 5: Base de Datos y Almacenamiento de Datos
+## Capa 5: Base de Datos y Almacenamiento
 
 Las aplicaciones de IA típicamente necesitan tanto bases de datos tradicionales como bases de datos vectoriales para embeddings.
 

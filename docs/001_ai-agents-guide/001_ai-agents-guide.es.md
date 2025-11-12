@@ -1,6 +1,6 @@
 ---
 title: Agentes de IA en Claude Code
-description: Aprende cómo funcionan los agentes de IA en Claude Code, por qué son importantes y cómo aprovecharlos efectivamente para tareas complejas
+description: "Aprende sobre los Agentes de IA en Claude Code: Explore, Plan y otros. Guía completa para desarrolladores que quieren dominar estas herramientas."
 tags:
   - agents
   - beginner
@@ -74,7 +74,7 @@ Cada tipo de agente tiene capacidades específicas optimizadas para ciertas tare
 | **git-commit-guardian** | Commits seguros, revisar cambios | Comandos de Git, escaneo de seguridad |
 | **playwright-browser-tester** | Pruebas de navegador, depurar aplicaciones web | Playwright, automatización de navegador |
 
-## Tipos de Agentes: Basados en Tareas No en Roles
+## Tipos de Agentes: Basados en Tareas
 
 **Principio importante:** Piensa en *qué necesita hacerse*, no en *quién debería hacerlo*.
 

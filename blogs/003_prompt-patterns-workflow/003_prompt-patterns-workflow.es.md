@@ -1,6 +1,6 @@
 ---
 title: 10 Patrones de Prompts Que Cambiaron Mi Flujo de Trabajo con Claude
-description: Descubre los patrones de prompts probados que transformaron cómo trabajo con Claude. Ejemplos reales de código de producción, sesiones de depuración y desarrollo diario.
+description: "Descubre patrones de prompts probados para Claude. Ejemplos reales de código de producción y sesiones de depuración diarias."
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/003_prompt-patterns-workflow/hero.jpg"
 author: AIPaths Academy
 publishedAt: 2025-11-05
@@ -8,6 +8,8 @@ tags:
   - prompt-engineering
   - productivity
   - workflows
+  - claude
+  - best-practices
 readingTime: 12
 published: true
 ---
@@ -200,7 +202,7 @@ Los roles activan "dominios de conocimiento" específicos y criterios de evaluac
 - Feedback de nivel experto
 - Tareas específicas de dominio
 
-## Patrón 4: El Patrón de Desglose Paso a Paso
+## Patrón 4: Desglose Paso a Paso
 
 **Qué es:** Delinea explícitamente el proceso
 
@@ -626,7 +628,7 @@ Claude entiende prompt engineering y puede ayudarte a crear mejores solicitudes.
 - Cuando estés atascado en cómo preguntar algo
 - Construyendo plantillas de prompts
 
-## Patrón 10: El Patrón de Prompt Guiado por Pruebas
+## Patrón 10: Prompt Guiado por Pruebas
 
 **Qué es:** Define criterios de éxito por adelantado
 

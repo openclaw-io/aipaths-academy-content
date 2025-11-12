@@ -59,7 +59,7 @@ Esta no es una lista teórica de características. Esto es lo que realmente impo
 **La Realidad:**
 Muchos desarrolladores (incluyéndome) **comenzaron con Firebase y migraron a Supabase** a medida que sus apps maduraban. ¿Por qué? Porque la conveniencia de Firebase se convierte en restricción a medida que crecen los requisitos. Pero Firebase aún domina para ciertos casos de uso—y eso está perfectamente bien.
 
-## Mi Viaje: De Fanático de Firebase a Converso de Supabase
+## Mi Viaje: De Firebase a Supabase
 
 ### Por qué comencé con Firebase
 
@@ -170,7 +170,7 @@ const { data, error } = await supabase
 - Arquitectura en la que puedo confiar
 - Estrategia de salida si es necesario (es solo Postgres)
 
-## Arquitectura de Base de Datos: SQL vs NoSQL—Por qué Importa
+## Arquitectura: SQL vs NoSQL—Por qué Importa
 
 Esta es la diferencia fundamental. Todo lo demás fluye de esta decisión.
 
