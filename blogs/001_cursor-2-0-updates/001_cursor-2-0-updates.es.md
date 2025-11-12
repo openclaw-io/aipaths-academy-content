@@ -1,9 +1,9 @@
 ---
 title: "Cursor 2.0: La Revolución del Código IA Que Cambia Todo"
-description: "Cursor 2.0 cambia las reglas del código con IA. Descubre las nuevas características y cómo transforman el desarrollo diario."
-coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/001_cursor-2-0-updates/hero.jpg"
+description: Cursor 2.0 cambia las reglas del código con IA. Descubre las nuevas características y cómo transforman el desarrollo diario.
+coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/001_cursor-2-0-updates/hero.jpg
 author: AIPaths Academy
-publishedAt: 2025-11-05
+publishedAt: 2025-10-25
 tags:
   - cursor
   - ai-coding

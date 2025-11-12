@@ -7,7 +7,7 @@ tags:
   - tools
   - intermediate
 published: true
-lastUpdated: 2025-11-05
+lastUpdated: 2025-10-20
 author: AIPaths Academy
 ---
 

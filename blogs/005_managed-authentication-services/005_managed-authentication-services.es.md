@@ -1,9 +1,9 @@
 ---
 title: Probablemente Estás Perdiendo Tiempo Construyendo Autenticación (Esto es lo que Hacen los Desarrolladores Inteligentes)
-description: "Deja de construir autenticación desde cero. Descubre por qué los servicios gestionados son más rápidos, seguros y rentables."
-coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/005_managed-authentication-services/hero.jpg"
+description: Deja de construir autenticación desde cero. Descubre por qué los servicios gestionados son más rápidos, seguros y rentables.
+coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/005_managed-authentication-services/hero.jpg
 author: AIPaths Academy
-publishedAt: 2025-11-06
+publishedAt: 2025-11-01
 tags:
   - authentication
   - security

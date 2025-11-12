@@ -7,7 +7,7 @@ tags:
   - best-practices
   - beginner
 published: true
-lastUpdated: 2025-11-05
+lastUpdated: 2025-11-02
 author: AIPaths Academy
 ---
 

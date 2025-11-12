@@ -8,7 +8,7 @@ tags:
   - intermediate
   - claude
 published: true
-lastUpdated: 2025-11-04
+lastUpdated: 2025-11-01
 author: AIPaths Academy
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "GitHub Fundamentals: A Beginner's Guide to Version Control"
-description: "Learn Git and GitHub from scratch. Complete beginner guide covering repositories, commits, branches, and collaboration workflows."
+description: Learn Git and GitHub from scratch. Complete beginner guide covering repositories, commits, branches, and collaboration workflows.
 tags:
   - beginner
   - github
@@ -8,7 +8,7 @@ tags:
   - collaboration
 published: true
 locale: en
-lastUpdated: 2025-11-06
+lastUpdated: 2025-10-02
 author: AIPaths Academy
 ---
 

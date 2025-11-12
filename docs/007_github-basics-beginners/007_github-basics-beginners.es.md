@@ -1,6 +1,6 @@
 ---
 title: "Fundamentos de GitHub: Guía para Principiantes sobre Control de Versiones"
-description: "Aprende Git y GitHub desde cero. Guía completa cubriendo repositorios, commits, ramas y flujos de trabajo colaborativos."
+description: Aprende Git y GitHub desde cero. Guía completa cubriendo repositorios, commits, ramas y flujos de trabajo colaborativos.
 tags:
   - beginner
   - github
@@ -8,7 +8,7 @@ tags:
   - collaboration
 published: true
 locale: es
-lastUpdated: 2025-11-06
+lastUpdated: 2025-10-02
 author: AIPaths Academy
 ---
 

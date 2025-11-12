@@ -7,7 +7,7 @@ tags:
   - context-window
   - claude
 published: true
-lastUpdated: 2025-11-05
+lastUpdated: 2025-11-10
 author: AIPaths Academy
 ---
 

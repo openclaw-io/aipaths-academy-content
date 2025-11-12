@@ -1,9 +1,9 @@
 ---
 title: "Supabase vs Firebase: Which Should You Choose in 2025?"
 description: "Supabase vs Firebase in 2025: detailed comparison of features, pricing, and performance. Make the right choice for your project."
-coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/006_supabase-vs-firebase-2025/hero.jpg"
+coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/006_supabase-vs-firebase-2025/hero.jpg
 author: AIPaths Academy
-publishedAt: 2025-11-06
+publishedAt: 2025-11-04
 tags:
   - comparison
   - supabase
