@@ -71,19 +71,49 @@ cp templates/doc-template.md docs/004_your-topic/004_your-topic.en.md
 
 ```yaml
 ---
+# Unique semantic identifier (links EN/ES versions)
+content_id: "docs-your-topic"
+
+# Locale (must match filename: .en.md or .es.md)
+locale: "en"
+
+# SEO & Display
 title: "Your Document Title"
 description: "Brief description (max 160 characters)"
-tags: ["topic1", "topic2", "related-concept"]
-published: true
-lastUpdated: "2025-01-05"
-author: "Your Name"
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-01-05T10:00:00Z"
+updatedAt: "2025-01-05T10:00:00Z"
+
+# Cover image (required for consistency)
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/004_your-topic/hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
+tags:
+  - beginner
+  - claude
+  - tutorial
+  - agents
 ---
 ```
 
 **Important notes about frontmatter:**
-- `tags`: Use descriptive tags for search and organization (no rigid categories!)
-- `published`: Set to `false` for drafts
-- `lastUpdated`: Use ISO date format (YYYY-MM-DD)
+- `content_id`: Unique semantic ID in format `docs-kebab-case` (no numbers!)
+  - Links EN/ES versions together
+  - Must be identical in both language files
+- `locale`: Must match filename extension (`.en.md` → `"en"`, `.es.md` → `"es"`)
+- `tags`: Use canonical lowercase English tags (see tagging guide in CLAUDE.md)
+  - **CRITICAL**: Both EN/ES versions must have IDENTICAL tags
+  - Include one difficulty level: beginner, intermediate, or advanced
+  - 4-8 tags recommended
+- `publishedAt` / `updatedAt`: Use ISO 8601 format (`YYYY-MM-DDTHH:MM:SSZ`)
+  - Both EN/ES versions must have same `publishedAt`
+  - `updatedAt` can differ if translation lags
+- `coverImage`: Always include (use default if needed)
 - `description`: Keep under 160 characters for SEO
 
 **Step 4:** Write your content
@@ -118,15 +148,43 @@ cp templates/blog-template.md blogs/002_your-post-title/002_your-post-title.en.m
 
 ```yaml
 ---
+# Unique semantic identifier (links EN/ES versions)
+content_id: "blogs-your-post-title"
+
+# Locale (must match filename: .en.md or .es.md)
+locale: "en"
+
+# SEO & Display
 title: "Your Engaging Blog Post Title"
 description: "Compelling description (150-160 characters)"
-author: "Your Name"
-publishedAt: "2025-01-05"
-tags: ["topic1", "topic2", "tutorial"]
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-01-05T10:00:00Z"
+updatedAt: "2025-01-05T10:00:00Z"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/002_your-post-title/hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
+tags:
+  - cursor
+  - ai-coding
+  - tutorial
+  - productivity
+
+# Reading time estimate (minutes)
 readingTime: 8
-published: true
 ---
 ```
+
+**Important notes:**
+- `content_id`: Format `blogs-kebab-case` (no numbers), must be identical in EN/ES
+- Blogs do NOT use difficulty tags (beginner/intermediate/advanced)
+- All other fields follow same rules as documentation
 
 **Step 3:** Write engaging content
 
@@ -140,8 +198,11 @@ Blog posts should be:
 
 1. Find the file you want to edit
 2. Make your changes
-3. Update the `lastUpdated` date in frontmatter
-4. Commit with a clear message: `fix: Correct API endpoint in getting-started guide`
+3. Update the `updatedAt` date in frontmatter (use ISO 8601 format)
+4. If editing both EN and ES versions:
+   - Keep `content_id`, `tags`, `publishedAt`, and `coverImage` IDENTICAL
+   - Only translate `title`, `description`, and content body
+5. Commit with a clear message: `fix: Correct API endpoint in getting-started guide`
 
 ## Content Guidelines
 
@@ -510,24 +571,44 @@ When creating content in both languages:
 **Before committing**, always validate your content to catch errors early:
 
 ```bash
-# Validate all content
-npm run validate
+# Validate MDX syntax and structure
+node scripts/validate-content.js
+
+# Validate EN/ES translation consistency
+node scripts/validate-translations.js
 
 # Validate specific file
-npm run validate:file docs/001_my-doc/001_my-doc.en.md
+node scripts/validate-content.js path/to/file.md
 
 # Validate only changed files (git)
-npm run validate:changed
+node scripts/validate-content.js --changed
 ```
 
 ### What Gets Validated
 
+#### Translation Consistency (`validate-translations.js`)
+- ✅ EN and ES versions exist for each `content_id`
+- ✅ Shared fields match between EN/ES:
+  - `content_id` (must be identical)
+  - `tags` (must be identical arrays)
+  - `publishedAt` (must match exactly)
+  - `coverImage` (must match exactly)
+- ✅ `content_id` format is correct (`blogs-*` or `docs-*`)
+- ✅ All required fields are present
+- ✅ `locale` matches filename extension
+
+#### Content Structure (`validate-content.js`)
 The validation script checks for three levels of issues:
 
 #### 🔴 **ERRORS** (Must Fix - Blocks Deployment)
 - **Single H1 heading**: Only document title should be H1
-- **Required frontmatter**: Must have `title`, `description`, `tags`
+- **Required frontmatter**: Must have all required fields:
+  - `content_id`, `locale`, `title`, `description`
+  - `publishedAt`, `updatedAt`, `coverImage`, `tags`
 - **Valid locale**: Filename must end with `.en.md` or `.es.md`
+- **Locale match**: `locale` field must match filename extension
+- **content_id format**: Must be `blogs-*` or `docs-*` (kebab-case, no numbers)
+- **Tags consistency**: EN/ES pairs must have identical tags
 - **MDX syntax**: No unescaped `<`, `>`, `{}` outside code blocks
 - **Code block languages**: No placeholder `[language]` tags
 
@@ -622,12 +703,19 @@ title: "My Doc"
 
 ✅ CORRECT:
 ---
+content_id: "docs-my-doc"
+locale: "en"
 title: "My Doc"
 description: "Clear description under 160 chars"
-tags: ["tag1", "tag2", "tag3", "tag4"]
-published: true
-lastUpdated: "2025-01-12"
-author: "Your Name"
+author: "AIPaths Academy"
+publishedAt: "2025-01-12T10:00:00Z"
+updatedAt: "2025-01-12T10:00:00Z"
+coverImage: "https://..."
+tags:
+  - beginner
+  - claude
+  - tutorial
+  - agents
 ---
 ```
 
