@@ -13,8 +13,8 @@ description: "Una comparación exhaustiva de Claude Code y Cursor AI desde la pe
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-10-27"
-updatedAt: "2025-10-27"
+publishedAt: "2025-10-27T00:00:00Z"
+updatedAt: "2025-10-27T00:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/004_claude-code-vs-cursor/hero.jpg"

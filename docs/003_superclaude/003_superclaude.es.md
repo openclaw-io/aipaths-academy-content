@@ -13,8 +13,8 @@ description: "Aprende sobre SuperClaude, un framework de meta-programación que 
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-11-01"
-updatedAt: "2025-11-01"
+publishedAt: "2025-11-01T00:00:00Z"
+updatedAt: "2025-11-01T00:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"

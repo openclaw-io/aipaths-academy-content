@@ -13,8 +13,8 @@ description: "Construye un chatbot de documentación con Claude y RAG. Tutorial 
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-10-20"
-updatedAt: "2025-10-20"
+publishedAt: "2025-10-20T00:00:00Z"
+updatedAt: "2025-10-20T00:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/007_rag-documentation-chatbot/hero.jpg"

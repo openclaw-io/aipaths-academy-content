@@ -13,8 +13,8 @@ description: "Discover the most useful Model Context Protocol (MCP) servers that
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-10-28"
-updatedAt: "2025-10-28"
+publishedAt: "2025-10-28T00:00:00Z"
+updatedAt: "2025-10-28T00:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/002_essential-mcp-servers/hero.jpg"

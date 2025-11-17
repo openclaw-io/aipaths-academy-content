@@ -13,8 +13,8 @@ description: "Deja de construir autenticación desde cero. Descubre por qué los
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-11-06"
-updatedAt: "2025-11-06"
+publishedAt: "2025-11-06T00:00:00Z"
+updatedAt: "2025-11-06T00:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/005_managed-authentication-services/hero.jpg"

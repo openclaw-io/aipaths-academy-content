@@ -13,8 +13,8 @@ description: "Guía completa para elegir tu stack de desarrollo de IA en 2025. C
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-11-06"
-updatedAt: "2025-11-06"
+publishedAt: "2025-11-06T00:00:00Z"
+updatedAt: "2025-11-06T00:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"

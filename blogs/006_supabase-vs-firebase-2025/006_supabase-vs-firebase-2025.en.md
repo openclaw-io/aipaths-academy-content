@@ -13,8 +13,8 @@ description: "Supabase vs Firebase in 2025: detailed comparison of features, pri
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-11-04"
-updatedAt: "2025-11-04"
+publishedAt: "2025-11-04T00:00:00Z"
+updatedAt: "2025-11-04T00:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/006_supabase-vs-firebase-2025/hero.jpg"

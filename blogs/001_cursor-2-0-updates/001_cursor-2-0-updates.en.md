@@ -13,8 +13,8 @@ description: "Cursor 2.0 introduces Composer, a proprietary 4x faster AI model, 
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-10-25"
-updatedAt: "2025-10-25"
+publishedAt: "2025-10-25T00:00:00Z"
+updatedAt: "2025-10-25T00:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/001_cursor-2-0-updates/hero.jpg"

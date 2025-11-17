@@ -13,8 +13,8 @@ description: "Aprende cómo construir servidores Model Context Protocol (MCP) pa
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-10-20"
-updatedAt: "2025-10-20"
+publishedAt: "2025-10-20T00:00:00Z"
+updatedAt: "2025-10-20T00:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"

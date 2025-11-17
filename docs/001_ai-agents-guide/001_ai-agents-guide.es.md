@@ -13,8 +13,8 @@ description: "Aprende sobre los Agentes de IA en Claude Code: Explore, Plan y ot
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-11-10"
-updatedAt: "2025-11-10"
+publishedAt: "2025-11-10T00:00:00Z"
+updatedAt: "2025-11-10T00:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"
