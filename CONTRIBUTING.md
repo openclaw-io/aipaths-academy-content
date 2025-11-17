@@ -102,7 +102,10 @@ tags:
 ```
 
 **Important notes about frontmatter:**
-- `content_id`: Unique semantic ID in format `docs-kebab-case` (no numbers!)
+- `content_id`: Unique semantic ID in format `docs-kebab-case`
+  - Can include lowercase letters, numbers, and hyphens
+  - Must start with `docs-` prefix
+  - Examples: `docs-ai-agents-guide`, `docs-claude-3-5-sonnet`
   - Links EN/ES versions together
   - Must be identical in both language files
 - `locale`: Must match filename extension (`.en.md` → `"en"`, `.es.md` → `"es"`)
@@ -110,7 +113,9 @@ tags:
   - **CRITICAL**: Both EN/ES versions must have IDENTICAL tags
   - Include one difficulty level: beginner, intermediate, or advanced
   - 4-8 tags recommended
-- `publishedAt` / `updatedAt`: Use ISO 8601 format (`YYYY-MM-DDTHH:MM:SSZ`)
+- `publishedAt` / `updatedAt`: Use ISO 8601 format with time
+  - Format: `"YYYY-MM-DDTHH:MM:SSZ"` (e.g., `"2025-01-15T10:00:00Z"`)
+  - **CRITICAL**: Must include full timestamp (not just date)
   - Both EN/ES versions must have same `publishedAt`
   - `updatedAt` can differ if translation lags
 - `coverImage`: Always include (use default if needed)
@@ -182,8 +187,11 @@ readingTime: 8
 ```
 
 **Important notes:**
-- `content_id`: Format `blogs-kebab-case` (no numbers), must be identical in EN/ES
+- `content_id`: Format `blogs-kebab-case`, must be identical in EN/ES
+  - Can include lowercase letters, numbers, and hyphens
+  - Examples: `blogs-cursor-2-0-updates`, `blogs-supabase-vs-firebase-2025`
 - Blogs do NOT use difficulty tags (beginner/intermediate/advanced)
+- Dates must use full ISO 8601 format with time: `"2025-01-15T10:00:00Z"`
 - All other fields follow same rules as documentation
 
 **Step 3:** Write engaging content
@@ -607,7 +615,7 @@ The validation script checks for three levels of issues:
   - `publishedAt`, `updatedAt`, `coverImage`, `tags`
 - **Valid locale**: Filename must end with `.en.md` or `.es.md`
 - **Locale match**: `locale` field must match filename extension
-- **content_id format**: Must be `blogs-*` or `docs-*` (kebab-case, no numbers)
+- **content_id format**: Must be `blogs-*` or `docs-*` (lowercase, kebab-case, can include numbers)
 - **Tags consistency**: EN/ES pairs must have identical tags
 - **MDX syntax**: No unescaped `<`, `>`, `{}` outside code blocks
 - **Code block languages**: No placeholder `[language]` tags
