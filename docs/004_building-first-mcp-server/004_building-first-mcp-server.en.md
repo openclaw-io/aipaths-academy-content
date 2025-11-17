@@ -1,14 +1,31 @@
 ---
+# Unique semantic identifier (links EN/ES versions)
+content_id: "docs-building-first-mcp-server"
+
+# Locale
+locale: "en"
+
+# SEO & Display
 title: "Building Your First MCP Server: A Complete Guide"
-description: Learn how to build Model Context Protocol (MCP) servers to extend Claude's capabilities with custom tools and data sources.
+description: "Learn how to build Model Context Protocol (MCP) servers to extend Claude's capabilities with custom tools and data sources."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-10-20"
+updatedAt: "2025-10-20"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - mcp
   - claude
   - tools
   - intermediate
-published: true
-lastUpdated: 2025-10-20
-author: AIPaths Academy
 ---
 
 # Building Your First MCP Server: A Complete Guide

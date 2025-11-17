@@ -1,15 +1,31 @@
 ---
+# Unique semantic identifier (links EN/ES versions)
+content_id: "docs-github-basics-beginners"
+
+# Locale
+locale: "es"
+
+# SEO & Display
 title: "Fundamentos de GitHub: Guía para Principiantes sobre Control de Versiones"
-description: Aprende Git y GitHub desde cero. Guía completa cubriendo repositorios, commits, ramas y flujos de trabajo colaborativos.
+description: "Aprende Git y GitHub desde cero. Guía completa cubriendo repositorios, commits, ramas y flujos de trabajo colaborativos."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-10-02"
+updatedAt: "2025-10-02"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - beginner
   - github
   - guide
   - collaboration
-published: true
-locale: es
-lastUpdated: 2025-10-02
-author: AIPaths Academy
 ---
 
 # Fundamentos de GitHub: Guía para Principiantes sobre Control de Versiones

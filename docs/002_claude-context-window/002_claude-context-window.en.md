@@ -1,15 +1,32 @@
 ---
+# Unique semantic identifier (links EN/ES versions)
+content_id: "docs-claude-context-window"
+
+# Locale
+locale: "en"
+
+# SEO & Display
 title: "Claude's Context Window: A Complete Guide"
-description: Learn how Claude's context window works, manage tokens effectively, and optimize costs for your AI applications.
+description: "Learn how Claude's context window works, manage tokens effectively, and optimize costs for your AI applications."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-11-08"
+updatedAt: "2025-11-08"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - claude
   - context-window
   - tokens
   - optimization
   - beginner
-published: true
-lastUpdated: 2025-11-08
-author: AIPaths Academy
 ---
 
 # Understanding Claude's Context Window: A Complete Guide

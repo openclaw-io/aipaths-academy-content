@@ -1,14 +1,31 @@
 ---
-title: AI Agents in Claude Code
-description: Learn how AI agents work in Claude Code, why they matter, and how to leverage them effectively for complex tasks
+# Unique semantic identifier (links EN/ES versions)
+content_id: "docs-ai-agents-guide"
+
+# Locale
+locale: "en"
+
+# SEO & Display
+title: "AI Agents in Claude Code"
+description: "Learn how AI agents work in Claude Code, why they matter, and how to leverage them effectively for complex tasks"
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-11-10"
+updatedAt: "2025-11-10"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - agents
   - beginner
   - context-window
   - claude
-published: true
-lastUpdated: 2025-11-10
-author: AIPaths Academy
 ---
 
 # Understanding AI Agents in Claude Code

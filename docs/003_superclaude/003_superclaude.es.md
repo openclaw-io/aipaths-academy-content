@@ -1,15 +1,32 @@
 ---
-title: Framework SuperClaude
-description: Aprende sobre SuperClaude, un framework de meta-programación que mejora Claude Code con agentes especializados y automatización de flujos de trabajo
+# Unique semantic identifier (links EN/ES versions)
+content_id: "docs-superclaude"
+
+# Locale
+locale: "es"
+
+# SEO & Display
+title: "Framework SuperClaude"
+description: "Aprende sobre SuperClaude, un framework de meta-programación que mejora Claude Code con agentes especializados y automatización de flujos de trabajo"
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-11-01"
+updatedAt: "2025-11-01"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - superclaude
   - framework
   - automation
   - intermediate
   - claude
-published: true
-lastUpdated: 2025-11-01
-author: AIPaths Academy
 ---
 
 # Framework SuperClaude

@@ -1,14 +1,31 @@
 ---
+# Unique semantic identifier (links EN/ES versions)
+content_id: "docs-prompt-engineering-best-practices"
+
+# Locale
+locale: "es"
+
+# SEO & Display
 title: "Prompt Engineering para Claude: Mejores Prácticas"
-description: Domina el arte del prompt engineering con Claude. Aprende técnicas probadas para obtener respuestas mejores, más consistentes y confiables de la IA.
+description: "Domina el arte del prompt engineering con Claude. Aprende técnicas probadas para obtener respuestas mejores, más consistentes y confiables de la IA."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-11-02"
+updatedAt: "2025-11-02"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - claude
   - prompt-engineering
   - best-practices
   - beginner
-published: true
-lastUpdated: 2025-11-02
-author: AIPaths Academy
 ---
 
 # Prompt Engineering para Claude: Mejores Prácticas

@@ -1,14 +1,31 @@
 ---
-title: Agentes de IA en Claude Code
+# Unique semantic identifier (links EN/ES versions)
+content_id: "docs-ai-agents-guide"
+
+# Locale
+locale: "es"
+
+# SEO & Display
+title: "Agentes de IA en Claude Code"
 description: "Aprende sobre los Agentes de IA en Claude Code: Explore, Plan y otros. Guía completa para desarrolladores que quieren dominar estas herramientas."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-11-10"
+updatedAt: "2025-11-10"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - agents
   - beginner
   - context-window
   - claude
-published: true
-lastUpdated: 2025-11-10
-author: AIPaths Academy
 ---
 
 # Comprendiendo los Agentes de IA en Claude Code

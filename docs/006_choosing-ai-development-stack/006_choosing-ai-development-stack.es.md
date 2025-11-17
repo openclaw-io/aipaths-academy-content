@@ -1,6 +1,26 @@
 ---
-title: Cómo Elegir tu Stack de Desarrollo de IA en 2025
+# Unique semantic identifier (links EN/ES versions)
+content_id: "docs-choosing-ai-development-stack"
+
+# Locale
+locale: "es"
+
+# SEO & Display
+title: "Cómo Elegir tu Stack de Desarrollo de IA en 2025"
 description: "Guía completa para elegir tu stack de desarrollo de IA en 2025. Compara frameworks, bases de datos y herramientas clave para tu proyecto."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-11-06"
+updatedAt: "2025-11-06"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - beginner
   - guide
@@ -9,10 +29,6 @@ tags:
   - architecture
   - comparison
   - stack
-published: true
-lastUpdated: 2025-11-06
-author: AIPaths Academy
-locale: "es"
 ---
 
 # Cómo Elegir tu Stack de Desarrollo de IA en 2025

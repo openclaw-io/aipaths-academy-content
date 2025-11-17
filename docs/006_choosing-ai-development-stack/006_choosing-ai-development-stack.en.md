@@ -1,6 +1,26 @@
 ---
-title: How to Pick Your AI Development Stack in 2025
-description: A comprehensive decision framework for choosing the right AI models, development tools, frameworks, databases, and deployment platforms for your AI application in 2025.
+# Unique semantic identifier (links EN/ES versions)
+content_id: "docs-choosing-ai-development-stack"
+
+# Locale
+locale: "en"
+
+# SEO & Display
+title: "How to Pick Your AI Development Stack in 2025"
+description: "A comprehensive decision framework for choosing the right AI models, development tools, frameworks, databases, and deployment platforms for your AI application in 2025."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-11-06"
+updatedAt: "2025-11-06"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - beginner
   - guide
@@ -9,10 +29,6 @@ tags:
   - architecture
   - comparison
   - stack
-published: true
-lastUpdated: 2025-11-06
-author: AIPaths Academy
-locale: "en"
 ---
 
 # How to Pick Your AI Development Stack in 2025

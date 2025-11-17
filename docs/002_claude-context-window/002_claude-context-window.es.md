@@ -1,15 +1,32 @@
 ---
+# Unique semantic identifier (links EN/ES versions)
+content_id: "docs-claude-context-window"
+
+# Locale
+locale: "es"
+
+# SEO & Display
 title: "Ventana de Contexto de Claude: Guía Completa"
-description: Aprende cómo funciona la ventana de contexto de Claude, gestiona tokens efectivamente y optimiza costos para tus aplicaciones de IA.
+description: "Aprende cómo funciona la ventana de contexto de Claude, gestiona tokens efectivamente y optimiza costos para tus aplicaciones de IA."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-11-08"
+updatedAt: "2025-11-08"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - claude
   - context-window
   - tokens
   - optimization
   - beginner
-published: true
-lastUpdated: 2025-11-08
-author: AIPaths Academy
 ---
 
 # Entendiendo la Ventana de Contexto de Claude: Guía Completa
