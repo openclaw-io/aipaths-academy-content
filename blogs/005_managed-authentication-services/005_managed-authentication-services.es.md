@@ -1,18 +1,35 @@
 ---
-title: Probablemente Estás Perdiendo Tiempo Construyendo Autenticación (Esto es lo que Hacen los Desarrolladores Inteligentes)
-description: Deja de construir autenticación desde cero. Descubre por qué los servicios gestionados son más rápidos, seguros y rentables.
-coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/005_managed-authentication-services/hero.jpg
-author: AIPaths Academy
-publishedAt: 2025-11-06
+# Unique semantic identifier (links EN/ES versions)
+content_id: "blogs-managed-authentication-services"
+
+# Locale
+locale: "es"
+
+# SEO & Display
+title: "Probablemente Estás Perdiendo Tiempo Construyendo Autenticación (Esto es lo que Hacen los Desarrolladores Inteligentes)"
+description: "Deja de construir autenticación desde cero. Descubre por qué los servicios gestionados son más rápidos, seguros y rentables."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-11-06"
+updatedAt: "2025-11-06"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/005_managed-authentication-services/hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - authentication
   - security
   - supabase
   - firebase
   - productivity
+
+# Reading time estimate
 readingTime: 8
-published: true
-locale: es
 ---
 
 # Probablemente Estás Perdiendo Tiempo Construyendo Autenticación (Esto es lo que Hacen los Desarrolladores Inteligentes)

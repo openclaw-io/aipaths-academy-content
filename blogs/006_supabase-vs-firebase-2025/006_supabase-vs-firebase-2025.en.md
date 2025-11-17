@@ -1,9 +1,26 @@
 ---
+# Unique semantic identifier (links EN/ES versions)
+content_id: "blogs-supabase-vs-firebase-2025"
+
+# Locale
+locale: "en"
+
+# SEO & Display
 title: "Supabase vs Firebase: Which Should You Choose in 2025?"
 description: "Supabase vs Firebase in 2025: detailed comparison of features, pricing, and performance. Make the right choice for your project."
-coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/006_supabase-vs-firebase-2025/hero.jpg
-author: AIPaths Academy
-publishedAt: 2025-11-04
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-11-04"
+updatedAt: "2025-11-04"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/006_supabase-vs-firebase-2025/hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - comparison
   - supabase
@@ -11,9 +28,9 @@ tags:
   - backend
   - database
   - authentication
+
+# Reading time estimate
 readingTime: 18
-published: true
-locale: en
 ---
 
 # Supabase vs Firebase: Which Should You Choose in 2025?

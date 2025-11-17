@@ -1,20 +1,36 @@
 ---
+# Unique semantic identifier (links EN/ES versions)
+content_id: "blogs-supabase-vs-firebase-2025"
+
+# Locale
+locale: "es"
+
+# SEO & Display
 title: "Supabase vs Firebase: ¿Cuál deberías elegir en 2025?"
-description: Una comparación exhaustiva de un desarrollador que ha usado ambas en producción. Precios reales, experiencias de migración y cuándo brilla cada plataforma.
-coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/006_supabase-vs-firebase-2025/hero.jpg
-author: AIPaths Academy
-publishedAt: 2025-11-04
+description: "Una comparación exhaustiva de un desarrollador que ha usado ambas en producción. Precios reales, experiencias de migración y cuándo brilla cada plataforma."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-11-04"
+updatedAt: "2025-11-04"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/006_supabase-vs-firebase-2025/hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
-  - intermediate
   - comparison
   - supabase
   - firebase
   - backend
   - database
   - authentication
+
+# Reading time estimate
 readingTime: 18
-published: true
-locale: es
 ---
 
 # Supabase vs Firebase: ¿Cuál deberías elegir en 2025?

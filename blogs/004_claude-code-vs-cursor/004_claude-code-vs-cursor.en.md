@@ -1,17 +1,35 @@
 ---
+# Unique semantic identifier (links EN/ES versions)
+content_id: "blogs-claude-code-vs-cursor"
+
+# Locale
+locale: "en"
+
+# SEO & Display
 title: "Claude Code vs Cursor: Which AI Coding Assistant Should You Choose in 2025?"
-description: A comprehensive comparison of Claude Code and Cursor AI from a professional developer who switched from Cursor to Claude. Real experience building production systems.
-coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/004_claude-code-vs-cursor/hero.jpg
-author: AIPaths Academy
-publishedAt: 2025-10-27
+description: "A comprehensive comparison of Claude Code and Cursor AI from a professional developer who switched from Cursor to Claude. Real experience building production systems."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-10-27"
+updatedAt: "2025-10-27"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/004_claude-code-vs-cursor/hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - cursor
   - ai-coding
   - comparison
   - developer-tools
   - claude
+
+# Reading time estimate
 readingTime: 15
-published: true
 ---
 
 # Claude Code vs Cursor: Which AI Coding Assistant Should You Choose in 2025?

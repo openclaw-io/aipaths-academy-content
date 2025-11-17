@@ -1,17 +1,35 @@
 ---
-title: 10 Prompt Patterns That Changed My Claude Workflow
-description: Discover proven prompt patterns for Claude. Real examples from production code, debugging sessions, and daily development workflows.
-coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/003_prompt-patterns-workflow/hero.jpg
-author: AIPaths Academy
-publishedAt: 2025-10-30
+# Unique semantic identifier (links EN/ES versions)
+content_id: "blogs-prompt-patterns-workflow"
+
+# Locale
+locale: "en"
+
+# SEO & Display
+title: "10 Prompt Patterns That Changed My Claude Workflow"
+description: "Discover proven prompt patterns for Claude. Real examples from production code, debugging sessions, and daily development workflows."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-10-30"
+updatedAt: "2025-10-30"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/003_prompt-patterns-workflow/hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - prompt-engineering
   - productivity
   - workflows
   - claude
   - best-practices
+
+# Reading time estimate
 readingTime: 12
-published: true
 ---
 
 # 10 Prompt Patterns That Changed My Claude Workflow

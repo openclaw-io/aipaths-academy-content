@@ -1,9 +1,26 @@
 ---
+# Unique semantic identifier (links EN/ES versions)
+content_id: "blogs-cursor-2-0-updates"
+
+# Locale
+locale: "es"
+
+# SEO & Display
 title: "Cursor 2.0: La Revolución del Código IA Que Cambia Todo"
-description: Cursor 2.0 cambia las reglas del código con IA. Descubre las nuevas características y cómo transforman el desarrollo diario.
-coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/001_cursor-2-0-updates/hero.jpg
-author: AIPaths Academy
-publishedAt: 2025-10-25
+description: "Cursor 2.0 cambia las reglas del código con IA. Descubre las nuevas características y cómo transforman el desarrollo diario."
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format)
+publishedAt: "2025-10-25"
+updatedAt: "2025-10-25"
+
+# Cover image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/001_cursor-2-0-updates/hero.jpg"
+
+# Tags (canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
 tags:
   - cursor
   - ai-coding
@@ -12,8 +29,9 @@ tags:
   - productivity
   - news
   - updates
+
+# Reading time estimate
 readingTime: 10
-published: true
 ---
 
 # Cursor 2.0: La Revolución del Código IA Que Cambia Todo
