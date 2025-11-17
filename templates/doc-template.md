@@ -1,10 +1,33 @@
 ---
+# Unique semantic identifier (links EN/ES versions)
+# Format: docs-kebab-case-title (no numbers)
+content_id: "docs-your-document-title"
+
+# Locale (MUST match file extension: .en.md or .es.md)
+locale: "en"
+
+# SEO & Display
 title: "Your Document Title"
 description: "Brief description (1-2 sentences, max 160 characters)"
-tags: ["tag1", "tag2", "tag3", "tag4"]
-published: true
-lastUpdated: "YYYY-MM-DD"
-author: "Your Name"
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format recommended: YYYY-MM-DDTHH:MM:SSZ)
+publishedAt: "2025-01-15T10:00:00Z"
+updatedAt: "2025-01-15T10:00:00Z"
+
+# Cover image (absolute URL or path)
+# Optional for docs, but include for consistency
+# Can use a category/topic-based default image
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/XXX_folder-name/hero.jpg"
+
+# Tags (4-8 recommended, use canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
+# Include: 1 difficulty level (beginner/intermediate/advanced)
+#          1 primary technology, 1 content type, 1-3 key concepts
+# See TAG_GUIDELINES.md for full list
+tags: ["beginner", "claude", "tutorial", "agents"]
 ---
 
 # Your Document Title

@@ -1,11 +1,33 @@
 ---
+# Unique semantic identifier (links EN/ES versions)
+# Format: blogs-kebab-case-title (no numbers)
+content_id: "blogs-your-blog-title"
+
+# Locale (MUST match file extension: .en.md or .es.md)
+locale: "en"
+
+# SEO & Display
 title: "Your Engaging Blog Post Title"
 description: "Compelling description that makes people want to read (150-160 characters)"
-author: "Your Name"
-publishedAt: "YYYY-MM-DD"
-tags: ["topic1", "topic2", "topic3"]
+
+# Author
+author: "AIPaths Academy"
+
+# Publication dates (ISO 8601 format recommended: YYYY-MM-DDTHH:MM:SSZ)
+publishedAt: "2025-01-15T10:00:00Z"
+updatedAt: "2025-01-15T10:00:00Z"
+
+# Cover image (absolute URL or path)
+# Always include, even if you use a default/placeholder
+coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/XXX_folder-name/hero.jpg"
+
+# Tags (4-8 recommended, use canonical lowercase English IDs)
+# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
+# See TAG_GUIDELINES.md for full list
+tags: ["cursor", "ai-coding", "tutorial", "productivity"]
+
+# Reading time estimate (minutes)
 readingTime: 5
-published: true
 ---
 
 # Your Engaging Blog Post Title
