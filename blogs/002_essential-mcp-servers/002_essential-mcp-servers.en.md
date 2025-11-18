@@ -597,7 +597,7 @@ Ready to supercharge your Claude setup?
 - [Model Context Protocol Specification](https://spec.modelcontextprotocol.io/)
 - [Official MCP Servers](https://github.com/modelcontextprotocol/servers)
 - [MCP Inspector Tool](https://github.com/modelcontextprotocol/inspector)
-- [Building Your First MCP Server Guide](#) *(link to doc 004)*
+- [Building Your First MCP Server Guide](https://www.aipaths.academy/en/docs/building-first-mcp-server)
 - [Claude for Desktop Documentation](https://claude.ai/download)
 - [Playwright Documentation](https://playwright.dev/)
 

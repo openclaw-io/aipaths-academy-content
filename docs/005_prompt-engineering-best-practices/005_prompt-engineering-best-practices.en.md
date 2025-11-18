@@ -806,9 +806,9 @@ Then synthesize the best overall solution.
 - [Claude Examples Library](https://docs.anthropic.com/claude/docs/examples)
 
 ### Related Guides
-- [Claude's Context Window Guide](#) *(link to doc 002)*
-- [Building MCP Servers](#) *(link to doc 004)*
-- [AI Agents in Claude Code](#) *(link to doc 001)*
+- [Claude's Context Window Guide](https://www.aipaths.academy/en/docs/claude-context-window)
+- [Building MCP Servers](https://www.aipaths.academy/en/docs/building-first-mcp-server)
+- [AI Agents in Claude Code](https://www.aipaths.academy/en/docs/ai-agents-guide)
 
 ---
 

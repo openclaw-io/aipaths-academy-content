@@ -806,9 +806,9 @@ Luego sintetiza la mejor solución general.
 - [Biblioteca de Ejemplos de Claude](https://docs.anthropic.com/claude/docs/examples)
 
 ### Guías Relacionadas
-- [Guía de Ventana de Contexto de Claude](#) *(enlace a doc 002)*
-- [Construyendo Servidores MCP](#) *(enlace a doc 004)*
-- [Agentes de IA en Claude Code](#) *(enlace a doc 001)*
+- [Guía de Ventana de Contexto de Claude](https://www.aipaths.academy/es/docs/claude-context-window)
+- [Construyendo Servidores MCP](https://www.aipaths.academy/es/docs/building-first-mcp-server)
+- [Agentes de IA en Claude Code](https://www.aipaths.academy/es/docs/ai-agents-guide)
 
 ---
 
