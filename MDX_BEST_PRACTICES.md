@@ -109,13 +109,107 @@ OR
 | Nested ` ``` ` | Inside code blocks | Use more backticks: ` ```` ` for outer fence |
 | `<`, `>` | In regular text/headings | Use `&lt;`, `&gt;` or backticks |
 
+## Critical Frontmatter Rules
+
+### 1. Frontmatter Delimiters
+
+**Problem:** Missing or incorrect `---` delimiters cause MDX parsing failures.
+
+```yaml
+❌ WRONG - No closing delimiter:
+---
+title: "My Title"
+tags:
+  - tag1
+  - tag2
+
+# Content starts here
+
+✅ CORRECT:
+---
+title: "My Title"
+tags:
+  - tag1
+  - tag2
+---
+
+# Content starts here
+```
+
+**Rules:**
+- Must have opening `---` on line 1
+- Must have closing `---` after all frontmatter fields
+- **NO blank lines** between last field and closing `---`
+- Must have blank line after closing `---` before content
+
+### 2. No Custom Heading Anchors
+
+**Problem:** The `{#anchor-id}` syntax is NOT supported by our MDX parser.
+
+```markdown
+❌ WRONG:
+## Why Niche Selection Matters {#why-niche-selection-matters}
+
+✅ CORRECT:
+## Why Niche Selection Matters
+```
+
+**Why:** Curly braces in headings are interpreted as JSX expressions, causing rendering errors.
+
+## Code Block Requirements
+
+### 1. All Code Blocks MUST Have Language
+
+**Problem:** Empty code fences (` ``` `) without language cause MDX errors.
+
+```markdown
+❌ WRONG:
+```
+Your content here
+```
+
+✅ CORRECT:
+```text
+Your content here
+```
+```
+
+**Common languages:**
+- `text` - Plain text, ASCII art, diagrams
+- `typescript`, `javascript` - Code examples
+- `bash` - Shell commands
+- `json`, `yaml` - Config files
+- `markdown` - Markdown examples
+
+### 2. Closing Fences Must Be Plain
+
+**Problem:** Closing fences with language specifications break code blocks.
+
+```markdown
+❌ WRONG:
+```text
+Content here
+```text
+
+✅ CORRECT:
+```text
+Content here
+```
+```
+
+**Rule:** Opening fence gets language (` ```text `), closing fence is always plain (` ``` `).
+
 ## Testing Your MDX
 
 Before committing, always:
 
-1. **Preview locally**: Run `npm run dev` and check the page renders without errors
-2. **Check console**: Look for MDX compilation errors in browser console
-3. **Test both locales**: If you have Spanish and English versions, test both
+1. **Validate frontmatter**: Check for closing `---` and no extra blank lines
+2. **Check code blocks**: Ensure all have languages, closing fences are plain
+3. **Remove custom anchors**: No `{#anchor-id}` syntax in headings
+4. **Run validation script**: `node scripts/validate-content.js`
+5. **Preview locally**: Run `npm run dev` and check the page renders without errors
+6. **Check console**: Look for MDX compilation errors in browser console
+7. **Test both locales**: If you have Spanish and English versions, test both
 
 ## Common Error Messages
 
@@ -130,6 +224,48 @@ Before committing, always:
 ### "Unexpected token" or "Cannot parse"
 - **Cause**: Syntax conflict with JSX parser
 - **Fix**: Review special characters and escape as needed
+
+### "React Error #419" or "Server Components render error"
+- **Cause**: MDX compilation failure due to:
+  - Missing closing `---` in frontmatter
+  - Blank line before closing `---`
+  - Custom heading anchors `{#id}`
+  - Code blocks without language
+  - Malformed closing code fences
+- **Fix**: Run through the checklist below
+
+## Pre-Publish Checklist
+
+Before publishing ANY new content, verify:
+
+### Frontmatter ✓
+- [ ] Opening `---` on line 1
+- [ ] Closing `---` present after all fields
+- [ ] NO blank line between last field and closing `---`
+- [ ] Blank line after closing `---` before content
+- [ ] All required fields present (content_id, locale, title, description, author, dates, coverImage, tags)
+
+### Code Blocks ✓
+- [ ] All code blocks have language specified (```text, ```typescript, etc.)
+- [ ] Closing fences are plain ``` (no language)
+- [ ] No nested code blocks without 4 backticks
+
+### Headings ✓
+- [ ] NO custom anchor IDs like `{#anchor-id}`
+- [ ] Single H1 only (document title)
+- [ ] Proper heading hierarchy (H2, H3, etc.)
+
+### Special Characters ✓
+- [ ] `<` and `>` escaped or in backticks when not HTML
+- [ ] Curly braces `{}` in backticks when not JSX
+- [ ] Comparison operators escaped: `&lt;` `&gt;`
+
+### Validation ✓
+- [ ] Run `node scripts/validate-content.js` - no errors
+- [ ] Run `node scripts/validate-translations.js` - passes
+- [ ] Local preview works: `npm run dev`
+- [ ] Check browser console for errors
+- [ ] Test both EN and ES versions if bilingual
 
 ## See Also
 
