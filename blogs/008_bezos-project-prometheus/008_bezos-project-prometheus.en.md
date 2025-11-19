@@ -1,33 +1,17 @@
 ---
-# Unique semantic identifier (links EN/ES versions)
-content_id: "blogs-bezos-project-prometheus"
-
-# Locale (must match filename: .en.md or .es.md)
-locale: "en"
-
-# SEO & Display
+content_id: blogs-bezos-project-prometheus
+locale: en
 title: "Jeff Bezos Returns as CEO: Launching Project Prometheus, a $6.2B AI Startup for the Physical Economy"
-description: "Amazon founder Jeff Bezos makes his return to operational leadership as co-CEO of Project Prometheus, a new AI venture focused on engineering and manufacturing with $6.2 billion in funding."
-
-# Author
-author: "AIPaths Academy"
-
-# Publication dates (ISO 8601 format)
-publishedAt: "2025-11-19T10:00:00Z"
-updatedAt: "2025-11-19T10:00:00Z"
-
-# Cover image
-coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/008_bezos-project-prometheus/hero.jpg"
-
-# Tags (canonical lowercase English IDs)
-# IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
+description: Amazon founder Jeff Bezos makes his return to operational leadership as co-CEO of Project Prometheus, a new AI venture focused on engineering and manufacturing with $6.2 billion in funding.
+author: AIPaths Academy
+publishedAt: 2025-11-19T10:00:00Z
+updatedAt: 2025-11-19T10:00:00Z
+coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/008_bezos-project-prometheus/hero.jpg
 tags:
   - ai
   - news
   - industry
   - business
-
-# Reading time estimate (minutes)
 readingTime: 5
 ---
 
