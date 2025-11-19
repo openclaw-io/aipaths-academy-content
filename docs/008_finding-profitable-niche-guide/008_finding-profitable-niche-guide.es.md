@@ -27,7 +27,6 @@ tags:
   - productivity
   - business
   - solopreneurs
-
 ---
 
 # Encontrando Tu Nicho Rentable: Una Guía Basada en Datos para Solopreneurs de IA
