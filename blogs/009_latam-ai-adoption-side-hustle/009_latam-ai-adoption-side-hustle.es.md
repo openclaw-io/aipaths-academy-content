@@ -4,8 +4,8 @@ locale: es
 title: "El 43% de las Empresas Latinoamericanas Están Usando IA: Cómo Puedes Aprovechar Esta Oportunidad de $300B"
 description: Descubre cómo la masiva ola de adopción de IA en Latinoamérica está creando oportunidades sin precedentes para desarrolladores y emprendedores en solitario en 2025.
 author: AIPaths Academy
-publishedAt: 2025-01-19T10:00:00Z
-updatedAt: 2025-01-19T10:00:00Z
+publishedAt: 2025-11-20T10:00:00Z
+updatedAt: 2025-11-20T10:00:00Z
 coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/009_latam-ai-adoption-side-hustle/hero.jpg
 tags:
   - ai-agents

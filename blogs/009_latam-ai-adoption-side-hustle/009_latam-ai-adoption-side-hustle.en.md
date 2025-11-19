@@ -4,8 +4,8 @@ locale: en
 title: "43% of Latin American Companies Are Using AI: Here's How You Can Profit From This $300B Opportunity"
 description: Discover how the massive AI adoption wave in Latin America is creating unprecedented side hustle opportunities for developers and solopreneurs in 2025.
 author: AIPaths Academy
-publishedAt: 2025-01-19T10:00:00Z
-updatedAt: 2025-01-19T10:00:00Z
+publishedAt: 2025-11-20T10:00:00Z
+updatedAt: 2025-11-20T10:00:00Z
 coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/009_latam-ai-adoption-side-hustle/hero.jpg
 tags:
   - ai-agents
