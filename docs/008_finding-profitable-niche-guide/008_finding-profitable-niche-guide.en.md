@@ -28,6 +28,7 @@ tags:
   - business
   - solopreneurs
 
+---
 
 # Finding Your Profitable Niche: A Data-Driven Guide for AI Solopreneurs
 
