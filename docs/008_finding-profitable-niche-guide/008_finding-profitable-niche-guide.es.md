@@ -136,7 +136,7 @@ Usa este framework probado para identificar tu nicho ideal sistemáticamente.
 
 Tu nicho ideal vive en la intersección de tres círculos:
 
-```
+```text
         ┌─────────────┐
         │  Tus        │
         │  Habilidades│
@@ -155,7 +155,7 @@ Tu nicho ideal vive en la intersección de tres círculos:
 │ del    │         │  y        │
 │ Mercado│         │  Red      │
 └────────┘         └───────────┘
-```
+```text
 
 **1. Tus Habilidades e Intereses**
 - ¿Qué habilidades técnicas tienes? (Python, n8n, API de Claude, web scraping, etc.)
@@ -493,7 +493,7 @@ Construye una landing page simple y dirige tráfico para validar demanda.
 
 **Estructura de ejemplo:**
 
-```
+```text
 [Tu Propuesta de Valor Única]
 Titular: "Automatiza la Calificación de Leads para Agencias Inmobiliarias de LATAM en 2 Minutos"
 
@@ -511,7 +511,7 @@ Titular: "Automatiza la Calificación de Leads para Agencias Inmobiliarias de LA
 
 [CTA]
 "Obtener Acceso Anticipado" → Registro de email
-```
+```text
 
 **Cómo dirigir tráfico:**
 
@@ -580,7 +580,7 @@ La validación definitiva: Conseguir que los clientes paguen antes de construir.
 
 **Script de pre-venta (DM o mensaje de outreach):**
 
-```
+```text
 Asunto: [Su Nombre] - Vi tu publicación sobre [punto de dolor]
 
 Hola [Nombre],
@@ -595,7 +595,7 @@ Estoy abriendo 3 espacios para un programa piloto este mes. ¿Estarías abierto 
 
 [Tu Nombre]
 [Link a calendario]
-```
+```text
 
 **Métricas de éxito:**
 - **10 conversaciones** → 2-3 pilotos firmados = validado
@@ -659,12 +659,12 @@ Usa estas plantillas para crear tu posicionamiento de nicho.
 ### Plantilla 1: La Frase de Una Línea
 
 **Formato:**
-```
+```text
 Ayudo a [audiencia específica]
 lograr [resultado específico]
 mediante [tu método único]
 para que puedan [beneficio último].
-```
+```text
 
 **Ejemplos:**
 
@@ -686,7 +686,7 @@ para que puedan [beneficio último].
 ### Plantilla 2: El ICP (Perfil de Cliente Ideal)
 
 **Formato:**
-```
+```text
 Industria: [Industria específica]
 Tamaño de Empresa: [Ingresos o número de empleados]
 Rol: [Título del tomador de decisiones]
@@ -694,11 +694,11 @@ Ubicación: [Región geográfica]
 Situación Actual: [Su status quo]
 Evento Disparador: [Lo que los hace listos para comprar]
 Presupuesto: [Lo que pueden pagar]
-```
+```text
 
 **Ejemplo: Agencia Inmobiliaria LATAM**
 
-```
+```text
 Industria: Bienes Raíces Residenciales
 Tamaño de Empresa: 5-20 agentes, ingresos anuales de $500K-$5M
 Rol: Dueño de Agencia o Director de Ventas
@@ -706,11 +706,11 @@ Ubicación: México, Argentina, Colombia
 Situación Actual: Usando WhatsApp + hojas de cálculo para gestión de leads
 Evento Disparador: Recientemente expandió equipo o experimentando desborde de leads
 Presupuesto: $1000-$3000/mes para herramientas y automatización
-```
+```text
 
 **Ejemplo: Tienda E-commerce**
 
-```
+```text
 Industria: E-commerce Directo al Consumidor
 Tamaño de Empresa: Ingresos de $50K-$500K/mes, 1-5 empleados
 Rol: Fundador/Dueño
@@ -718,12 +718,12 @@ Ubicación: EE.UU. o Europa, vendiendo globalmente
 Situación Actual: Usando Shopify + Klaviyo, servicio al cliente manual
 Evento Disparador: Tasa de abandono de carrito sobre 70%, gastando 10+ horas/semana en soporte
 Presupuesto: $500-$2000/mes para herramientas que aumenten ingresos directamente
-```
+```text
 
 ### Plantilla 3: La Declaración de Posicionamiento
 
 **Formato:**
-```
+```text
 Para [cliente objetivo]
 que [declaración de necesidad/oportunidad],
 nuestro [nombre de producto/servicio]
@@ -732,11 +732,11 @@ que [declaración de beneficio clave - razón convincente para comprar].
 
 A diferencia de [alternativa competitiva principal],
 nosotros [declaración de diferenciación principal].
-```
+```text
 
 **Ejemplo:**
 
-```
+```text
 Para agencias inmobiliarias de LATAM
 que están perdiendo negocios debido a tiempos de respuesta lentos a leads,
 AIPaths Lead Qualifier
@@ -745,7 +745,7 @@ que califica leads en menos de 2 minutos 24/7.
 
 A diferencia de chatbots genéricos que frustran a clientes con respuestas robóticas,
 nosotros construimos agentes con Claude personalizados entrenados específicamente en tus listados de propiedades y proceso de ventas.
-```
+```text
 
 ### Plantilla 4: La Matriz de Especialización
 
