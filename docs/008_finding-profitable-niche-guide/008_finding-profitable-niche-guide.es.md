@@ -59,7 +59,7 @@ Esta guía te mostrará exactamente cómo encontrar, validar y dominar un nicho 
 
 ---
 
-## Por Qué la Selección de Nicho Importa Más Que Nunca {#why-niche-selection-matters}
+## Por Qué la Selección de Nicho Importa Más Que Nunca
 
 ### Las Riquezas Están en los Nichos
 
@@ -128,7 +128,7 @@ Según [investigaciones recientes](https://medium.com/@moneytent/the-1-ai-automa
 
 ---
 
-## El Framework de Selección de Nicho {#niche-selection-framework}
+## El Framework de Selección de Nicho
 
 Usa este framework probado para identificar tu nicho ideal sistemáticamente.
 
@@ -202,7 +202,7 @@ Responde estas cuatro preguntas para definir tu nicho:
 
 ---
 
-## Herramientas y Técnicas de Investigación de Mercado {#market-research-tools}
+## Herramientas y Técnicas de Investigación de Mercado
 
 No adivines tu nicho - valídalo con datos.
 
@@ -399,7 +399,7 @@ Si estás bootstrapping, aquí está tu kit de herramientas de investigación gr
 
 ---
 
-## El Proceso de Validación de 5 Pasos {#validation-process}
+## El Proceso de Validación de 5 Pasos
 
 **Nunca construyas antes de validar.** Esta es la lección más importante.
 
@@ -652,7 +652,7 @@ Deberías hacer lo mismo. [Lee más sobre este enfoque en nuestra guía de filos
 
 ---
 
-## Plantillas de Definición de Nicho {#niche-templates}
+## Plantillas de Definición de Nicho
 
 Usa estas plantillas para crear tu posicionamiento de nicho.
 
@@ -773,7 +773,7 @@ Completa esto para asegurar que tu nicho sea lo suficientemente específico:
 
 ---
 
-## Errores Comunes a Evitar {#common-mistakes}
+## Errores Comunes a Evitar
 
 Aprende de los fallos de otros.
 
@@ -963,7 +963,7 @@ Usa Google Trends y reportes de industria para asegurar crecimiento.
 
 ---
 
-## Ejemplos Reales: Nichos de IA Exitosos {#real-examples}
+## Ejemplos Reales: Nichos de IA Exitosos
 
 Aprende de solopreneurs que lo hicieron bien.
 

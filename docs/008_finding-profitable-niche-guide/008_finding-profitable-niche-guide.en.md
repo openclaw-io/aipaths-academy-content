@@ -59,7 +59,7 @@ This guide will show you exactly how to find, validate, and dominate a profitabl
 
 ---
 
-## Why Niche Selection Matters More Than Ever {#why-niche-selection-matters}
+## Why Niche Selection Matters More Than Ever
 
 ### The Riches Are in the Niches
 
@@ -128,7 +128,7 @@ The key? They picked ONE industry and became the go-to expert.
 
 ---
 
-## The Niche Selection Framework {#niche-selection-framework}
+## The Niche Selection Framework
 
 Use this proven framework to identify your ideal niche systematically.
 
@@ -202,7 +202,7 @@ What are you NOT doing?
 
 ---
 
-## Market Research Tools and Techniques {#market-research-tools}
+## Market Research Tools and Techniques
 
 Don't guess your niche - validate it with data.
 
@@ -399,7 +399,7 @@ If you're bootstrapping, here's your free research toolkit:
 
 ---
 
-## The 5-Step Validation Process {#validation-process}
+## The 5-Step Validation Process
 
 **Never build before validating.** This is the single most important lesson.
 
@@ -652,7 +652,7 @@ You should do the same. [Read more about this approach in our launch philosophy 
 
 ---
 
-## Niche Definition Templates {#niche-templates}
+## Niche Definition Templates
 
 Use these templates to craft your niche positioning.
 
@@ -773,7 +773,7 @@ Fill this out to ensure your niche is specific enough:
 
 ---
 
-## Common Mistakes to Avoid {#common-mistakes}
+## Common Mistakes to Avoid
 
 Learn from others' failures.
 
@@ -963,7 +963,7 @@ Use Google Trends and industry reports to ensure growth.
 
 ---
 
-## Real Examples: Successful AI Niches {#real-examples}
+## Real Examples: Successful AI Niches
 
 Learn from solopreneurs who got it right.
 
