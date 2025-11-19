@@ -13,8 +13,8 @@ description: "El fundador de Amazon, Jeff Bezos, regresa al liderazgo operativo 
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-01-19T10:00:00Z"
-updatedAt: "2025-01-19T10:00:00Z"
+publishedAt: "2025-11-19T10:00:00Z"
+updatedAt: "2025-11-19T10:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/008_bezos-project-prometheus/hero.jpg"
