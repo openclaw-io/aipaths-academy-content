@@ -155,7 +155,7 @@ Your ideal niche lives at the intersection of three circles:
 │ Demand │         │  &        │
 │        │         │  Network  │
 └────────┘         └───────────┘
-```text
+```
 
 **1. Your Skills & Interests**
 - What technical skills do you have? (Python, n8n, Claude API, web scraping, etc.)
@@ -511,7 +511,7 @@ Headline: "Automate Lead Qualification for LATAM Real Estate Agencies in 2 Minut
 
 [CTA]
 "Get Early Access" → Email signup
-```text
+```
 
 **How to drive traffic:**
 
@@ -595,7 +595,7 @@ I'm opening up 3 spots for a pilot program this month. Would you be open to a 15
 
 [Your Name]
 [Link to calendar]
-```text
+```
 
 **Success metrics:**
 - **10 conversations** → 2-3 pilots signed = validated
@@ -664,7 +664,7 @@ I help [specific audience]
 achieve [specific outcome]
 by [your unique method]
 so they can [ultimate benefit].
-```text
+```
 
 **Examples:**
 
@@ -694,7 +694,7 @@ Location: [Geographic region]
 Current Situation: [Their status quo]
 Trigger Event: [What makes them ready to buy]
 Budget: [What they can afford]
-```text
+```
 
 **Example: LATAM Real Estate Agency**
 
@@ -706,7 +706,7 @@ Location: Mexico, Argentina, Colombia
 Current Situation: Using WhatsApp + spreadsheets for lead management
 Trigger Event: Recently expanded team or experiencing lead overflow
 Budget: $1000-$3000/month for tools and automation
-```text
+```
 
 **Example: E-commerce Store**
 
@@ -718,7 +718,7 @@ Location: US or Europe, selling globally
 Current Situation: Using Shopify + Klaviyo, manual customer service
 Trigger Event: Cart abandonment rate above 70%, spending 10+ hours/week on support
 Budget: $500-$2000/month for tools that directly increase revenue
-```text
+```
 
 ### Template 3: The Positioning Statement
 
@@ -732,7 +732,7 @@ that [statement of key benefit - compelling reason to buy].
 
 Unlike [primary competitive alternative],
 we [statement of primary differentiation].
-```text
+```
 
 **Example:**
 
@@ -745,7 +745,7 @@ that qualifies leads in under 2 minutes 24/7.
 
 Unlike generic chatbots that frustrate customers with robotic responses,
 we build custom Claude-powered agents trained specifically on your property listings and sales process.
-```text
+```
 
 ### Template 4: The Specialization Matrix
 

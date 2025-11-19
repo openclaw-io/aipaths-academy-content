@@ -155,7 +155,7 @@ Tu nicho ideal vive en la intersección de tres círculos:
 │ del    │         │  y        │
 │ Mercado│         │  Red      │
 └────────┘         └───────────┘
-```text
+```
 
 **1. Tus Habilidades e Intereses**
 - ¿Qué habilidades técnicas tienes? (Python, n8n, API de Claude, web scraping, etc.)
@@ -511,7 +511,7 @@ Titular: "Automatiza la Calificación de Leads para Agencias Inmobiliarias de LA
 
 [CTA]
 "Obtener Acceso Anticipado" → Registro de email
-```text
+```
 
 **Cómo dirigir tráfico:**
 
@@ -595,7 +595,7 @@ Estoy abriendo 3 espacios para un programa piloto este mes. ¿Estarías abierto 
 
 [Tu Nombre]
 [Link a calendario]
-```text
+```
 
 **Métricas de éxito:**
 - **10 conversaciones** → 2-3 pilotos firmados = validado
@@ -664,7 +664,7 @@ Ayudo a [audiencia específica]
 lograr [resultado específico]
 mediante [tu método único]
 para que puedan [beneficio último].
-```text
+```
 
 **Ejemplos:**
 
@@ -694,7 +694,7 @@ Ubicación: [Región geográfica]
 Situación Actual: [Su status quo]
 Evento Disparador: [Lo que los hace listos para comprar]
 Presupuesto: [Lo que pueden pagar]
-```text
+```
 
 **Ejemplo: Agencia Inmobiliaria LATAM**
 
@@ -706,7 +706,7 @@ Ubicación: México, Argentina, Colombia
 Situación Actual: Usando WhatsApp + hojas de cálculo para gestión de leads
 Evento Disparador: Recientemente expandió equipo o experimentando desborde de leads
 Presupuesto: $1000-$3000/mes para herramientas y automatización
-```text
+```
 
 **Ejemplo: Tienda E-commerce**
 
@@ -718,7 +718,7 @@ Ubicación: EE.UU. o Europa, vendiendo globalmente
 Situación Actual: Usando Shopify + Klaviyo, servicio al cliente manual
 Evento Disparador: Tasa de abandono de carrito sobre 70%, gastando 10+ horas/semana en soporte
 Presupuesto: $500-$2000/mes para herramientas que aumenten ingresos directamente
-```text
+```
 
 ### Plantilla 3: La Declaración de Posicionamiento
 
@@ -732,7 +732,7 @@ que [declaración de beneficio clave - razón convincente para comprar].
 
 A diferencia de [alternativa competitiva principal],
 nosotros [declaración de diferenciación principal].
-```text
+```
 
 **Ejemplo:**
 
@@ -745,7 +745,7 @@ que califica leads en menos de 2 minutos 24/7.
 
 A diferencia de chatbots genéricos que frustran a clientes con respuestas robóticas,
 nosotros construimos agentes con Claude personalizados entrenados específicamente en tus listados de propiedades y proceso de ventas.
-```text
+```
 
 ### Plantilla 4: La Matriz de Especialización
 
