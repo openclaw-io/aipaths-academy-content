@@ -1,37 +1,22 @@
 ---
-# Unique semantic identifier (links EN/ES versions)
-content_id: "blogs-gemini-3-antigravity-announcement"
-
-# Locale (must match filename: .en.md or .es.md)
-locale: "en"
-
-# SEO & Display
+content_id: blogs-gemini-3-antigravity-announcement
+locale: en
 title: "Gemini 3 and Antigravity: Google's Bold Move to Dominate AI Development"
-description: "Google launches Gemini 3 with record-breaking benchmarks and Antigravity, a VS Code fork for agentic coding. Here's what developers need to know."
-
-# Author
-author: "AIPaths Academy"
-
-# Publication dates (ISO 8601 format)
-publishedAt: "2025-11-24T10:00:00Z"
-updatedAt: "2025-11-24T10:00:00Z"
-
-# Cover image
-coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/010_gemini-3-antigravity-announcement/hero.jpg"
-
-# Tags (canonical lowercase English IDs)
+description: Google launches Gemini 3 with record-breaking benchmarks and Antigravity, a VS Code fork for agentic coding. Here's what developers need to know.
+author: AIPaths Academy
+publishedAt: 2025-11-24T10:00:00Z
+updatedAt: 2025-11-24T10:00:00Z
+coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/010_gemini-3-antigravity-announcement/hero.jpg
 tags:
   - ai
   - news
   - gemini
   - developer-tools
-  - ai-agents
-
-# Reading time estimate (minutes)
+  - antigravity
 readingTime: 6
 ---
 
-On November 18, 2025, Google made two significant announcements that signal a major escalation in the AI arms race: **Gemini 3**, their most advanced AI model yet, and **Antigravity**, a new AI-powered development platform designed to compete directly with tools like Cursor and Windsurf.
+On late November, 2025, Google made two significant announcements that signal a major escalation in the AI arms race: **Gemini 3**, their most advanced AI model yet, and **Antigravity**, a new AI-powered development platform designed to compete directly with tools like Cursor and Windsurf.
 
 If you're building with AI or considering which tools to invest your time in, here's what you need to know.
 
@@ -168,9 +153,6 @@ Google's dual announcement of Gemini 3 and Antigravity isn't just about catching
 The combination of record-breaking reasoning capabilities and an open, multi-model development platform suggests Google is betting on flexibility and performance over ecosystem lock-in.
 
 For developers, this means more powerful tools are available right now, for free, in public preview. The question isn't whether to explore AI-assisted development—it's which combination of tools will best serve your specific needs.
-
-**Try Antigravity**: Available for download now
-**Access Gemini 3**: Select "Thinking" mode in the Gemini app
 
 ---
 
