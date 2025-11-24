@@ -4,8 +4,8 @@ locale: en
 title: "Gemini 3 and Antigravity: Google's Bold Move to Dominate AI Development"
 description: Google launches Gemini 3 with record-breaking benchmarks and Antigravity, a VS Code fork for agentic coding. Here's what developers need to know.
 author: AIPaths Academy
-publishedAt: 2025-11-24T10:00:00Z
-updatedAt: 2025-11-24T10:00:00Z
+publishedAt: 2025-11-24T05:00:00Z
+updatedAt: 2025-11-24T05:00:00Z
 coverImage: https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/010_gemini-3-antigravity-announcement/hero.jpg
 tags:
   - ai
