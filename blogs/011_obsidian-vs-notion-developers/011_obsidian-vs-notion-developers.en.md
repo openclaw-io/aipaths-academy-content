@@ -13,8 +13,8 @@ description: "Discover why developers are switching from Notion to Obsidian. Pla
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-01-24T10:00:00Z"
-updatedAt: "2025-01-24T10:00:00Z"
+publishedAt: "2025-11-25T10:00:00Z"
+updatedAt: "2025-11-25T10:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/011_obsidian-vs-notion-developers/hero.jpg"
