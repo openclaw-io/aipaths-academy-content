@@ -1233,5 +1233,3 @@ Revisa nuestra [Plantilla de Landing Page SaaS](https://www.aipaths.academy/es/r
 **¿Necesitas revisar tu nicho?**
 
 Vuelve a nuestra [Guía para Encontrar Tu Nicho Rentable](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide) para el framework completo.
-
-¿Tienes preguntas? Únete a nuestra comunidad en el [Discord de Anthropic](https://discord.gg/anthropic).

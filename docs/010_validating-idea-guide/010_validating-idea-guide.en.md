@@ -1230,5 +1230,3 @@ Check out our [SaaS Landing Page Template](https://www.aipaths.academy/es/resour
 **Need to revisit your niche?**
 
 Go back to our [Finding Your Profitable Niche Guide](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide) for the complete framework.
-
-Have questions? Join our community in the [Anthropic Discord](https://discord.gg/anthropic).
