@@ -6,15 +6,15 @@ content_id: "docs-context-engineering-evolution"
 locale: "es"
 
 # SEO & Display
-title: "De Prompt Engineering a Context Engineering: La Evolución que Necesitas Entender"
+title: "Context Engineering: La Evolución que Necesitas Entender"
 description: "Descubre por qué context engineering está reemplazando a prompt engineering como la habilidad clave para el desarrollo asistido por IA en 2025."
 
 # Author
 author: "AIPaths Academy"
 
 # Publication dates (ISO 8601 format)
-publishedAt: "2025-12-08T10:00:00Z"
-updatedAt: "2025-12-08T10:00:00Z"
+publishedAt: "2025-12-09T10:00:00Z"
+updatedAt: "2025-12-09T10:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/012_context-engineering-evolution/hero.jpg"
