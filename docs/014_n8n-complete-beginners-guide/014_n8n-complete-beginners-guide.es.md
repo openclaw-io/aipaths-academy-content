@@ -20,7 +20,7 @@ updatedAt: "2025-12-11T10:00:00Z"
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/014_n8n-complete-beginners-guide/hero.jpg"
 
 # Tags (IDs canonicos en ingles en minusculas)
-tags: ["automation", "tools", "tutorial", "workflows", "productivity"]
+tags: ["n8n", "automation", "tools", "tutorial", "workflows", "productivity"]
 ---
 
 # Guia Completa de n8n para Principiantes

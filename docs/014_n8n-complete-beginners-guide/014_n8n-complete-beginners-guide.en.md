@@ -20,7 +20,7 @@ updatedAt: "2025-12-11T10:00:00Z"
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/014_n8n-complete-beginners-guide/hero.jpg"
 
 # Tags (canonical lowercase English IDs)
-tags: ["automation", "tools", "tutorial", "workflows", "productivity"]
+tags: ["n8n", "automation", "tools", "tutorial", "workflows", "productivity"]
 ---
 
 # n8n Complete Beginner's Guide
