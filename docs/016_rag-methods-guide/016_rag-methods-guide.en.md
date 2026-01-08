@@ -13,8 +13,8 @@ description: "Learn when to use filters, SQL, full context, or vectors so your A
 author: "AIPaths Academy"
 
 # Publication dates
-publishedAt: "2025-01-08T10:00:00Z"
-updatedAt: "2025-01-08T10:00:00Z"
+publishedAt: "2026-01-08T10:00:00Z"
+updatedAt: "2026-01-08T10:00:00Z"
 
 # Cover image
 coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/016_rag-methods-guide/hero.jpg"
