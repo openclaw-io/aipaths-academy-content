@@ -1,4 +1,4 @@
-name: Notify Main Repository
+name: Validate & Notify Main Repository
 
 on:
   push:
@@ -7,10 +7,35 @@ on:
     paths:
       - 'docs/**'
       - 'blogs/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'docs/**'
+      - 'blogs/**'
 
 jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate content structure
+        run: node scripts/validate-content.js
+
+      - name: Validate translations consistency
+        run: node scripts/validate-translations.js
+
   notify:
     runs-on: ubuntu-latest
+    needs: validate
+    if: github.event_name == 'push'
     steps:
       - name: Trigger main repo submodule update
         run: |
