@@ -19,7 +19,7 @@ updatedAt: "2025-01-15T10:00:00Z"
 
 # Cover image (absolute URL or path)
 # Always include, even if you use a default/placeholder
-coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/XXX_folder-name/hero.jpg"
+coverImage: "https://raw.githubusercontent.com/openclaw-io/aipaths-academy-content/main/public/images/blogs/XXX_folder-name/hero.jpg"
 
 # Tags (4-8 recommended, use canonical lowercase English IDs)
 # IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
@@ -147,4 +147,4 @@ Give readers a clear next action:
 
 **Enjoyed this post?** Share it with others who might find it useful!
 
-**Have questions or feedback?** Drop a comment below or [open an issue on GitHub](https://github.com/GonzaSab/aipaths-academy-content/issues)!
+**Have questions or feedback?** Drop a comment below or [open an issue on GitHub](https://github.com/openclaw-io/aipaths-academy-content/issues)!

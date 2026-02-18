@@ -89,7 +89,7 @@ publishedAt: "2025-01-05T10:00:00Z"
 updatedAt: "2025-01-05T10:00:00Z"
 
 # Cover image (required for consistency)
-coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/004_your-topic/hero.jpg"
+coverImage: "https://raw.githubusercontent.com/openclaw-io/aipaths-academy-content/main/public/images/docs/004_your-topic/hero.jpg"
 
 # Tags (canonical lowercase English IDs)
 # IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
@@ -171,7 +171,7 @@ publishedAt: "2025-01-05T10:00:00Z"
 updatedAt: "2025-01-05T10:00:00Z"
 
 # Cover image
-coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/002_your-post-title/hero.jpg"
+coverImage: "https://raw.githubusercontent.com/openclaw-io/aipaths-academy-content/main/public/images/blogs/002_your-post-title/hero.jpg"
 
 # Tags (canonical lowercase English IDs)
 # IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
@@ -809,9 +809,9 @@ Use standard markdown. Avoid Obsidian-specific features like:
 
 ## Questions?
 
-- **General questions**: [Open a Discussion](https://github.com/GonzaSab/aipaths-academy-content/discussions)
-- **Bug reports**: [Open an Issue](https://github.com/GonzaSab/aipaths-academy-content/issues)
-- **Content suggestions**: [Open an Issue](https://github.com/GonzaSab/aipaths-academy-content/issues)
+- **General questions**: [Open a Discussion](https://github.com/openclaw-io/aipaths-academy-content/discussions)
+- **Bug reports**: [Open an Issue](https://github.com/openclaw-io/aipaths-academy-content/issues)
+- **Content suggestions**: [Open an Issue](https://github.com/openclaw-io/aipaths-academy-content/issues)
 
 ## Recognition
 

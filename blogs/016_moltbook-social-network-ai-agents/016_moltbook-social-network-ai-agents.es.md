@@ -17,7 +17,7 @@ publishedAt: "2026-02-11T10:00:00Z"
 updatedAt: "2026-02-11T10:00:00Z"
 
 # Cover image
-coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/016_moltbook-social-network-ai-agents/hero.jpg"
+coverImage: "https://raw.githubusercontent.com/openclaw-io/aipaths-academy-content/main/public/images/blogs/016_moltbook-social-network-ai-agents/hero.jpg"
 
 # Tags (canonical lowercase English IDs)
 tags:
@@ -186,4 +186,4 @@ La plataforma pudo haber sido desordenada, sobrevalorada y plagada de agujeros d
 
 **Te gustó este post?** Compartilo con otros que les pueda interesar.
 
-**Tenés preguntas o feedback?** Dejá un comentario abajo o [abrí un issue en GitHub](https://github.com/GonzaSab/aipaths-academy-content/issues).
+**Tenés preguntas o feedback?** Dejá un comentario abajo o [abrí un issue en GitHub](https://github.com/openclaw-io/aipaths-academy-content/issues).

@@ -241,8 +241,8 @@ function migrateFile(filePath) {
     // Cover image
     coverImage: oldFrontmatter.coverImage ||
                 (isDoc ?
-                  'https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/docs/default-hero.jpg' :
-                  'https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/default-hero.jpg'),
+                  'https://raw.githubusercontent.com/openclaw-io/aipaths-academy-content/main/public/images/docs/default-hero.jpg' :
+                  'https://raw.githubusercontent.com/openclaw-io/aipaths-academy-content/main/public/images/blogs/default-hero.jpg'),
 
     // Tags
     tags: oldFrontmatter.tags || [],

@@ -17,7 +17,7 @@ publishedAt: "2025-10-28T00:00:00Z"
 updatedAt: "2025-10-28T00:00:00Z"
 
 # Cover image
-coverImage: "https://raw.githubusercontent.com/GonzaSab/aipaths-academy-content/main/public/images/blogs/002_essential-mcp-servers/hero.jpg"
+coverImage: "https://raw.githubusercontent.com/openclaw-io/aipaths-academy-content/main/public/images/blogs/002_essential-mcp-servers/hero.jpg"
 
 # Tags (canonical lowercase English IDs)
 # IMPORTANT: Both EN/ES versions MUST have IDENTICAL tags
@@ -605,6 +605,6 @@ Los servidores MCP transforman a Claude de una IA conversacional en un compañer
 
 **¿Disfrutaste este post?** ¡Compártelo con otros que puedan encontrarlo útil!
 
-**¿Tienes preguntas o feedback?** ¡Deja un comentario abajo o [abre un issue en GitHub](https://github.com/GonzaSab/aipaths-academy-content/issues)!
+**¿Tienes preguntas o feedback?** ¡Deja un comentario abajo o [abre un issue en GitHub](https://github.com/openclaw-io/aipaths-academy-content/issues)!
 
 **¿Qué servidores MCP estás usando?** ¡Nos encantaría conocer tu configuración y flujos de trabajo!
