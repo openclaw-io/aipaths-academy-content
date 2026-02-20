@@ -2,22 +2,20 @@
 content_id: "blogs-peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia"
 locale: "es"
 title: "Peter Steinberger: De PDFs a Agentes de IA — La Historia del Creador de OpenClaw"
-description: "Un tipo quemado, sin ganas de programar, viajando solo por Europa. Tres años antes había vendido su empresa por más de €100 millones. Ahora no podía ni abrir un"
-author: "AIPaths"
+description: "La historia de Peter Steinberger: de bootstrappear PSPDFKit hasta una exit de €100M, quemarse por completo, y reinventarse con IA creando OpenClaw en una hora desde Marrakesh."
+author: "AIPaths Academy"
 publishedAt: "2026-02-19T20:12:24.602Z"
-updatedAt: "2026-02-19T20:12:24.602Z"
+updatedAt: "2026-02-20T10:00:00.000Z"
 coverImage: "https://raw.githubusercontent.com/openclaw-io/aipaths-academy-content/main/public/images/blogs/017_peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia/hero.png"
 tags:
-  - OpenClaw
-  - agentes de IA
+  - openclaw
+  - ai-agents
   - burnout
   - bootstrapping
-  - emprendimiento
-  - Peter Steinberger
+  - entrepreneurship
+  - news
 readingTime: 8
 ---
-
-> 📝 Meta description: La historia de Peter Steinberger: de bootstrappear PSPDFKit hasta una exit de €100M, quemarse por completo, y reinventarse con IA creando OpenClaw en una hora desde Marrakesh.
 
 Un tipo quemado, sin ganas de programar, viajando solo por Europa. Tres años antes había vendido su empresa por más de €100 millones. Ahora no podía ni abrir un editor de código.
 
