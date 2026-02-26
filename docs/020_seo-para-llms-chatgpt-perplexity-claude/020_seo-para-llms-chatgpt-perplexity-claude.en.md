@@ -1,8 +1,8 @@
 ---
 content_id: "docs-seo-para-llms-chatgpt-perplexity-claude"
 locale: "en"
-title: "SEO para LLMs: Cómo Aparecer en ChatGPT, Perplexity y Claude"
-description: "Blog de BlogSEO ($50K ARR). Internal link directo."
+title: "SEO for LLMs: How to Appear in ChatGPT, Perplexity, and Claude"
+description: "Complete GEO (Generative Engine Optimization) guide: how to optimize your content to get cited in ChatGPT, Perplexity, Claude, and Google AI Overviews."
 author: "AIPaths Academy"
 publishedAt: "2026-02-25T12:01:07.501Z"
 updatedAt: "2026-02-25T12:01:07.501Z"
@@ -14,274 +14,256 @@ tags:
   - tutorial
 ---
 
-1. Herramientas para monitorear tu presencia en LLMs
+If your content strategy is limited to ranking on Google, you're playing with half the board. ChatGPT, Perplexity, Claude, and Gemini are already answering the questions that used to drive traffic to your site — and they do it by citing sources. If your content doesn't appear in those answers, you're losing visibility to those who do optimize for this new paradigm.
 
-1. Checklist de optimización (actionable)
+This guide explains exactly how SEO for LLMs works (called GEO — Generative Engine Optimization), what factors determine whether an AI model cites your content, and what you can do today to position yourself.
 
-1. Casos reales: sitios que rankean en LLMs y por qué
+## The shift: from traditional SEO to SEO for LLMs
 
-### Fuentes
+For 25 years, the game was clear: you optimize your content → Google indexes it → you appear in the results → you get clicks. That model hasn't disappeared, but it's no longer the only one.
 
-- Research papers sobre GEO (Princeton, etc)
+Today, millions of people ask ChatGPT, Perplexity, or Claude directly instead of googling. And these systems don't show a list of links — they generate a complete answer, synthesizing information from multiple sources and citing them inline.
 
-- Blog de BlogSEO founder (experiencia directa)
+The fundamental difference: on Google you compete for a click. In an LLM, you compete to be the cited source. And the rules for achieving that are different.
 
-- Perplexity/ChatGPT documentation sobre cómo citan fuentes
+We are officially in a dual-search world: traditional search engines (Google, Bing) and AI-powered answer engines (ChatGPT, Perplexity, Gemini, Claude). If you only optimize for one, you're leaving half of your potential traffic on the table.
 
-### Contenido relacionado
+## How generative engines work
 
-Blog de BlogSEO ($50K ARR). Internal link directo.
+To optimize, you first need to understand how these systems find information. They don't all work the same way:
 
-Si tu estrategia de contenido se limita a rankear en Google, estás jugando con la mitad del tablero. ChatGPT, Perplexity, Claude y Gemini ya están respondiendo las preguntas que antes llevaban tráfico a tu sitio — y lo hacen citando fuentes. Si tu contenido no aparece en esas respuestas, estás perdiendo visibilidad frente a quienes sí optimizan para este nuevo paradigma.
+**ChatGPT** uses two sources: its training data (everything it read during training) and optionally real-time web browsing. When it doesn't browse, it responds from what it "learned" — that's why it's key to appear in sources that LLMs use for training (Wikipedia, high-authority sites, papers, technical documentation).
 
-Esta guía te explica exactamente cómo funciona el SEO para LLMs (llamado GEO — Generative Engine Optimization), qué factores determinan que un modelo de IA cite tu contenido, y qué podés hacer hoy para posicionarte.
+**Perplexity** performs real-time web search for every query. It's the closest to a search engine, but instead of giving you 10 links, it synthesizes the information and cites sources. Important: optimizing for Google does NOT guarantee appearing in Perplexity. They are separate systems that evaluate authority differently.
 
-## El cambio: de SEO tradicional a SEO para LLMs
+**Claude** (Anthropic) works primarily with training data. It doesn't browse the web by default. Your best strategy is to be present in the sources Claude consumes during training — high-authority publications, technical documentation, frequently cited content.
 
-Durante 25 años, el juego fue claro: optimizás tu contenido → Google lo indexa → aparecés en los resultados → recibís clics. Ese modelo no desapareció, pero ya no es el único.
-
-Hoy, millones de personas le preguntan directamente a ChatGPT, Perplexity o Claude en vez de googlear. Y estos sistemas no muestran una lista de links — generan una respuesta completa, sintetizando información de múltiples fuentes y citándolas inline.
-
-La diferencia fundamental: en Google competís por un click. En un LLM, competís por ser la fuente citada. Y las reglas para lograrlo son distintas.
-
-Estamos oficialmente en un mundo de búsqueda dual: motores de búsqueda tradicionales (Google, Bing) y motores de respuesta con IA (ChatGPT, Perplexity, Gemini, Claude). Si solo optimizás para uno, estás dejando la mitad del tráfico potencial sobre la mesa.
-
-## Cómo funcionan los motores generativos
-
-Para optimizar, primero tenés que entender cómo buscan información estos sistemas. No todos funcionan igual:
-
-**ChatGPT** usa dos fuentes: sus datos de entrenamiento (todo lo que leyó durante el training) y opcionalmente navegación web en tiempo real. Cuando no navega, responde desde lo que "aprendió" — por eso es clave aparecer en fuentes que los LLMs usan para entrenar (Wikipedia, sitios de alta autoridad, papers, documentación técnica).
-
-**Perplexity** hace búsqueda web en tiempo real para cada consulta. Es el más parecido a un buscador, pero en vez de darte 10 links, sintetiza la información y cita las fuentes. Importante: optimizar para Google NO garantiza aparecer en Perplexity. Son sistemas separados que evalúan autoridad de forma distinta.
-
-**Claude** (Anthropic) trabaja principalmente con datos de entrenamiento. No navega la web por defecto. Tu mejor estrategia es estar presente en las fuentes que Claude consume durante su training — publicaciones de alta autoridad, documentación técnica, contenido citado frecuentemente.
-
-**Google AI Overviews** usa el índice de Google para generar resúmenes con IA directamente en los resultados de búsqueda. Acá la autoridad temática dentro del ecosistema de Google sigue siendo lo más importante.
+**Google AI Overviews** uses Google's index to generate AI summaries directly in search results. Here, topical authority within Google's ecosystem remains the most important factor.
 
 ## GEO: Generative Engine Optimization
 
-GEO es el término que se está consolidando para describir la optimización de contenido para motores generativos. El concepto fue formalizado en un paper de investigadores de Princeton, Georgia Tech e IIT Delhi publicado en 2024, donde demostraron que las técnicas de GEO pueden aumentar la visibilidad de un sitio en respuestas generativas hasta un 40%.
+GEO is the term that's becoming standard to describe content optimization for generative engines. The concept was formalized in a paper by researchers from Princeton, Georgia Tech, and IIT Delhi published in 2024, where they demonstrated that GEO techniques can increase a site's visibility in generative responses by up to 40%.
 
-También vas a encontrar los términos AIO (AI Optimization), AEO (Answer Engine Optimization) y LLMO (Large Language Model Optimization). Todos refieren a lo mismo, pero GEO es el más aceptado porque captura mejor la idea: no estás optimizando para un buscador — estás optimizando para un motor que genera respuestas.
+You'll also find the terms AIO (AI Optimization), AEO (Answer Engine Optimization), and LLMO (Large Language Model Optimization). They all refer to the same thing, but GEO is the most widely accepted because it better captures the idea: you're not optimizing for a search engine — you're optimizing for an engine that generates answers.
 
-**La diferencia clave entre SEO y GEO:**
+**The key difference between SEO and GEO:**
 
-- **SEO:** optimizás para que Google te muestre en una lista de resultados. El usuario hace clic y llega a tu sitio.
+- **SEO:** you optimize so Google shows you in a list of results. The user clicks and arrives at your site.
 
-- **GEO:** optimizás para que un LLM te cite como fuente en su respuesta. El usuario ve tu marca/contenido como referencia autoritativa.
+- **GEO:** you optimize so an LLM cites you as a source in its response. The user sees your brand/content as an authoritative reference.
 
-GEO no reemplaza al SEO — lo complementa. Las dos estrategias deben funcionar juntas.
+GEO doesn't replace SEO — it complements it. Both strategies must work together.
 
-## Los 7 factores que hacen que un LLM cite tu contenido
+## The 7 factors that make an LLM cite your content
 
-Basado en el paper de Princeton, en análisis de plataformas como SparkToro, y en las mejores prácticas de 2026, estos son los factores que determinan si un LLM va a citar tu contenido:
+Based on the Princeton paper, analyses from platforms like SparkToro, and 2026 best practices, these are the factors that determine whether an LLM will cite your content:
 
-### 1. Contenido estructurado
+### 1. Structured content
 
-Los LLMs procesan y entienden mejor el contenido que tiene estructura clara. Esto incluye:
+LLMs process and understand content with clear structure better. This includes:
 
-- **Schema markup** (datos estructurados) que ayudan a los motores a categorizar tu contenido
+- **Schema markup** (structured data) that helps engines categorize your content
 
-- **Headings claros (H2, H3)** que organizan la información jerárquicamente
+- **Clear headings (H2, H3)** that organize information hierarchically
 
-- **Secciones de FAQ** con preguntas y respuestas directas — los LLMs adoran este formato
+- **FAQ sections** with direct questions and answers — LLMs love this format
 
-- **Definiciones claras** al principio de cada sección — el LLM necesita entender de qué hablás antes de citarte
+- **Clear definitions** at the beginning of each section — the LLM needs to understand what you're talking about before citing you
 
-### 2. Autoridad temática
+### 2. Topical authority
 
-Los LLMs no rankean páginas individuales — evalúan si una fuente es autoritativa sobre un tema. Para construir autoridad temática necesitás:
+LLMs don't rank individual pages — they evaluate whether a source is authoritative on a topic. To build topical authority you need:
 
-- **Topic clusters:** un grupo de contenidos interconectados que cubren un tema desde múltiples ángulos. No alcanza con UN artículo sobre IA — necesitás 10 que se referencien entre sí.
+- **Topic clusters:** a group of interconnected content pieces covering a topic from multiple angles. One article about AI isn't enough — you need 10 that reference each other.
 
-- **Cobertura exhaustiva:** cubrir un tema en profundidad, no superficialmente. Los LLMs prefieren fuentes que dan la respuesta completa.
+- **Exhaustive coverage:** covering a topic in depth, not superficially. LLMs prefer sources that give the complete answer.
 
-- **Internal linking fuerte:** cada pieza de contenido debe linkearse con las demás del mismo tema. Esto le dice al LLM que sos una autoridad en ese dominio.
+- **Strong internal linking:** every content piece should link to others on the same topic. This tells the LLM you're an authority in that domain.
 
-### 3. Validación externa
+### 3. External validation
 
-Este factor es crucial y a menudo ignorado. Los LLMs confían más en fuentes que son mencionadas por terceros:
+This factor is crucial and often overlooked. LLMs trust sources that are mentioned by third parties more:
 
-- **Menciones en prensa y medios** — los press releases y la cobertura mediática crean señales de validación que los LLMs respetan
+- **Press and media mentions** — press releases and media coverage create validation signals that LLMs respect
 
-- **Presencia en Wikipedia** — si tu marca o producto aparece en Wikipedia, los LLMs lo van a mencionar
+- **Wikipedia presence** — if your brand or product appears on Wikipedia, LLMs will mention it
 
-- **Reddit** — los LLMs citan Reddit de forma masiva. Tener presencia en subreddits relevantes a tu nicho es más importante de lo que pensás
+- **Reddit** — LLMs cite Reddit massively. Having a presence in subreddits relevant to your niche is more important than you think
 
-- **Earned media y backlinks de calidad** — las mismas señales que Google valora, los LLMs también las usan
+- **Earned media and quality backlinks** — the same signals Google values, LLMs also use
 
-### 4. Claridad y completitud
+### 4. Clarity and completeness
 
-Los LLMs buscan la fuente que responda la pregunta de forma más directa y completa. Esto significa:
+LLMs look for the source that answers the question most directly and completely. This means:
 
-- Respondé la pregunta en los primeros párrafos — no la entierres al final
+- Answer the question in the first paragraphs — don't bury it at the end
 
-- Sé específico: datos concretos, números, ejemplos reales
+- Be specific: concrete data, numbers, real examples
 
-- Cubrí el tema completo — si un competidor da una respuesta más completa, el LLM lo va a citar a él
+- Cover the topic completely — if a competitor gives a more complete answer, the LLM will cite them instead
 
-### 5. Freshness (contenido actualizado)
+### 5. Freshness (updated content)
 
-Los motores generativos que navegan la web (Perplexity, ChatGPT con browsing) priorizan contenido reciente. Pero incluso los que usan datos de entrenamiento eventualmente se actualizan. Mantener tu contenido fresco es una ventaja competitiva:
+Generative engines that browse the web (Perplexity, ChatGPT with browsing) prioritize recent content. But even those using training data eventually get updated. Keeping your content fresh is a competitive advantage:
 
-- Actualizá guías y artículos importantes al menos cada trimestre
+- Update important guides and articles at least quarterly
 
-- Agregá fechas visibles de actualización
+- Add visible update dates
 
-- Incorporá datos y tendencias del año en curso
+- Incorporate current year data and trends
 
-### 6. Optimización técnica
+### 6. Technical optimization
 
-Los crawlers de LLMs (como el de Perplexity) necesitan acceder a tu contenido fácilmente:
+LLM crawlers (like Perplexity's) need to access your content easily:
 
-- Sitio rápido — los crawlers tienen timeouts
+- Fast site — crawlers have timeouts
 
-- HTML limpio y semántico — evitá contenido cargado puramente con JavaScript
+- Clean, semantic HTML — avoid content loaded purely with JavaScript
 
-- No bloquees a los bots de IA en tu robots.txt (a menos que sea intencional)
+- Don't block AI bots in your robots.txt (unless intentional)
 
-- Sitemap actualizado y accesible
+- Updated and accessible sitemap
 
-### 7. Estilo conversacional
+### 7. Conversational style
 
-Los LLMs generan respuestas conversacionales. Naturalmente, prefieren fuentes que ya están escritas en ese estilo:
+LLMs generate conversational responses. Naturally, they prefer sources already written in that style:
 
-- Escribí como se habla — frases claras, directas, sin jerga innecesaria
+- Write how you speak — clear, direct sentences, no unnecessary jargon
 
-- Usá formato de pregunta y respuesta donde tenga sentido
+- Use question-and-answer format where it makes sense
 
-- Incluí resúmenes y takeaways al final de cada sección
+- Include summaries and takeaways at the end of each section
 
-## SEO tradicional vs GEO: qué cambia y qué se mantiene
+## Traditional SEO vs GEO: what changes and what stays
 
-**Lo que se MANTIENE:**
+**What STAYS:**
 
-- Contenido de calidad sigue siendo la base de todo
+- Quality content remains the foundation of everything
 
-- Backlinks y autoridad de dominio siguen importando
+- Backlinks and domain authority still matter
 
-- Velocidad del sitio y experiencia técnica
+- Site speed and technical experience
 
-- Datos estructurados (schema markup)
+- Structured data (schema markup)
 
-- Keyword research como punto de partida
+- Keyword research as a starting point
 
-**Lo que CAMBIA:**
+**What CHANGES:**
 
-- Optimizás para ser citado, no para recibir clics
+- You optimize to be cited, not to receive clicks
 
-- La completitud importa más que la posición en el ranking
+- Completeness matters more than ranking position
 
-- Necesitás presencia en fuentes de entrenamiento de LLMs (Wikipedia, Reddit, papers)
+- You need presence in LLM training sources (Wikipedia, Reddit, papers)
 
-- El estilo conversacional gana sobre el estilo "optimizado para keywords"
+- Conversational style wins over "keyword-optimized" style
 
-- Cada plataforma (ChatGPT, Perplexity, Claude) tiene reglas distintas
+- Each platform (ChatGPT, Perplexity, Claude) has different rules
 
-- Las menciones de terceros (Reddit, prensa) pesan tanto como los backlinks
+- Third-party mentions (Reddit, press) weigh as much as backlinks
 
-## Optimización por plataforma
+## Platform-specific optimization
 
-Cada motor generativo funciona diferente. No podés aplicar la misma estrategia para todos:
+Each generative engine works differently. You can't apply the same strategy for all:
 
 ### ChatGPT
 
-- Prioridad: estar en las fuentes de entrenamiento (Wikipedia, documentación técnica, sitios de alta autoridad)
+- Priority: being in training sources (Wikipedia, technical documentation, high-authority sites)
 
-- Cuando usa browsing: funciona similar a Perplexity — rankear alto en Google ayuda
+- When using browsing: works similar to Perplexity — ranking high on Google helps
 
-- Contenido en inglés tiene más peso (la mayoría del training data es en inglés)
+- English content carries more weight (most training data is in English)
 
-- Los datos de entrenamiento se actualizan periódicamente — contenido publicado en sitios autoritativos eventualmente llega
+- Training data is updated periodically — content published on authoritative sites eventually reaches it
 
 ### Perplexity
 
-- Busca en tiempo real — tu contenido puede aparecer minutos después de publicarlo
+- Searches in real time — your content can appear minutes after publishing
 
-- NO es lo mismo que Google — Perplexity tiene su propio crawler y evalúa autoridad diferente
+- It's NOT the same as Google — Perplexity has its own crawler and evaluates authority differently
 
-- Permite cambiar entre modelos (GPT-4, Claude, Sonar) — la respuesta puede variar según el modelo
+- Allows switching between models (GPT-4, Claude, Sonar) — the answer may vary by model
 
-- Contenido fresco y específico rankea bien — ideal para noticias y temas trending
+- Fresh, specific content ranks well — ideal for news and trending topics
 
 ### Claude (Anthropic)
 
-- Trabaja principalmente con datos de entrenamiento — no navega la web por defecto
+- Works primarily with training data — doesn't browse the web by default
 
-- Prioridad: contenido en publicaciones de alta autoridad, papers, documentación técnica
+- Priority: content in high-authority publications, papers, technical documentation
 
-- Contenido citado frecuentemente por otros sitios tiene más chances de estar en su training
+- Content frequently cited by other sites has more chances of being in its training
 
 ### Google AI Overviews
 
-- Usa el índice existente de Google — si rankeás bien en Google, tenés ventaja
+- Uses Google's existing index — if you rank well on Google, you have an advantage
 
-- Autoridad temática es el factor #1 — Google evalúa tu expertise en el tema
+- Topical authority is the #1 factor — Google evaluates your expertise on the topic
 
-- FAQs y contenido estructurado tipo snippet se incorporan directamente en los overviews
+- FAQs and snippet-style structured content get incorporated directly into overviews
 
-## Checklist de GEO: qué implementar hoy
+## GEO Checklist: what to implement today
 
-Acciones concretas que podés tomar ahora mismo para mejorar tu visibilidad en LLMs:
+Concrete actions you can take right now to improve your visibility in LLMs:
 
-1. **Auditá la estructura de tu contenido existente.** ¿Tiene headings claros? ¿FAQs? ¿Definiciones al inicio de cada sección? Si no, reestructuralo.
+1. **Audit your existing content structure.** Does it have clear headings? FAQs? Definitions at the start of each section? If not, restructure it.
 
-1. **Agregá schema markup a tus páginas clave.** FAQ schema, Article schema, HowTo schema. Herramientas como Schema.org y Google's Structured Data Markup Helper te ayudan.
+1. **Add schema markup to your key pages.** FAQ schema, Article schema, HowTo schema. Tools like Schema.org and Google's Structured Data Markup Helper can help.
 
-1. **Construí topic clusters.** Elegí 3-5 temas core y creá al menos 5-8 piezas de contenido interconectadas para cada uno.
+1. **Build topic clusters.** Choose 3-5 core topics and create at least 5-8 interconnected content pieces for each.
 
-1. **Buscá tu marca en ChatGPT y Perplexity.** Preguntá "¿Qué es [tu marca]?" y "¿Cuáles son las mejores herramientas para [tu nicho]?". Registrá las respuestas como baseline.
+1. **Search for your brand on ChatGPT and Perplexity.** Ask "What is [your brand]?" and "What are the best tools for [your niche]?". Record the responses as a baseline.
 
-1. **Conseguí menciones en sitios de terceros.** Guest posts, entrevistas, press releases, listados de "mejores herramientas". Cada mención externa refuerza tu autoridad para los LLMs.
+1. **Get mentions on third-party sites.** Guest posts, interviews, press releases, "best tools" roundups. Every external mention reinforces your authority for LLMs.
 
-1. **Participá en Reddit.** Los LLMs citan Reddit masivamente. Encontrá subreddits de tu nicho y participá con valor real (no spam).
+1. **Participate on Reddit.** LLMs cite Reddit massively. Find subreddits in your niche and participate with real value (no spam).
 
-1. **Respondé preguntas directamente.** Cada artículo debe tener una respuesta clara y concisa en los primeros 2-3 párrafos. Después profundizá.
+1. **Answer questions directly.** Every article should have a clear, concise answer in the first 2-3 paragraphs. Then go deeper.
 
-1. **Actualizá contenido cada trimestre.** Revisá tus piezas más importantes, agregá datos nuevos, actualizá fechas y referencias.
+1. **Update content quarterly.** Review your most important pieces, add new data, update dates and references.
 
-1. **Creá contenido bilingüe.** Tener versión en inglés aumenta exponencialmente tus chances de aparecer en LLMs, que están entrenados mayoritariamente en inglés.
+1. **Create bilingual content.** Having an English version exponentially increases your chances of appearing in LLMs, which are trained primarily in English.
 
-1. **No bloquees los crawlers de IA.** Revisá tu robots.txt — asegurate de no estar bloqueando a PerplexityBot, ChatGPT-User, o ClaudeBot.
+1. **Don't block AI crawlers.** Check your robots.txt — make sure you're not blocking PerplexityBot, ChatGPT-User, or ClaudeBot.
 
-## Herramientas para monitorear tu presencia en LLMs
+## Tools to monitor your presence in LLMs
 
-El monitoreo de GEO todavía está en etapa temprana, pero ya hay opciones:
+GEO monitoring is still in its early stages, but there are already options:
 
-**SEMrush y Ahrefs** están incorporando funciones de visibilidad en IA. SEMrush tiene un tracker de AI Overviews. Ahrefs está desarrollando métricas de citación en LLMs.
+**SEMrush and Ahrefs** are incorporating AI visibility features. SEMrush has an AI Overviews tracker. Ahrefs is developing LLM citation metrics.
 
-**SE Visible** es una herramienta especializada en tracking de visibilidad en motores generativos.
+**SE Visible** is a specialized tool for tracking visibility in generative engines.
 
-**Testing manual:** la forma más simple y efectiva. Cada semana, preguntale a ChatGPT, Perplexity y Claude sobre temas de tu nicho y registrá si te mencionan. Creá un spreadsheet con: query, plataforma, fecha, ¿te citó?, ¿qué fuente citó en su lugar?
+**Manual testing:** the simplest and most effective method. Every week, ask ChatGPT, Perplexity, and Claude about topics in your niche and record whether they mention you. Create a spreadsheet with: query, platform, date, did it cite you?, what source did it cite instead?
 
-**Google Search Console** muestra datos de AI Overviews en la sección de rendimiento. Filtrá por "AI Overview" para ver en qué queries tu contenido aparece en los resúmenes de IA de Google.
+**Google Search Console** shows AI Overview data in the performance section. Filter by "AI Overview" to see which queries your content appears in within Google's AI summaries.
 
-## Errores comunes en GEO
+## Common GEO mistakes
 
-**1. Optimizar solo para Google y esperar que los LLMs sigan.** No funciona así. Cada plataforma tiene su propia lógica. Perplexity no usa el índice de Google.
+**1. Optimizing only for Google and expecting LLMs to follow.** It doesn't work that way. Each platform has its own logic. Perplexity doesn't use Google's index.
 
-**2. Hacer keyword stuffing "para IA".** Los LLMs son mejores que Google detectando contenido artificial. Escribí para humanos — si un humano lo encuentra útil, un LLM también.
+**2. Keyword stuffing "for AI".** LLMs are better than Google at detecting artificial content. Write for humans — if a human finds it useful, an LLM will too.
 
-**3. Ignorar Reddit y las redes sociales.** Los LLMs pesan mucho las menciones en comunidades reales. Si tu marca solo existe en tu propio sitio web, tu autoridad es limitada.
+**3. Ignoring Reddit and social media.** LLMs weigh mentions in real communities heavily. If your brand only exists on your own website, your authority is limited.
 
-**4. Publicar y olvidar.** Contenido desactualizado pierde visibilidad. Los motores generativos que navegan la web priorizan freshness.
+**4. Publishing and forgetting.** Outdated content loses visibility. Generative engines that browse the web prioritize freshness.
 
-**5. Bloquear los bots de IA en robots.txt.** Algunos sitios bloquean a PerplexityBot o GPTBot por miedo a que "roben contenido". Si los bloqueás, no van a citarte. Es una decisión de negocio.
+**5. Blocking AI bots in robots.txt.** Some sites block PerplexityBot or GPTBot out of fear they'll "steal content." If you block them, they won't cite you. It's a business decision.
 
-## El futuro: hacia dónde va esto
+## The future: where this is heading
 
-Estamos en los primeros innings del mundo de búsqueda dual. Algunas tendencias claras:
+We're in the early innings of the dual-search world. Some clear trends:
 
-- **La búsqueda por IA va a crecer exponencialmente.** Cada vez más gente usa ChatGPT y Perplexity como su primera herramienta de búsqueda, especialmente las generaciones más jóvenes.
+- **AI-powered search will grow exponentially.** More and more people use ChatGPT and Perplexity as their first search tool, especially younger generations.
 
-- **Los early movers ganan.** Las fuentes que construyan autoridad temática ahora van a ser las que los LLMs citen por defecto cuando el tráfico explote.
+- **Early movers win.** Sources that build topical authority now will be the ones LLMs cite by default when traffic explodes.
 
-- **Las métricas van a evolucionar.** En 1-2 años vamos a tener dashboards dedicados a "LLM visibility" tan sofisticados como los de SEO tradicional.
+- **Metrics will evolve.** In 1-2 years we'll have dedicated "LLM visibility" dashboards as sophisticated as traditional SEO ones.
 
-- **El contenido en español tiene una ventana de oportunidad.** Hay mucho menos contenido de calidad en español sobre estos temas. Si te posicionás ahora, vas a ser la referencia cuando los LLMs mejoren su cobertura en español.
+- **Spanish content has a window of opportunity.** There's far less quality content in Spanish on these topics. If you position yourself now, you'll be the reference when LLMs improve their Spanish coverage.
 
 ---
 
-**GEO no es el futuro — es el presente. Cada día que pasa sin optimizar para motores generativos es tráfico y visibilidad que perdés. La buena noticia: la mayoría de tu competencia todavía no está haciendo nada al respecto. Si empezás hoy, ya estás adelante.**
+**GEO is not the future — it's the present. Every day you go without optimizing for generative engines is traffic and visibility you lose. The good news: most of your competition still isn't doing anything about it. If you start today, you're already ahead.**
 
-*Implementá la checklist, monitoreá tu presencia, y construí autoridad temática. El SEO no murió — evolucionó. Y los que evolucionen con él van a ganar.*
+*Implement the checklist, monitor your presence, and build topical authority. SEO didn't die — it evolved. And those who evolve with it will win.*

@@ -1,8 +1,8 @@
 ---
 content_id: "docs-kimi-ai-presentaciones-slides-tutorial"
 locale: "en"
-title: "Cómo Crear Presentaciones Profesionales con Kimi AI (Gratis)"
-description: "Blog complementario en Blog Pipeline: \"Kimi AI: La IA China que Regala lo que ChatGPT Cobra\". Internal link opportunity blog ↔ guía."
+title: "How to Create Professional Presentations with Kimi AI (Free)"
+description: "Step-by-step tutorial to create professional presentations with Kimi AI for free. Effective prompts, comparison with Gamma and Canva AI, and tips for better results."
 author: "AIPaths Academy"
 publishedAt: "2026-02-22T18:16:00.217Z"
 updatedAt: "2026-02-22T18:16:00.217Z"
@@ -13,16 +13,6 @@ tags:
   - tutorial
   - productivity
 ---
-
-### Fuentes
-
-- https://www.kimi.com — testing directo de la herramienta
-
-- YouTube autocomplete data via @strategist
-
-### Contenido relacionado
-
-Blog complementario en Blog Pipeline: "Kimi AI: La IA China que Regala lo que ChatGPT Cobra". Internal link opportunity blog ↔ guía.
 
 Si alguna vez necesitaste armar una presentación profesional en poco tiempo y sin gastar un peso, este tutorial es para vos. Kimi AI es una herramienta gratuita que genera presentaciones completas a partir de un simple texto. Sin plantillas genéricas, sin curva de aprendizaje complicada: le describís lo que necesitás y Kimi crea las diapositivas por vos.
 

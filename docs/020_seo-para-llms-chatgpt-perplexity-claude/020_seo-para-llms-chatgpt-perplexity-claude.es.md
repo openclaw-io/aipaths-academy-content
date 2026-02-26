@@ -2,7 +2,7 @@
 content_id: "docs-seo-para-llms-chatgpt-perplexity-claude"
 locale: "es"
 title: "SEO para LLMs: Cómo Aparecer en ChatGPT, Perplexity y Claude"
-description: "Blog de BlogSEO ($50K ARR). Internal link directo."
+description: "Guía completa de GEO (Generative Engine Optimization): cómo optimizar tu contenido para aparecer citado en ChatGPT, Perplexity, Claude y Google AI Overviews."
 author: "AIPaths Academy"
 publishedAt: "2026-02-25T12:01:04.342Z"
 updatedAt: "2026-02-25T12:01:04.342Z"
@@ -13,24 +13,6 @@ tags:
   - growth
   - tutorial
 ---
-
-1. Herramientas para monitorear tu presencia en LLMs
-
-1. Checklist de optimización (actionable)
-
-1. Casos reales: sitios que rankean en LLMs y por qué
-
-### Fuentes
-
-- Research papers sobre GEO (Princeton, etc)
-
-- Blog de BlogSEO founder (experiencia directa)
-
-- Perplexity/ChatGPT documentation sobre cómo citan fuentes
-
-### Contenido relacionado
-
-Blog de BlogSEO ($50K ARR). Internal link directo.
 
 Si tu estrategia de contenido se limita a rankear en Google, estás jugando con la mitad del tablero. ChatGPT, Perplexity, Claude y Gemini ya están respondiendo las preguntas que antes llevaban tráfico a tu sitio — y lo hacen citando fuentes. Si tu contenido no aparece en esas respuestas, estás perdiendo visibilidad frente a quienes sí optimizan para este nuevo paradigma.
 
