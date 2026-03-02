@@ -1,11 +1,11 @@
 ---
 content_id: "docs-configurar-primer-agente-ia-openclaw-guia-completa"
 locale: "en"
-title: "Guía Completa: Cómo Configurar Tu Primer Agente de IA con OpenClaw"
-description: "Tener un agente de IA funcionando 24/7 en tu propia máquina suena a ciencia ficción, pero en 2026 es una realidad accesible. OpenClaw es una plataforma open sou"
+title: "Complete Guide: How to Set Up Your First AI Agent with OpenClaw"
+description: "Step-by-step guide to setting up your own AI agent with OpenClaw. Hardware decisions, real costs, security best practices, and full customization — from zero to a working agent."
 author: "AIPaths Academy"
 publishedAt: "2026-02-27T14:48:58.140Z"
-updatedAt: "2026-02-27T14:48:58.140Z"
+updatedAt: "2026-03-02T12:50:00.000Z"
 coverImage: "https://raw.githubusercontent.com/openclaw-io/aipaths-academy-content/main/public/images/blogs/021_configurar-primer-agente-ia-openclaw-guia-completa/hero.jpg"
 tags:
   - openclaw
@@ -14,167 +14,167 @@ tags:
   - setup
 ---
 
-Tener un agente de IA funcionando 24/7 en tu propia máquina suena a ciencia ficción, pero en 2026 es una realidad accesible. OpenClaw es una plataforma open source que te permite crear agentes personales y de equipo que se conectan a Discord, WhatsApp, Telegram y más — todo corriendo en tu infraestructura, con tus datos bajo tu control.
+Having an AI agent running 24/7 on your own machine sounds like science fiction, but in 2026 it's an accessible reality. OpenClaw is an open source platform that lets you create personal and team AI agents connected to Discord, WhatsApp, Telegram, and more — all running on your infrastructure, with your data under your control.
 
-Esta guía te lleva de cero a un agente completamente configurado. No solo la instalación: las decisiones técnicas que importan, los costos reales, la seguridad, y cómo personalizar tu agente para que sea realmente tuyo.
+This guide takes you from zero to a fully configured agent. Not just the installation: the technical decisions that matter, real costs, security, and how to customize your agent to make it truly yours.
 
-## ¿Qué es OpenClaw y para quién es?
+## What is OpenClaw and Who is it For?
 
-OpenClaw es una plataforma open source para crear agentes de IA personales. A diferencia de ChatGPT o Claude que vivien en la nube de sus empresas, OpenClaw corre en tu máquina — tu laptop, un Mac Mini, un VPS, o incluso una Raspberry Pi.
+OpenClaw is an open source platform for creating personal AI agents. Unlike ChatGPT or Claude, which live in their companies' clouds, OpenClaw runs on your machine — your laptop, a Mac Mini, a VPS, or even a Raspberry Pi.
 
-**Lo que hace diferente a OpenClaw:**
+**What makes OpenClaw different:**
 
-- **Self-hosted:** Tus datos no salen de tu infraestructura. Las conversaciones, la memoria del agente, y la configuración viven en tu máquina.
+- **Self-hosted:** Your data never leaves your infrastructure. Conversations, agent memory, and configuration all live on your machine.
 
-- **Multi-canal:** Un solo agente puede hablar por Discord, WhatsApp, Telegram, Signal, iMessage, y más. No necesitás configurar un bot separado para cada plataforma.
+- **Multi-channel:** A single agent can communicate through Discord, WhatsApp, Telegram, Signal, iMessage, and more. No need to set up a separate bot for each platform.
 
-- **Extensible con Skills:** Los skills son paquetes de instrucciones y herramientas que le dan capacidades específicas a tu agente. Hay un marketplace (ClawhHub) con skills de la comunidad, y podés crear los tuyos.
+- **Extensible with Skills:** Skills are instruction and tool packages that give your agent specific capabilities. There's a marketplace (ClawhHub) with community skills, and you can create your own.
 
-- **Open source y gratuito:** El software es gratis. Solo pagás las APIs de los modelos de lenguaje que uses (Claude, GPT, etc.).
+- **Open source and free:** The software is free. You only pay for the language model APIs you use (Claude, GPT, etc.).
 
-**¿Para quién es OpenClaw?**
+**Who is OpenClaw for?**
 
-- Emprendedores que quieren un asistente personal de IA sin depender de plataformas de terceros
+- Entrepreneurs who want a personal AI assistant without depending on third-party platforms
 
-- Equipos pequeños que necesitan automatizar workflows con agentes
+- Small teams that need to automate workflows with agents
 
-- Developers que quieren experimentar con agentes de IA en su propia infraestructura
+- Developers who want to experiment with AI agents on their own infrastructure
 
-- Creadores de contenido que necesitan gestionar pipelines complejos (como nosotros en AIPaths)
+- Content creators who need to manage complex pipelines (like us at AIPaths)
 
-Si solo querés chatear con una IA de vez en cuando, ChatGPT o Claude son suficientes. Si querés un agente que trabaje para vos de forma continua, con memoria, herramientas, y conectado a tus canales de comunicación, OpenClaw es lo que necesitás.
+If you just want to chat with an AI occasionally, ChatGPT or Claude are enough. If you want an agent that works for you continuously, with memory, tools, and connected to your communication channels, OpenClaw is what you need.
 
-## Requisitos previos
+## Prerequisites
 
-Antes de empezar, asegurate de tener:
+Before you start, make sure you have:
 
-- **Node.js 22 o superior.** Verificá con `node --version`. Si no lo tenés, descargalo de nodejs.org o usá nvm.
+- **Node.js 22 or higher.** Check with `node --version`. If you don't have it, download from nodejs.org or use nvm.
 
-- **Una API key de Anthropic o OpenAI.** Recomendamos Anthropic (Claude) por su calidad de razonamiento. Creá una cuenta en console.anthropic.com y generá una API key.
+- **An Anthropic or OpenAI API key.** We recommend Anthropic (Claude) for its reasoning quality. Create an account at console.anthropic.com and generate an API key.
 
-- **Una máquina que pueda estar encendida.** Tu agente necesita correr para estar disponible. Puede ser tu PC mientras trabajás, o idealmente una máquina dedicada (más sobre esto en la sección de hardware).
+- **A machine that can stay on.** Your agent needs to be running to be available. It can be your PC while you work, or ideally a dedicated machine (more on this in the hardware section).
 
-- **Una cuenta de Discord** (recomendado). Discord es el canal ideal para empezar — es gratis, soporta bots nativamente, y tiene canales por tema.
+- **A Discord account** (recommended). Discord is the ideal channel to start — it's free, natively supports bots, and has topic-based channels.
 
-## ¿Dónde correr OpenClaw? La decisión de hardware
+## Where to Run OpenClaw? The Hardware Decision
 
-Esta es la primera decisión técnica importante. Tu agente necesita una máquina donde vivir.
+This is the first important technical decision. Your agent needs a machine to live on.
 
 **Mac Mini M2/M4 (~$599-899)**
 
-La opción que recomendamos para uso serio. Consume apenas 10W en idle (menos de $2/mes de electricidad), es completamente silencioso, tiene rendimiento de sobra para correr OpenClaw y modelos locales si querés, y macOS es un entorno excelente para Node.js. Nosotros en AIPaths corremos todo nuestro sistema multi-agente en un Mac Mini dedicado.
+The option we recommend for serious use. It draws barely 10W at idle (less than $2/month in electricity), is completely silent, has plenty of performance for running OpenClaw and local models if you want, and macOS is an excellent environment for Node.js. At AIPaths, we run our entire multi-agent system on a dedicated Mac Mini.
 
-**Tu PC o laptop actual (gratis)**
+**Your current PC or laptop (free)**
 
-Perfecto para empezar y probar. La limitación es que tu agente solo está disponible mientras la máquina esté encendida. Si apagás la laptop a la noche, tu agente duerme. Funciona bien para uso personal durante horario laboral.
+Perfect for getting started and testing. The limitation is that your agent is only available while the machine is on. If you shut your laptop at night, your agent sleeps. Works well for personal use during work hours.
 
-**VPS en la nube ($5-20/mes)**
+**Cloud VPS ($5-20/month)**
 
-DigitalOcean, Hetzner, o AWS Lightsail. La ventaja es que está online 24/7 sin hardware físico. La desventaja es latencia adicional y que tus datos están en un servidor de terceros (aunque seguís teniendo más control que con ChatGPT). Un VPS de $5/mes con 1GB RAM es suficiente para OpenClaw básico.
+DigitalOcean, Hetzner, or AWS Lightsail. The advantage is it's online 24/7 without physical hardware. The downside is additional latency and your data being on a third-party server (though you still have more control than with ChatGPT). A $5/month VPS with 1GB RAM is enough for basic OpenClaw.
 
 **Raspberry Pi 5 (~$80)**
 
-Posible pero limitado. Funciona para un agente simple con modelos cloud (Claude, GPT). No tiene la potencia para correr modelos locales. Buena opción como proyecto de aprendizaje o para un agente de baja demanda.
+Possible but limited. Works for a simple agent with cloud models (Claude, GPT). Doesn't have the power to run local models. Good option as a learning project or for a low-demand agent.
 
-**Nuestra recomendación:** empezá con tu PC actual para probar. Si te gusta y querés que el agente esté siempre disponible, un Mac Mini o un VPS de $10/mes son las mejores opciones.
+**Our recommendation:** start with your current PC to test. If you like it and want your agent always available, a Mac Mini or $10/month VPS are the best options.
 
-## Instalación paso a paso
+## Step-by-Step Installation
 
-Vamos a la acción. Todo el proceso toma menos de 10 minutos.
+Let's get to it. The entire process takes less than 10 minutes.
 
-### Paso 1: Instalá OpenClaw
+### Step 1: Install OpenClaw
 
-En macOS o Linux, abrí la terminal y ejecutá:
+On macOS or Linux, open the terminal and run:
 
 ```bash
 curl -fsSL https://openclaw.ai/install.sh | bash
 ```
 
-En Windows (PowerShell como administrador):
+On Windows (PowerShell as administrator):
 
 ```bash
 iwr -useb https://openclaw.ai/install.ps1 | iex
 ```
 
-El script instala OpenClaw globalmente. Verificá que se instaló correctamente con:
+The script installs OpenClaw globally. Verify it installed correctly with:
 
 ```bash
 openclaw --version
 ```
 
-### Paso 2: Ejecutá el wizard de configuración
+### Step 2: Run the Configuration Wizard
 
 ```bash
 openclaw onboard --install-daemon
 ```
 
-El wizard te guía paso a paso:
+The wizard guides you step by step:
 
-- **Autenticación:** Configurá las credenciales del gateway
+- **Authentication:** Set up gateway credentials
 
-- **API Key:** Ingresá tu API key de Anthropic (o OpenAI)
+- **API Key:** Enter your Anthropic (or OpenAI) API key
 
-- **Modelo:** Elegí el modelo por defecto (recomendamos Claude Sonnet 4 para empezar — buen balance calidad/precio)
+- **Model:** Choose the default model (we recommend Claude Sonnet 4 to start — good quality/price balance)
 
-- **Canales:** Opcionalmente conectá Discord, WhatsApp, u otros canales
+- **Channels:** Optionally connect Discord, WhatsApp, or other channels
 
-- **Daemon:** El flag `--install-daemon` configura OpenClaw para que arranque automáticamente con tu sistema
+- **Daemon:** The `--install-daemon` flag configures OpenClaw to start automatically with your system
 
-### Paso 3: Verificá que el gateway esté corriendo
+### Step 3: Verify the Gateway is Running
 
 ```bash
 openclaw gateway status
 ```
 
-Deberías ver que el gateway está running. Si no arranca, probá:
+You should see the gateway is running. If it doesn't start, try:
 
 ```bash
 openclaw gateway start
 ```
 
-### Paso 4: Probá tu agente
+### Step 4: Test Your Agent
 
-La forma más rápida de probar es abrir el dashboard web:
+The quickest way to test is opening the web dashboard:
 
 ```bash
 openclaw dashboard
 ```
 
-Esto abre una interfaz web en tu navegador donde podés chatear directamente con tu agente. Mandale un mensaje para verificar que responde.
+This opens a web interface in your browser where you can chat directly with your agent. Send it a message to verify it responds.
 
-Si ya configuraste Discord en el wizard, también podés mandarle un mensaje directo al bot de Discord y debería responder.
+If you already configured Discord in the wizard, you can also send a direct message to the Discord bot and it should respond.
 
-## Conectar canales de comunicación
+## Connecting Communication Channels
 
-Un agente que solo vive en un dashboard web es limitado. El poder de OpenClaw es conectar múltiples canales.
+An agent that only lives on a web dashboard is limited. OpenClaw's power is connecting multiple channels.
 
-### Discord (recomendado como hub)
+### Discord (Recommended as Hub)
 
-Discord es el canal ideal para tu agente por varias razones: canales organizados por tema, threads para conversaciones específicas, sistema de permisos granular, soporte nativo de bots, y es completamente gratis.
+Discord is the ideal channel for your agent for several reasons: topic-organized channels, threads for specific conversations, granular permission system, native bot support, and it's completely free.
 
-Para conectar Discord:
+To connect Discord:
 
 ```bash
 openclaw channel add discord
 ```
 
-El wizard te guía para crear una aplicación de Discord, generar un bot token, e invitar al bot a tu servidor. Una vez conectado, podés hablar con tu agente en cualquier canal donde el bot tenga acceso.
+The wizard guides you through creating a Discord application, generating a bot token, and inviting the bot to your server. Once connected, you can talk to your agent in any channel where the bot has access.
 
-**Tip:** Creá un servidor de Discord dedicado para tu agente con canales por área — #general, #trabajo, #research, #notas. Así organizás las interacciones por contexto.
+**Tip:** Create a dedicated Discord server for your agent with channels by area — #general, #work, #research, #notes. This organizes interactions by context.
 
 ### WhatsApp
 
-Para conectar WhatsApp necesitás la API de Meta (WhatsApp Business API). No es el WhatsApp personal — es un número de teléfono dedicado con acceso programático.
+To connect WhatsApp you need the Meta API (WhatsApp Business API). This isn't personal WhatsApp — it's a dedicated phone number with programmatic access.
 
 ```bash
 openclaw channel add whatsapp
 ```
 
-Consultá nuestra guía de Meta WhatsApp Business API para el setup completo, incluyendo verificación de negocio y configuración de webhooks.
+Check our Meta WhatsApp Business API guide for the complete setup, including business verification and webhook configuration.
 
 ### Telegram
 
-Telegram es la opción más simple después de Discord. Creá un bot con @BotFather, obtené el token, y conectalo:
+Telegram is the simplest option after Discord. Create a bot with @BotFather, get the token, and connect it:
 
 ```bash
 openclaw channel add telegram
@@ -182,204 +182,204 @@ openclaw channel add telegram
 
 ### Signal
 
-Para los más conscientes de la privacidad. Signal ofrece encriptación end-to-end. La configuración requiere algunos pasos extra — consultá la documentación de OpenClaw para detalles.
+For the more privacy-conscious. Signal offers end-to-end encryption. The setup requires a few extra steps — check the OpenClaw documentation for details.
 
-## Personalizar tu agente
+## Customizing Your Agent
 
-Acá es donde tu agente deja de ser genérico y se convierte en tuyo. OpenClaw usa archivos de texto plano para definir la personalidad y el comportamiento del agente.
+This is where your agent stops being generic and becomes truly yours. OpenClaw uses plain text files to define the agent's personality and behavior.
 
-### SOUL.md — La personalidad
+### SOUL.md — The Personality
 
-Este archivo define quién es tu agente. Tono, expertise, limitaciones. Ejemplo:
+This file defines who your agent is. Tone, expertise, limitations. Example:
 
 ```bash
 # SOUL.md
-Sos un asistente personal de marketing digital.
-Tu nombre es Maia.
-Respondés en español (LATAM), de forma directa y práctica.
-Tenés expertise en SEO, contenido, y redes sociales.
-Cuando no sabés algo, lo decís claramente en vez de inventar.
+You are a personal digital marketing assistant.
+Your name is Maia.
+You respond in a direct and practical manner.
+You have expertise in SEO, content, and social media.
+When you don't know something, you say so clearly instead of making it up.
 ```
 
-### AGENTS.md — Las instrucciones
+### AGENTS.md — The Instructions
 
-Acá definís cómo trabaja tu agente. Reglas, workflows, herramientas disponibles. Ejemplo:
+Here you define how your agent works. Rules, workflows, available tools. Example:
 
 ```bash
 # AGENTS.md
-## Reglas generales
-- Antes de responder una pregunta técnica, verificá la info con una búsqueda web
-- Cuando recibas una tarea, confirmá el alcance antes de ejecutar
-- Guardá decisiones importantes en tu memoria
+## General rules
+- Before answering a technical question, verify the info with a web search
+- When you receive a task, confirm the scope before executing
+- Save important decisions in your memory
 
-## Workflow de contenido
-1. Recibís un tema → investigá keywords con Google Trends
-2. Creá un outline → esperá aprobación
-3. Escribí el borrador → mandalo a review
+## Content workflow
+1. Receive a topic → research keywords with Google Trends
+2. Create an outline → wait for approval
+3. Write the draft → send to review
 ```
 
-### USER.md — Contexto del usuario
+### USER.md — User Context
 
-Información sobre vos que el agente necesita saber para ser útil:
+Information about you that the agent needs to know to be useful:
 
 ```bash
 # USER.md
-Nombre: Juan
-Negocio: Agencia de marketing digital en Buenos Aires
-Clientes: PyMEs en LATAM
+Name: John
+Business: Digital marketing agency in Buenos Aires
+Clients: SMBs in LATAM
 Stack: n8n, Supabase, Next.js
-Zona horaria: GMT-3
+Timezone: GMT-3
 ```
 
-### MEMORY.md — Memoria persistente
+### MEMORY.md — Persistent Memory
 
-El agente escribe automáticamente acá lo que aprende sobre vos y las decisiones que se toman. También podés escribir vos directamente para darle contexto:
+The agent automatically writes here what it learns about you and decisions that are made. You can also write directly to give it context:
 
 ```bash
 # MEMORY.md
-- El cliente principal de Juan es una fintech en Colombia
-- Preferimos Sonnet para tareas rutinarias y Opus para análisis complejos
-- Los reportes semanales se envían los lunes a las 9am
+- John's main client is a fintech in Colombia
+- We prefer Sonnet for routine tasks and Opus for complex analysis
+- Weekly reports are sent on Mondays at 9am
 ```
 
-Estos archivos se leen al inicio de cada conversación, así que los cambios que hagas se aplican inmediatamente.
+These files are read at the start of every conversation, so changes you make take effect immediately.
 
-## Skills y herramientas
+## Skills and Tools
 
-Los skills son lo que transforman a tu agente de un chatbot inteligente a un asistente que realmente hace cosas.
+Skills are what transform your agent from a smart chatbot into an assistant that actually does things.
 
-### Skills incluidos
+### Included Skills
 
-OpenClaw viene con skills básicos preinstalados:
+OpenClaw comes with basic pre-installed skills:
 
-- **weather:** Consulta el clima para cualquier ubicación
+- **weather:** Check the weather for any location
 
-- **github:** Interactúa con repositorios, PRs, issues
+- **github:** Interact with repositories, PRs, issues
 
-- **coding-agent:** Delega tareas de código a Claude Code o Codex
+- **coding-agent:** Delegate code tasks to Claude Code or Codex
 
-- **web-search:** Busca en internet usando Brave Search
+- **web-search:** Search the internet using Brave Search
 
-- **web-fetch:** Lee y extrae contenido de URLs
+- **web-fetch:** Read and extract content from URLs
 
-### ClawhHub — Marketplace de skills
+### ClawhHub — Skills Marketplace
 
-En clawhub.com encontrás skills de la comunidad que podés instalar con un comando:
+At clawhub.com you'll find community skills you can install with a single command:
 
 ```bash
-openclaw skill install <nombre-del-skill>
+openclaw skill install <skill-name>
 ```
 
-Hay skills para Notion, Google Calendar, email, análisis de datos, y mucho más.
+There are skills for Notion, Google Calendar, email, data analysis, and much more.
 
-### Crear skills propios
+### Creating Custom Skills
 
-Si necesitás algo específico, podés crear tus propios skills. Un skill es básicamente un archivo SKILL.md con instrucciones y opcionalmente scripts que el agente puede ejecutar. Consultá nuestra guía de Claude Skills para aprender a crear los tuyos.
+If you need something specific, you can create your own skills. A skill is basically a SKILL.md file with instructions and optionally scripts the agent can execute. Check our Claude Skills guide to learn how to create your own.
 
-## Modelos y costos reales
+## Models and Real Costs
 
-¿Cuánto cuesta realmente operar un agente? Depende del modelo y de cuánto lo uses.
+How much does it really cost to operate an agent? It depends on the model and how much you use it.
 
-### Precios por modelo (por 1 millón de tokens)
+### Pricing per Model (per 1 Million Tokens)
 
 **Anthropic (Claude):**
 
-- Claude Opus 4: $5 input / $25 output — el más inteligente, para tareas complejas
+- Claude Opus 4: $5 input / $25 output — the smartest, for complex tasks
 
-- Claude Sonnet 4: $3 input / $15 output — balance ideal, recomendado para empezar
+- Claude Sonnet 4: $3 input / $15 output — ideal balance, recommended to start
 
-- Claude Haiku: $1 input / $5 output — rápido y barato, para tareas simples
+- Claude Haiku: $1 input / $5 output — fast and cheap, for simple tasks
 
 **OpenAI:**
 
-- GPT-4o: $2.5 input / $10 output — comparable a Sonnet en calidad
+- GPT-4o: $2.5 input / $10 output — comparable to Sonnet in quality
 
-- o3-mini: $1.1 input / $4.4 output — bueno para tareas rutinarias
+- o3-mini: $1.1 input / $4.4 output — good for routine tasks
 
-**Modelos locales (Ollama):**
+**Local models (Ollama):**
 
-- Gratis, pero necesitás GPU (mínimo 8GB VRAM para modelos útiles)
+- Free, but you need a GPU (minimum 8GB VRAM for useful models)
 
-- Calidad inferior a Claude/GPT para tareas complejas, pero funciona para cosas simples
+- Lower quality than Claude/GPT for complex tasks, but works for simple things
 
-### Estimado mensual
+### Monthly Estimate
 
-**Uso personal liviano** (un agente, ~300 mensajes por día, Sonnet 4): ~$5-15/mes
+**Light personal use** (one agent, ~300 messages per day, Sonnet 4): ~$5-15/month
 
-**Uso profesional** (un agente con tools activos, ~1000 mensajes por día, mix Sonnet/Haiku): ~$20-50/mes
+**Professional use** (one agent with active tools, ~1000 messages per day, Sonnet/Haiku mix): ~$20-50/month
 
-**Multi-agente intensivo** (como nosotros, varios agentes especializados, pipelines automatizados): ~$80-200/mes
+**Intensive multi-agent** (like us, multiple specialized agents, automated pipelines): ~$80-200/month
 
-**Tip:** Empezá con Sonnet 4 para todo. Cuando identifiques tareas que necesitan más inteligencia, subí a Opus solo para esas. Usá Haiku para tareas repetitivas y simples. Esa combinación optimiza costo sin sacrificar calidad.
+**Tip:** Start with Sonnet 4 for everything. When you identify tasks that need more intelligence, switch to Opus just for those. Use Haiku for repetitive and simple tasks. That combination optimizes cost without sacrificing quality.
 
-## Seguridad y mejores prácticas
+## Security and Best Practices
 
-Tu agente tiene acceso a herramientas y a tus canales de comunicación. Tomalo en serio:
+Your agent has access to tools and your communication channels. Take it seriously:
 
-**API key dedicada.** Creá una API key exclusiva para tu agente, separada de tus proyectos de desarrollo. Configurá un spending limit mensual en el dashboard de Anthropic u OpenAI.
+**Dedicated API key.** Create an API key exclusively for your agent, separate from your development projects. Set a monthly spending limit in the Anthropic or OpenAI dashboard.
 
-**Usuario de sistema separado.** Si corrés OpenClaw en una máquina dedicada, creá un usuario del sistema operativo exclusivo para el agente. Así limitás qué archivos y recursos puede acceder.
+**Separate system user.** If you run OpenClaw on a dedicated machine, create an exclusive operating system user for the agent. This limits which files and resources it can access.
 
-**No compartas datos sensibles.** Recordá que tus mensajes pasan por la API del modelo (Anthropic, OpenAI). No envíes contraseñas, datos bancarios, o información confidencial de clientes a través del agente.
+**Don't share sensitive data.** Remember that your messages go through the model provider's API (Anthropic, OpenAI). Don't send passwords, banking data, or confidential client information through the agent.
 
-**Firewall en VPS.** Si corrés OpenClaw en un VPS público, configurá un firewall. Solo necesitás el puerto del gateway abierto, y preferiblemente solo para tus IPs.
+**Firewall on VPS.** If you run OpenClaw on a public VPS, set up a firewall. You only need the gateway port open, and preferably only for your IPs.
 
-**Backups.** Hacé backup periódico de tu directorio de configuración de OpenClaw (~/.openclaw). Ahí están la config, la memoria del agente, y los archivos de personalización.
+**Backups.** Regularly back up your OpenClaw configuration directory (~/.openclaw). That's where config, agent memory, and personalization files live.
 
-**Monitoring.** Revisá regularmente:
+**Monitoring.** Check regularly:
 
-- `openclaw status` para ver el estado general
+- `openclaw status` for the overall state
 
-- El dashboard de tu proveedor de API para monitorear uso y costos
+- Your API provider dashboard to monitor usage and costs
 
-- Los logs del agente para detectar comportamiento inesperado
+- Agent logs for unexpected behavior
 
-**Checklist de seguridad:**
+**Security checklist:**
 
-- API key dedicada con spending limit
+- Dedicated API key with spending limit
 
-- Usuario de sistema separado
+- Separate system user
 
-- No compartir datos sensibles
+- Don't share sensitive data
 
-- Firewall configurado (si VPS)
+- Firewall configured (if VPS)
 
-- Backups regulares de ~/.openclaw
+- Regular backups of ~/.openclaw
 
-- Review semanal de costos y logs
+- Weekly review of costs and logs
 
-## Troubleshooting: preguntas frecuentes
+## Troubleshooting: FAQ
 
-**El gateway no arranca.**
-Verificá que Node.js 22+ está instalado (`node --version`). Probá `openclaw gateway --port 18789` para correrlo en foreground y ver errores en la terminal.
+**The gateway won't start.**
+Verify Node.js 22+ is installed (`node --version`). Try `openclaw gateway --port 18789` to run it in foreground and see errors in the terminal.
 
-**El agente no responde en Discord.**
-Verificá que el bot tiene permisos de lectura y escritura en el canal. Chequeá que el gateway está running con `openclaw gateway status`. Revisá que el token del bot es correcto.
+**The agent doesn't respond on Discord.**
+Verify the bot has read and write permissions in the channel. Check that the gateway is running with `openclaw gateway status`. Verify the bot token is correct.
 
-**Los costos suben más de lo esperado.**
-Un agente en loop puede consumir tokens rápidamente. Configurá spending limits en la plataforma del modelo. Revisá si hay conversaciones automáticas generando loops.
+**Costs are rising more than expected.**
+An agent in a loop can consume tokens quickly. Set spending limits on the model platform. Check if there are automated conversations generating loops.
 
-**El agente olvida cosas entre conversaciones.**
-Verificá que MEMORY.md existe y tiene permisos de escritura. La memoria se escribe automáticamente, pero si el archivo es read-only, el agente no puede guardar.
+**The agent forgets things between conversations.**
+Verify that MEMORY.md exists and has write permissions. Memory is written automatically, but if the file is read-only, the agent can't save.
 
-**¿Puedo usar modelos locales?**
-Sí. OpenClaw soporta Ollama para modelos locales. Pero para la mayoría de usos, Claude Sonnet ofrece mejor relación calidad/costo que correr un modelo local (a menos que tengas una GPU potente y no quieras pagar APIs).
+**Can I use local models?**
+Yes. OpenClaw supports Ollama for local models. But for most uses, Claude Sonnet offers a better quality/cost ratio than running a local model (unless you have a powerful GPU and don't want to pay for APIs).
 
-**¿Puedo tener múltiples agentes?**
-Sí. Podés configurar múltiples agentes con diferentes personalidades, herramientas, y canales. Cada uno tiene su propio directorio de trabajo con sus propios archivos SOUL.md, AGENTS.md, etc.
+**Can I have multiple agents?**
+Yes. You can configure multiple agents with different personalities, tools, and channels. Each one has its own working directory with its own SOUL.md, AGENTS.md, etc. files.
 
-## Siguientes pasos
+## Next Steps
 
-Ya tenés tu agente funcionando. ¿Qué sigue?
+You now have your agent running. What's next?
 
-- **Explorá skills en ClawhHub:** instalá 2-3 skills relevantes para tu trabajo y probá cómo el agente los usa
+- **Explore skills on ClawhHub:** install 2-3 skills relevant to your work and test how the agent uses them
 
-- **Conectá un segundo canal:** si empezaste con Discord, agregá WhatsApp o Telegram para tener acceso móvil
+- **Connect a second channel:** if you started with Discord, add WhatsApp or Telegram for mobile access
 
-- **Creá tus propios skills:** cuando identifiques una tarea que repetís frecuentemente, convertila en un skill
+- **Create your own skills:** when you identify a task you repeat frequently, turn it into a skill
 
-- **Investigá MCP servers:** el Model Context Protocol te permite conectar tu agente con bases de datos, APIs, y servicios externos de forma estándar — consultá nuestra guía de Building Your First MCP Server
+- **Look into MCP servers:** the Model Context Protocol lets you connect your agent with databases, APIs, and external services in a standard way — check our Building Your First MCP Server guide
 
-- **Considerá multi-agente:** si tu caso de uso crece, podés crear agentes especializados que trabajan en equipo — consultá nuestra guía de Agentes de IA en 2026 para entender las opciones
+- **Consider multi-agent:** if your use case grows, you can create specialized agents that work as a team — check our AI Agents in 2026 guide to understand the options
 
-OpenClaw es un proyecto activo con actualizaciones frecuentes. Unite a la comunidad en Discord para mantenerte al día y compartir lo que construiste.
+OpenClaw is an active project with frequent updates. Join the community on Discord to stay up to date and share what you've built.
