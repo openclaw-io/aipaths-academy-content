@@ -4,8 +4,8 @@ locale: "en"
 title: "How to Create Professional Presentations with Kimi AI (Free)"
 description: "Step-by-step tutorial to create professional presentations with Kimi AI for free. Effective prompts, comparison with Gamma and Canva AI, and tips for better results."
 author: "AIPaths Academy"
-publishedAt: "2026-02-22T18:16:00.217Z"
-updatedAt: "2026-02-22T18:16:00.217Z"
+publishedAt: "2026-02-22T18:15:58.954Z"
+updatedAt: "2026-03-10T18:25:00.000Z"
 coverImage: "https://raw.githubusercontent.com/openclaw-io/aipaths-academy-content/main/public/images/blogs/019_kimi-ai-presentaciones-slides-tutorial/hero.jpg"
 tags:
   - ai
@@ -14,184 +14,184 @@ tags:
   - productivity
 ---
 
-Si alguna vez necesitaste armar una presentación profesional en poco tiempo y sin gastar un peso, este tutorial es para vos. Kimi AI es una herramienta gratuita que genera presentaciones completas a partir de un simple texto. Sin plantillas genéricas, sin curva de aprendizaje complicada: le describís lo que necesitás y Kimi crea las diapositivas por vos.
+If you've ever needed to put together a professional presentation quickly and without spending a dime, this tutorial is for you. Kimi AI is a free tool that generates complete presentations from a simple text prompt. No generic templates, no complicated learning curve: you describe what you need and Kimi creates the slides for you.
 
-En esta guía te mostramos paso a paso cómo usar Kimi AI para crear presentaciones, qué prompts funcionan mejor, y cómo se compara con alternativas como Gamma o Canva AI.
+In this guide, we show you step by step how to use Kimi AI to create presentations, which prompts work best, and how it compares to alternatives like Gamma or Canva AI.
 
-## ¿Qué es Kimi AI?
+## What is Kimi AI?
 
-Kimi AI es una plataforma de inteligencia artificial creada por Moonshot AI, una empresa china fundada en 2023. Su modelo más reciente, K2.5, es un modelo multimodal masivo (más de 1 billón de parámetros) que entiende texto e imágenes.
+Kimi AI is an artificial intelligence platform created by Moonshot AI, a Chinese company founded in 2023. Their latest model, K2.5, is a massive multimodal model (over 1 trillion parameters) that understands text and images.
 
-Lo que hace especial a Kimi no es solo el chat — es su suite de herramientas integradas. Desde kimi.com podés acceder a:
+What makes Kimi special isn't just the chat — it's the integrated tool suite. From kimi.com you can access:
 
-- **Slides** — Generador de presentaciones (el foco de esta guía)
+- **Slides** — Presentation generator (the focus of this guide)
 
-- **Docs** — Agente de documentos
+- **Docs** — Document agent
 
-- **Websites** — Generador de sitios web
+- **Websites** — Website generator
 
-- **Sheets** — Hojas de cálculo inteligentes (hasta 1M filas)
+- **Sheets** — Smart spreadsheets (up to 1M rows)
 
-- **Deep Research** — Investigación autónoma
+- **Deep Research** — Autonomous research
 
-- **Agent Swarm** — Coordinación multi-agente (beta)
+- **Agent Swarm** — Multi-agent coordination (beta)
 
-**Y lo mejor: todo es gratuito. No hay prueba de 7 días ni límite de presentaciones.**
+**And the best part: everything is free. No 7-day trial, no presentation limits.**
 
-## Cómo registrarte y acceder a Kimi AI
+## How to Sign Up and Access Kimi AI
 
-### Paso 1: Ingresá a kimi.com
+### Step 1: Go to kimi.com
 
-Abrí tu navegador y andá a kimi.com. La interfaz está disponible en inglés y chino. Si aparece en chino, buscá el selector de idioma en la esquina superior derecha.
+Open your browser and go to kimi.com. The interface is available in English and Chinese. If it appears in Chinese, look for the language selector in the upper right corner.
 
-### Paso 2: Creá tu cuenta
+### Step 2: Create Your Account
 
-Hacé clic en "Sign Up" o "Log In". Podés registrarte con:
+Click "Sign Up" or "Log In." You can register with:
 
-- Correo electrónico (la opción más universal)
+- Email (the most universal option)
 
-- Cuenta de Google
+- Google account
 
-- Número de teléfono
+- Phone number
 
-No pide tarjeta de crédito ni datos de pago.
+No credit card or payment data required.
 
-### Paso 3: Navegá a la herramienta de Slides
+### Step 3: Navigate to the Slides Tool
 
-Dos formas de acceder:
+Two ways to access it:
 
-1. **Directo por URL:** kimi.com/slides
+1. **Direct URL:** kimi.com/slides
 
-1. **Desde el menú:** En la interfaz principal, buscá la sección de herramientas donde aparecen Slides, Docs, Websites, etc.
+2. **From the menu:** In the main interface, look for the tools section where Slides, Docs, Websites, etc. appear.
 
-## Crear tu primera presentación con Kimi AI
+## Creating Your First Presentation with Kimi AI
 
-El flujo es simple: describís → Kimi genera → editás → exportás.
+The flow is simple: describe → Kimi generates → edit → export.
 
-### Paso 1: Escribí tu prompt
+### Step 1: Write Your Prompt
 
-En la herramienta de Slides, encontrarás un campo de texto donde describís la presentación que necesitás. Mientras más claro seas, mejor el resultado.
+In the Slides tool, you'll find a text field where you describe the presentation you need. The clearer you are, the better the result.
 
-**Ejemplo básico:**
+**Basic example:**
 
-> Crea una presentación de 10 diapositivas sobre estrategias de marketing digital para pequeñas empresas en Latinoamérica. Incluye estadísticas relevantes, ejemplos prácticos y un slide final con conclusiones y call to action.
+> Create a 10-slide presentation about digital marketing strategies for small businesses in Latin America. Include relevant statistics, practical examples, and a final slide with conclusions and a call to action.
 
-### Paso 2: Generá las diapositivas
+### Step 2: Generate the Slides
 
-Hacé clic en "Create". Kimi procesará tu solicitud y en 30 a 90 segundos tendrás una presentación completa. El resultado incluye:
+Click "Create." Kimi will process your request, and in 30 to 90 seconds you'll have a complete presentation. The result includes:
 
-- Título y subtítulos para cada diapositiva
+- Title and subtitles for each slide
 
-- Contenido estructurado con bullet points
+- Structured content with bullet points
 
-- Diseño visual coherente (colores, tipografía, layout)
+- Coherent visual design (colors, typography, layout)
 
-- Transiciones entre temas
+- Transitions between topics
 
-### Paso 3: Editá y personalizá
+### Step 3: Edit and Customize
 
-Las diapositivas generadas son editables. Podés:
+The generated slides are editable. You can:
 
-- Modificar texto, títulos y contenido directamente
+- Modify text, titles, and content directly
 
-- Cambiar el estilo visual o la plantilla
+- Change the visual style or template
 
-- Agregar o eliminar diapositivas
+- Add or remove slides
 
-- Reordenar secciones
+- Reorder sections
 
-- Pedirle a Kimi que regenere slides específicas con instrucciones nuevas
+- Ask Kimi to regenerate specific slides with new instructions
 
-### Paso 4: Exportá
+### Step 4: Export
 
-Una vez que estés conforme, exportá la presentación. Los formatos disponibles incluyen PDF y PPTX (PowerPoint). El PPTX te permite seguir editando en PowerPoint, Google Slides o Keynote.
+Once you're satisfied, export the presentation. Available formats include PDF and PPTX (PowerPoint). The PPTX format lets you continue editing in PowerPoint, Google Slides, or Keynote.
 
-## Prompts efectivos para mejores presentaciones
+## Effective Prompts for Better Presentations
 
-La calidad de tu presentación depende directamente de la calidad de tu prompt. Acá van algunas técnicas:
+The quality of your presentation depends directly on the quality of your prompt. Here are some techniques:
 
-### 1. Sé específico con la estructura
+### 1. Be Specific About Structure
 
-**❌ Malo:** "Haceme una presentación sobre marketing"
+**❌ Bad:** "Make me a presentation about marketing"
 
-**✅ Bueno:** "Crea 12 slides sobre marketing de contenidos para SaaS B2B. Slide 1: portada. Slides 2-3: problema y contexto. Slides 4-8: 5 estrategias con ejemplos. Slide 9-10: métricas clave. Slide 11: caso de éxito. Slide 12: conclusión con CTA."
+**✅ Good:** "Create 12 slides about content marketing for B2B SaaS. Slide 1: cover. Slides 2-3: problem and context. Slides 4-8: 5 strategies with examples. Slides 9-10: key metrics. Slide 11: success story. Slide 12: conclusion with CTA."
 
-### 2. Indicá el público objetivo
+### 2. Specify the Target Audience
 
-> "La audiencia son founders de startups en etapa seed en LATAM. Nivel técnico medio. Prefieren datos concretos sobre teoría."
+> "The audience is seed-stage startup founders in LATAM. Medium technical level. They prefer concrete data over theory."
 
-### 3. Definí el tono y estilo
+### 3. Define Tone and Style
 
-> "Tono profesional pero no corporativo. Diseño minimalista con fondo oscuro. Usa iconos en vez de imágenes stock."
+> "Professional but not corporate tone. Minimalist design with dark background. Use icons instead of stock images."
 
-### 4. Pedí datos y fuentes
+### 4. Ask for Data and Sources
 
-> "Incluí estadísticas reales con fuente citada en cada slide que tenga datos numéricos."
+> "Include real statistics with cited sources on every slide that has numerical data."
 
-### 5. Iterá
+### 5. Iterate
 
-No esperes perfección en el primer intento. Generá la primera versión, identificá qué mejorar, y pedile a Kimi que ajuste slides específicas: "Reescribí la slide 4 con más énfasis en el ROI y menos texto."
+Don't expect perfection on the first try. Generate the first version, identify what to improve, and ask Kimi to adjust specific slides: "Rewrite slide 4 with more emphasis on ROI and less text."
 
-## Las otras herramientas de Kimi
+## Kimi's Other Tools
 
-Si bien esta guía se enfoca en presentaciones, vale la pena conocer el resto de la suite porque se complementan:
+While this guide focuses on presentations, it's worth knowing the rest of the suite because they complement each other:
 
-**Docs Agent (kimi.com/docs):** Redactá, estructurá y editá documentos largos. Ideal para propuestas comerciales, reportes, o documentación técnica. Funciona como un Google Docs con copiloto integrado.
+**Docs Agent (kimi.com/docs):** Write, structure, and edit long documents. Ideal for business proposals, reports, or technical documentation. Works like a Google Docs with an integrated copilot.
 
-**Websites (kimi.com/websites):** Generá sitios web de múltiples páginas desde un prompt. Landing pages, portafolios, páginas de producto. Sin programar.
+**Websites (kimi.com/websites):** Generate multi-page websites from a prompt. Landing pages, portfolios, product pages. No coding required.
 
-**Sheets (kimi.com/sheets):** Procesá hasta 1 millón de filas de datos. Análisis, limpieza, transformaciones — sin fórmulas complicadas.
+**Sheets (kimi.com/sheets):** Process up to 1 million rows of data. Analysis, cleaning, transformations — without complicated formulas.
 
-**Deep Research (kimi.com/deep-research):** Un agente autónomo que navega hasta 96 páginas web en menos de un minuto y te entrega un informe sintetizado. Perfecto para research de mercado o análisis competitivo.
+**Deep Research (kimi.com/deep-research):** An autonomous agent that browses up to 96 web pages in under a minute and delivers a synthesized report. Perfect for market research or competitive analysis.
 
-**Agent Swarm (kimi.com/agent-swarm):** Múltiples agentes coordinados trabajando en paralelo. En beta, pero la dirección es clara: automatización de flujos complejos.
+**Agent Swarm (kimi.com/agent-swarm):** Multiple coordinated agents working in parallel. In beta, but the direction is clear: automation of complex workflows.
 
-*Tip: Podés usar Deep Research para investigar un tema, Docs para estructurar el contenido, y Slides para crear la presentación final. Todo gratis, todo en la misma plataforma.*
+*Tip: You can use Deep Research to investigate a topic, Docs to structure the content, and Slides to create the final presentation. All free, all on the same platform.*
 
-## Kimi vs alternativas para presentaciones
+## Kimi vs Alternatives for Presentations
 
-¿Cómo se compara Kimi con las opciones que probablemente ya conocés?
+How does Kimi compare to the options you probably already know?
 
-**Gamma.app:** La alternativa más popular para slides con IA. Plan gratuito limitado (créditos), plan pro desde $8/mes. Mejor diseño visual que Kimi en muchos casos, pero no es completamente gratis.
+**Gamma.app:** The most popular alternative for AI slides. Free plan is limited (credits), pro plan from $8/month. Better visual design than Kimi in many cases, but not completely free.
 
-**Beautiful.ai:** Desde $12/mes. Buen diseño automático pero caro y sin plan gratuito real.
+**Beautiful.ai:** From $12/month. Good automatic design but expensive and no real free plan.
 
-**Canva AI:** Plan gratuito con funciones de IA limitadas. Canva Pro ($13/mes) tiene más opciones. Bueno para diseño visual, menos potente en generación de contenido.
+**Canva AI:** Free plan with limited AI features. Canva Pro ($13/month) has more options. Good for visual design, less powerful for content generation.
 
-**ChatGPT + plugins:** Puede generar contenido para slides pero no crea presentaciones editables nativamente. Necesitás combinar con otra herramienta.
+**ChatGPT + plugins:** Can generate slide content but doesn't natively create editable presentations. You need to combine with another tool.
 
-**Google Slides + Gemini:** La integración de Gemini en Google Slides es básica todavía. Ayuda con texto pero no genera presentaciones completas.
+**Google Slides + Gemini:** Gemini's integration in Google Slides is still basic. Helps with text but doesn't generate complete presentations.
 
-**La ventaja de Kimi: es la única opción completamente gratuita que genera presentaciones editables de principio a fin, con un modelo de IA potente detrás.**
+**Kimi's advantage: it's the only completely free option that generates editable presentations from start to finish, with a powerful AI model behind it.**
 
-## Limitaciones y consideraciones
+## Limitations and Considerations
 
-Antes de mudarte completamente a Kimi, tené en cuenta estos puntos:
+Before fully switching to Kimi, keep these points in mind:
 
-**Empresa china y privacidad de datos.** Kimi es desarrollado por Moonshot AI en Beijing. Tus datos pasan por servidores chinos. Si trabajás con información sensible o confidencial, evaluá esto cuidadosamente. Para presentaciones genéricas o de uso interno básico, probablemente no sea un problema. Para datos financieros de clientes o información regulada, usá alternativas con servidores en tu jurisdicción.
+**Chinese company and data privacy.** Kimi is developed by Moonshot AI in Beijing. Your data passes through Chinese servers. If you work with sensitive or confidential information, evaluate this carefully. For generic presentations or basic internal use, it's probably not an issue. For client financial data or regulated information, use alternatives with servers in your jurisdiction.
 
-**Idioma.** Kimi maneja bien el español, pero fue entrenado con más contenido en inglés y chino. Si generás presentaciones en español, revisá que no haya traducciones raras o modismos incorrectos. Tip: podés generar en inglés y después pedirle que traduzca, o viceversa.
+**Language.** Kimi handles English well, but was trained with more content in English and Chinese. If you generate presentations in Spanish, check for odd translations or incorrect idioms. Tip: you can generate in English and then ask it to translate, or vice versa.
 
-**Consistencia visual.** El diseño de las presentaciones es funcional pero no siempre a nivel de diseñador gráfico. Para pitch decks de inversores o presentaciones con estándares de marca estrictos, vas a querer ajustar el diseño después de la generación.
+**Visual consistency.** The presentation design is functional but not always at a graphic designer level. For investor pitch decks or presentations with strict brand standards, you'll want to adjust the design after generation.
 
-**Disponibilidad.** Como servicio gratuito de una startup, puede haber momentos de carga lenta o caídas temporales. No dependas 100% de Kimi para una presentación urgente sin tener un plan B.
+**Availability.** As a free service from a startup, there may be moments of slow loading or temporary outages. Don't rely 100% on Kimi for an urgent presentation without having a backup plan.
 
-**Sostenibilidad del modelo gratuito.** Hoy es gratis, pero nadie garantiza que lo sea para siempre. Aprovechalo ahora, pero no construyas toda tu operación sobre una herramienta que podría cambiar de modelo de negocio.
+**Sustainability of the free model.** It's free today, but nobody guarantees it will be forever. Take advantage of it now, but don't build your entire operation on a tool that could change its business model.
 
-## Conclusión: ¿para quién es Kimi AI?
+## Conclusion: Who is Kimi AI For?
 
-Kimi AI es ideal para:
+Kimi AI is ideal for:
 
-- **Freelancers y consultores** que necesitan crear presentaciones para clientes sin invertir en herramientas de pago
+- **Freelancers and consultants** who need to create presentations for clients without investing in paid tools
 
-- **Emprendedores bootstrapping** que quieren materiales profesionales sin presupuesto de diseño
+- **Bootstrapping entrepreneurs** who want professional materials without a design budget
 
-- **Estudiantes y profesores** que preparan contenido educativo con frecuencia
+- **Students and teachers** who prepare educational content frequently
 
-- **Equipos pequeños** que necesitan productividad rápida sin suscripciones mensuales
+- **Small teams** that need quick productivity without monthly subscriptions
 
-No reemplaza a un diseñador gráfico para pitch decks de alto impacto. Pero para el 80% de las presentaciones que la mayoría de profesionales necesitan crear en su día a día, Kimi AI hace el trabajo — y lo hace gratis.
+It doesn't replace a graphic designer for high-impact pitch decks. But for 80% of the presentations most professionals need to create in their day-to-day work, Kimi AI gets the job done — and it does it for free.
 
 ---
 
-*Probá Kimi AI en kimi.com/slides y creá tu primera presentación en menos de 2 minutos. Si querés conocer más sobre la herramienta, leé nuestro artículo completo: "Kimi AI: La IA China que Regala lo que ChatGPT Cobra".*
+*Try Kimi AI at kimi.com/slides and create your first presentation in under 2 minutes. If you want to learn more about the tool, read our full article: "Kimi AI: The Chinese AI That Gives Away What ChatGPT Charges For."*
