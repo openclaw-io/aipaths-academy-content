@@ -601,7 +601,7 @@ Pero para desarrolladores profesionales construyendo sistemas de producción com
 
 ## Lectura Adicional
 
-- [Construyendo Tu Primer Servidor MCP](https://www.aipaths.academy/es/docs/building-first-mcp-server) - Extiende las capacidades de Claude Code
+- [Construyendo Tu Primer Servidor MCP](https://www.aipaths.academy/es/guias/building-first-mcp-server) - Extiende las capacidades de Claude Code
 - [10 Patrones de Prompt Que Cambiaron Mi Flujo de Trabajo con Claude](https://www.aipaths.academy/es/blog/prompt-patterns-workflow) - Obtén más de Claude Code
 - [Cursor 2.0: Qué Hay de Nuevo y Por Qué Importa](https://www.aipaths.academy/es/blog/cursor-2-0-updates) - Análisis profundo de lo último de Cursor
 - [Documentación Oficial de Claude Code](https://docs.anthropic.com/claude-code)

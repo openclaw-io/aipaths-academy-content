@@ -33,7 +33,7 @@ tags:
 
 **Tienes una idea. ¿Y ahora qué?**
 
-Ya hiciste el trabajo difícil de [encontrar tu nicho](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide). Identificaste una audiencia específica con un problema urgente. Estás emocionado. Quieres empezar a construir.
+Ya hiciste el trabajo difícil de [encontrar tu nicho](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide). Identificaste una audiencia específica con un problema urgente. Estás emocionado. Quieres empezar a construir.
 
 **Para.**
 
@@ -190,7 +190,7 @@ Cada nivel se construye sobre el anterior. No te saltes niveles—los insights s
 **Confianza:** Baja
 **Lo que estás probando:** ¿Existe demanda en absoluto?
 
-Si seguiste nuestra guía de [Encontrar Tu Nicho Rentable](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide), ya hiciste mucho de esto. Aquí hay un resumen rápido de las señales clave:
+Si seguiste nuestra guía de [Encontrar Tu Nicho Rentable](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide), ya hiciste mucho de esto. Aquí hay un resumen rápido de las señales clave:
 
 ### Demanda de Búsqueda
 
@@ -1232,4 +1232,4 @@ Revisa nuestra [Plantilla de Landing Page SaaS](https://www.aipaths.academy/es/r
 
 **¿Necesitas revisar tu nicho?**
 
-Vuelve a nuestra [Guía para Encontrar Tu Nicho Rentable](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide) para el framework completo.
+Vuelve a nuestra [Guía para Encontrar Tu Nicho Rentable](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide) para el framework completo.

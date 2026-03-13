@@ -597,7 +597,7 @@ Los servidores MCP transforman a Claude de una IA conversacional en un compañer
 - [Especificación Model Context Protocol](https://spec.modelcontextprotocol.io/)
 - [Servidores MCP Oficiales](https://github.com/modelcontextprotocol/servers)
 - [Herramienta MCP Inspector](https://github.com/modelcontextprotocol/inspector)
-- [Guía para Construir Tu Primer Servidor MCP](https://www.aipaths.academy/es/docs/building-first-mcp-server)
+- [Guía para Construir Tu Primer Servidor MCP](https://www.aipaths.academy/es/guias/building-first-mcp-server)
 - [Documentación de Claude for Desktop](https://claude.ai/download)
 - [Documentación de Playwright](https://playwright.dev/)
 

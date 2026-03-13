@@ -321,7 +321,7 @@ Aquí está lo que la mayoría se equivoca: **No necesitas ser científico de da
 
 **Recursos:**
 - Guía de Ingeniería de Prompts de OpenAI (gratis)
-- [Mejores Prácticas de Ingeniería de Prompts de AIPaths Academy](/es/docs/005_prompt-engineering-best-practices)
+- [Mejores Prácticas de Ingeniería de Prompts de AIPaths Academy](/es/guias/prompt-engineering-best-practices)
 - Practica con Claude o ChatGPT diariamente
 
 **2. Básicos de API** (2-3 semanas para aprender)
@@ -612,10 +612,10 @@ La única pregunta es: **¿La verás suceder, o aprovecharás para ganar con ell
 ## Recursos Para Empezar
 
 **Lectura Esencial:**
-- [Guía de Agentes de IA](/es/docs/001_ai-agents-guide) - Entendiendo agentes de IA
-- [Mejores Prácticas de Ingeniería de Prompts](/es/docs/005_prompt-engineering-best-practices) - Domina prompting
-- [Encontrar Tu Nicho Rentable](/es/docs/008_finding-profitable-niche-guide) - Identifica y valida oportunidades
-- [Construir Tu Primer Servidor MCP](/es/docs/004_building-first-mcp-server) - Automatización avanzada
+- [Guía de Agentes de IA](/es/guias/ai-agents-guide) - Entendiendo agentes de IA
+- [Mejores Prácticas de Ingeniería de Prompts](/es/guias/prompt-engineering-best-practices) - Domina prompting
+- [Encontrar Tu Nicho Rentable](/es/guias/finding-profitable-niche-guide) - Identifica y valida oportunidades
+- [Construir Tu Primer Servidor MCP](/es/guias/building-first-mcp-server) - Automatización avanzada
 
 **Comunidad y Soporte:**
 - [Discord de Anthropic](https://discord.gg/anthropic) - Comunidad y soporte de Claude

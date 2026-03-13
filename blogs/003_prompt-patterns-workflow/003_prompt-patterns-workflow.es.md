@@ -877,9 +877,9 @@ Estos 10 patrones transformaron mi flujo de trabajo con Claude de frustrante a i
 
 ## Lectura Adicional
 
-- [Prompt Engineering para Claude: Mejores Prácticas](https://www.aipaths.academy/es/docs/prompt-engineering-best-practices)
-- [Guía de Ventana de Contexto de Claude](https://www.aipaths.academy/es/docs/claude-context-window)
-- [Construyendo Servidores MCP](https://www.aipaths.academy/es/docs/building-first-mcp-server)
+- [Prompt Engineering para Claude: Mejores Prácticas](https://www.aipaths.academy/es/guias/prompt-engineering-best-practices)
+- [Guía de Ventana de Contexto de Claude](https://www.aipaths.academy/es/guias/claude-context-window)
+- [Construyendo Servidores MCP](https://www.aipaths.academy/es/guias/building-first-mcp-server)
 - [Guía de Prompt Engineering de Anthropic](https://docs.anthropic.com/claude/docs/prompt-engineering)
 
 ---
