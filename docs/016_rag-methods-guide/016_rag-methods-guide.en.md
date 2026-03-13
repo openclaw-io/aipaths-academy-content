@@ -326,3 +326,10 @@ Now that you understand the 4 methods:
 ---
 
 **Questions?** Join our Discord community to discuss RAG implementations.
+
+## Related content
+
+- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/guides/n8n-complete-beginners-guide) — Learn n8n to build no-code RAG pipelines
+- 📘 [**Create an AI News Digest with n8n**](https://www.aipaths.academy/en/guides/n8n-ai-news-workflow-free) — Practical example of a workflow using AI data processing
+- 📘 [**Prompt Engineering for Claude: Best Practices**](https://www.aipaths.academy/en/guides/prompt-engineering-best-practices) — Optimize the prompts your RAG pipelines use
+- 📝 [**Build a Documentation Chatbot with Claude and RAG**](https://www.aipaths.academy/en/blog/rag-documentation-chatbot) — Hands-on tutorial applying these RAG methods

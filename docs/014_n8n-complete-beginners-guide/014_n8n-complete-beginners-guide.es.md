@@ -376,3 +376,11 @@ Ahora que entiendes los fundamentos de n8n, aqui esta tu ruta de aprendizaje:
 ---
 
 **Preguntas?** Abre un issue o unete a nuestras discusiones de la comunidad!
+
+## Contenido relacionado
+
+- 📘 [**Crea un Digest de Noticias IA Gratis con n8n**](https://www.aipaths.academy/es/guias/n8n-ai-news-workflow-free) — Tu primer workflow real: automatizá un digest de noticias con IA
+- 📘 [**Guía Completa de RAG: 4 Métodos para Conectar Agentes con Datos**](https://www.aipaths.academy/es/guias/rag-methods-guide) — Conectá n8n con bases de conocimiento usando RAG
+- 📘 [**Guía de Meta WhatsApp Business API**](https://www.aipaths.academy/es/guias/meta-api-whatsapp) — Integrá WhatsApp con tus workflows de n8n
+- 📝 [**n8n es Ahora una Plataforma AI-First**](https://www.aipaths.academy/es/blog/n8n-ai-first-platform) — Por qué el 75% de los usuarios de n8n ya construyen workflows de IA
+- 📝 [**API de WhatsApp Business: Cambios de Política 2026**](https://www.aipaths.academy/es/blog/meta-whatsapp-api-2026-policy) — Lo que necesitás saber antes de automatizar WhatsApp

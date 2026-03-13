@@ -150,3 +150,9 @@ Meta's WhatsApp policy changes represent a significant shift in how AI can opera
 - [TechCrunch: Brazil orders Meta to suspend AI chatbot ban](https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/)
 - [TechCrunch: Italy tells Meta to suspend rival AI chatbot ban](https://techcrunch.com/2025/12/24/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp/)
 - [EU Commission: Antitrust investigation into Meta's WhatsApp policy](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2896)
+
+## Related content
+
+- 📘 [**Meta WhatsApp Business API Guide**](https://www.aipaths.academy/en/guides/meta-api-whatsapp) — Complete technical guide for setting up the WhatsApp API
+- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/guides/n8n-complete-beginners-guide) — Automate WhatsApp with n8n workflows
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — Use AI agents as your WhatsApp business interface

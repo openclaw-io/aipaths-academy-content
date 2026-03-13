@@ -245,3 +245,9 @@ Meta assigns quality ratings (High/Medium/Low) based on:
 - [WhatsApp Business Manager Setup](https://www.wati.io/en/blog/meta-business-suite-whatsapp/) - Setup best practices
 - [WABA Structure Explained](https://docs.360dialog.com/docs/waba-basics/onboarding-guide-summary) - Account hierarchy
 - [WhatsApp Cloud API Guide](https://www.kommunicate.io/blog/all-about-whatsapp-cloud-api/) - Cloud API overview
+
+## Related content
+
+- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/guides/n8n-complete-beginners-guide) — Automate WhatsApp with n8n: the most popular combo
+- 📝 [**WhatsApp Business API: 2026 Policy Changes**](https://www.aipaths.academy/en/blog/meta-whatsapp-api-2026-policy) — Regulatory changes affecting how you use the API
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — Connect AI agents to WhatsApp for automated support
