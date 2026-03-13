@@ -72,3 +72,9 @@ Para el ecosistema de IA, este es un momento definitorio. La pregunta ya no es s
 El mercado ya respondió. Claude es #1 en el App Store. La comunidad tech está del lado de Anthropic. Y los emprendedores que entiendan que valores y tecnología van de la mano en 2026 van a tener una ventaja competitiva real.
 
 La partida de ajedrez entre gobiernos, corporaciones de IA, y usuarios recién empieza. Prestá atención — porque las fichas se están moviendo rápido.
+
+## Contenido relacionado
+
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — Entendé el ecosistema de agentes que Anthropic y otros están construyendo
+- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/guias/seguridad-agentes-ia-guia-practica) — La seguridad que Anthropic predica aplicada a tus propios agentes
+- 📝 [**Peter Steinberger: De PDFs a Agentes de IA**](https://www.aipaths.academy/es/blog/peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — Cómo el creador de OpenClaw construye agentes con la misma filosofía de seguridad

@@ -231,3 +231,10 @@ Si respondiste "no" a más de 3 de estas preguntas, probablemente estás más ce
 La buena noticia: cada uno de estos puntos se puede implementar incrementalmente. No necesitás transformar tu workflow de un día para el otro. Empezá con el spec y los tests — esos dos solos ya cambian dramáticamente la calidad del output.
 
 Si querés ver estos principios aplicados en un sistema real — con context engineering, memory files, herramientas definidas y oversight humano — es exactamente lo que hacemos en AIPaths con OpenClaw. Cada agente tiene su SOUL.md, su AGENTS.md, sus herramientas restringidas, y un humano que revisa todo antes de que llegue a producción.
+
+## Related content
+
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — What they are, how they work, and how to choose the right framework
+- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/guides/configurar-primer-agente-ia-openclaw-guia-completa) — Put agentic engineering into practice with a real agent running on your machine
+- 📘 [**Security for AI Agents: Practical Guide**](https://www.aipaths.academy/en/guides/seguridad-agentes-ia-guia-practica) — The human oversight pillar applied: permissions, costs, and data protection
+- 📝 [**Peter Steinberger: From PDFs to AI Agents**](https://www.aipaths.academy/en/blog/peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — The story behind OpenClaw, the tool that implements these principles

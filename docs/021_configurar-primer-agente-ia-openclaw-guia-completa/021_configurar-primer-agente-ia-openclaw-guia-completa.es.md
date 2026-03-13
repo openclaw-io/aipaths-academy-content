@@ -383,3 +383,10 @@ Ya tenés tu agente funcionando. ¿Qué sigue?
 - **Considerá multi-agente:** si tu caso de uso crece, podés crear agentes especializados que trabajan en equipo — consultá nuestra guía de Agentes de IA en 2026 para entender las opciones
 
 OpenClaw es un proyecto activo con actualizaciones frecuentes. Unite a la comunidad en Discord para mantenerte al día y compartir lo que construiste.
+
+## Contenido relacionado
+
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — Entendé qué son los agentes de IA y cómo elegir el framework correcto
+- 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/guias/agentic-engineering-framework) — Los principios profesionales para trabajar con agentes — el siguiente nivel después de configurar
+- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/guias/seguridad-agentes-ia-guia-practica) — Configuraste tu agente; ahora asegurá permisos, datos y costos
+- 📝 [**Anthropic vs el Pentágono**](https://www.aipaths.academy/es/blog/anthropic-pentagono-ia-etica-seguridad-2026) — El contexto geopolítico detrás de los modelos que usan tus agentes

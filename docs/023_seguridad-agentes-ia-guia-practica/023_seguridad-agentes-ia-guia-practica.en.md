@@ -187,3 +187,10 @@ Each agent has its own isolated workspace — none can access another's files. S
 AI agent security comes down to four fronts: protecting against malicious instructions (prompt injection + permissions), controlling costs (spending limits + model strategy), protecting data (new employee rule + memory hygiene), and verifying outputs (progressive autonomy + human confirmation).
 
 You don't need to be a cybersecurity expert. 80% of protection comes from consistently applying simple principles. Start with the initial setup checklist, incorporate weekly reviews into your routine, and remember: give your agent responsibilities progressively, as you would with any new employee. Those who set up security well today will be able to scale with confidence tomorrow.
+
+## Related content
+
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — The complete AI agents landscape: what they are, how they work, and which to choose
+- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/guides/configurar-primer-agente-ia-openclaw-guia-completa) — Step-by-step tutorial to install your agent with security best practices
+- 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/guides/agentic-engineering-framework) — The human oversight pillar that complements this security guide
+- 📝 [**Moltbook: The AI Agent Social Network**](https://www.aipaths.academy/en/blog/moltbook-social-network-ai-agents) — What happens when agents interact with each other without proper oversight

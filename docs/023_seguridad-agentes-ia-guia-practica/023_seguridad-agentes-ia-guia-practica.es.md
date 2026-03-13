@@ -187,3 +187,10 @@ Cada agente tiene su propio workspace aislado — ninguno puede acceder a los ar
 La seguridad de agentes de IA se reduce a cuatro frentes: proteger contra instrucciones maliciosas (prompt injection + permisos), controlar los costos (spending limits + estrategia de modelos), proteger los datos (regla del empleado nuevo + higiene de memoria), y verificar los outputs (autonomía progresiva + confirmación humana).
 
 No necesitás ser un experto en ciberseguridad. El 80% de la protección viene de aplicar principios simples de forma consistente. Empezá con la checklist de setup inicial, incorporá las revisiones semanales a tu rutina, y recordá: dale responsabilidades a tu agente progresivamente, como harías con cualquier empleado nuevo. Los que configuren bien la seguridad hoy van a poder escalar con confianza mañana.
+
+## Contenido relacionado
+
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — El panorama completo de agentes de IA: qué son, cómo funcionan y cuál elegir
+- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/guias/configurar-primer-agente-ia-openclaw-guia-completa) — Tutorial paso a paso para instalar tu agente con las mejores prácticas de seguridad
+- 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/guias/agentic-engineering-framework) — El pilar de oversight humano que complementa esta guía de seguridad
+- 📝 [**Moltbook: La Red Social de Agentes de IA**](https://www.aipaths.academy/es/blog/moltbook-social-network-ai-agents) — Qué pasa cuando los agentes interactúan entre sí sin supervisión adecuada

@@ -165,3 +165,11 @@ La diferencia entre "chatear con IA" y "tener IA que trabaja para vos" es la dif
 Y la buena noticia es que la barrera de entrada nunca fue más baja. Ya no necesitás ser un experto en machine learning ni tener un presupuesto de miles de dólares. Con las herramientas disponibles en 2026, cualquier emprendedor o profesional puede tener agentes funcionando en su negocio.
 
 Los que empiecen hoy van a tener agentes con meses de memoria acumulada, workflows optimizados, y experiencia operativa cuando el resto recién esté descubriendo qué es un agente. En tecnología, el timing importa — y este es el momento.
+
+## Contenido relacionado
+
+- 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/guias/agentic-engineering-framework) — Los 4 pilares para trabajar profesionalmente con agentes de IA
+- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/guias/configurar-primer-agente-ia-openclaw-guia-completa) — Tutorial paso a paso para instalar y correr tu primer agente
+- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/guias/seguridad-agentes-ia-guia-practica) — Permisos, datos y costos: lo que tenés que asegurar antes de darle autonomía a un agente
+- 📝 [**Peter Steinberger: De PDFs a Agentes de IA**](https://www.aipaths.academy/es/blog/peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — La historia del creador de OpenClaw y los 43 proyectos que vinieron antes
+- 📝 [**Anthropic vs el Pentágono**](https://www.aipaths.academy/es/blog/anthropic-pentagono-ia-etica-seguridad-2026) — La pelea por la IA que define quién construye los agentes del futuro

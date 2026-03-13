@@ -187,3 +187,9 @@ La plataforma pudo haber sido desordenada, sobrevalorada y plagada de agujeros d
 **Te gustó este post?** Compartilo con otros que les pueda interesar.
 
 **Tenés preguntas o feedback?** Dejá un comentario abajo o [abrí un issue en GitHub](https://github.com/openclaw-io/aipaths-academy-content/issues).
+
+## Contenido relacionado
+
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — Todo lo que necesitás saber sobre agentes de IA antes de ponerlos a interactuar
+- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/guias/seguridad-agentes-ia-guia-practica) — Por qué la seguridad importa aún más cuando los agentes hablan entre sí
+- 📝 [**Anthropic vs el Pentágono**](https://www.aipaths.academy/es/blog/anthropic-pentagono-ia-etica-seguridad-2026) — El debate sobre ética y seguridad que define el futuro de los agentes autónomos

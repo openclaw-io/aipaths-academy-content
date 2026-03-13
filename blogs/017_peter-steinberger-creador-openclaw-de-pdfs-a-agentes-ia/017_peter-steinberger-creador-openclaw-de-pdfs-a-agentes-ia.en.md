@@ -150,3 +150,9 @@ Peter Steinberger's story isn't a playbook you can copy. It's something better: 
 *Peter Steinberger didn't plan to create OpenClaw. He didn't plan to burn out. He didn't plan to end up at OpenAI. But he never stopped building — even when building meant 43 projects nobody was going to use.*
 
 ***If you're on project 5, or 15, or 40 — keep building. Number 44 might be the one that changes everything.***
+
+## Related content
+
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — Understand the complete agent ecosystem that OpenClaw helped create
+- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/guides/configurar-primer-agente-ia-openclaw-guia-completa) — Try OpenClaw yourself: step-by-step tutorial
+- 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/guides/agentic-engineering-framework) — The professional methodology born from tools like OpenClaw

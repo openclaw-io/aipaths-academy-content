@@ -165,3 +165,11 @@ The difference between "chatting with AI" and "having AI that works for you" is 
 And the good news is that the barrier to entry has never been lower. You no longer need to be a machine learning expert or have a budget of thousands of dollars. With the tools available in 2026, any entrepreneur or professional can have agents running in their business.
 
 Those who start today will have agents with months of accumulated memory, optimized workflows, and operational experience when everyone else is just discovering what an agent is. In technology, timing matters — and this is the moment.
+
+## Related content
+
+- 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/guides/agentic-engineering-framework) — The 4 pillars for working professionally with AI agents
+- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/guides/configurar-primer-agente-ia-openclaw-guia-completa) — Step-by-step tutorial to install and run your first agent
+- 📘 [**Security for AI Agents: Practical Guide**](https://www.aipaths.academy/en/guides/seguridad-agentes-ia-guia-practica) — Permissions, data, and costs: what you need to secure before giving autonomy to an agent
+- 📝 [**Peter Steinberger: From PDFs to AI Agents**](https://www.aipaths.academy/en/blog/peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — The story of the OpenClaw creator and the 43 projects that came before
+- 📝 [**Anthropic vs the Pentagon**](https://www.aipaths.academy/en/blog/anthropic-pentagono-ia-etica-seguridad-2026) — The fight over AI that defines who builds the agents of the future

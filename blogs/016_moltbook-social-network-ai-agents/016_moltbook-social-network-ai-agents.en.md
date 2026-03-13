@@ -187,3 +187,9 @@ The platform may have been messy, overhyped, and riddled with security holes, bu
 **Enjoyed this post?** Share it with others who might find it useful!
 
 **Have questions or feedback?** Drop a comment below or [open an issue on GitHub](https://github.com/openclaw-io/aipaths-academy-content/issues)!
+
+## Related content
+
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — Everything you need to know about AI agents before making them interact
+- 📘 [**Security for AI Agents: Practical Guide**](https://www.aipaths.academy/en/guides/seguridad-agentes-ia-guia-practica) — Why security matters even more when agents talk to each other
+- 📝 [**Anthropic vs the Pentagon**](https://www.aipaths.academy/en/blog/anthropic-pentagono-ia-etica-seguridad-2026) — The ethics and security debate defining the future of autonomous agents
