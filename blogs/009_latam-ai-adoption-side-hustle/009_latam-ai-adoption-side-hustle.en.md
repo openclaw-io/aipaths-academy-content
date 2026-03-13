@@ -658,3 +658,9 @@ The only question is: **Will you watch it happen, or will you profit from it?**
 
 ### Tools & Resources
 9. [n8n.io - AI Workflow Templates](https://n8n.io/workflows/categories/ai/) - 4,525+ community workflows
+
+## Related content
+
+- 📘 [**Finding Your Profitable Niche**](https://www.aipaths.academy/en/guides/finding-profitable-niche-guide) — Identify your opportunity in the LATAM AI market
+- 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/guides/validating-idea-guide) — Validate your side hustle before investing
+- 📘 [**The Complete Delegation Guide for Solopreneurs**](https://www.aipaths.academy/en/guides/delegation-guide-solopreneurs) — Scale your LATAM business with freelancers

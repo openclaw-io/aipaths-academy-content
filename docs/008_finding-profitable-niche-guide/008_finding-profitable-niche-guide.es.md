@@ -987,7 +987,7 @@ Aprende de solopreneurs que lo hicieron bien.
 
 **Precio:** $1500-$2500/mes
 
-**Recurso relacionado:** [Aprende a construir la automatización en nuestra guía de n8n + Claude](/docs/008_n8n-claude-automation-beginners)
+**Recurso relacionado:** [Guía completa de n8n para principiantes](https://www.aipaths.academy/es/guias/n8n-complete-beginners-guide)
 
 ### Ejemplo 2: Soporte al Cliente con IA para Micro-SaaS
 
@@ -1099,11 +1099,11 @@ Aprende de solopreneurs que lo hicieron bien.
 
 ### Recursos Gratuitos de AIPaths Academy
 
-- **[Guía de Agentes de IA](/docs/001_ai-agents-guide)** - Entendiendo agentes de IA fundamentalmente
-- **[Construyendo Tu Primer Servidor MCP](/docs/004_building-first-mcp-server)** - Extiende las capacidades de Claude
-- **[Mejores Prácticas de Prompt Engineering](/docs/005_prompt-engineering-best-practices)** - Escribe mejores prompts para soluciones de nicho
-- **[Guía de Automatización n8n + Claude](/docs/008_n8n-claude-automation-beginners)** - Construye tu infraestructura de automatización
-- **[Guía Práctica de Lanzamiento](/docs/009_launch-service-practical-guide)** - Plantillas para lanzar tu servicio
+- **[Guía de Agentes de IA](https://www.aipaths.academy/es/guias/ai-agents-guide)** - Entendiendo agentes de IA fundamentalmente
+- **[Construyendo Tu Primer Servidor MCP](https://www.aipaths.academy/es/guias/building-first-mcp-server)** - Extiende las capacidades de Claude
+- **[Mejores Prácticas de Prompt Engineering](https://www.aipaths.academy/es/guias/prompt-engineering-best-practices)** - Escribe mejores prompts para soluciones de nicho
+- 📘 [**Guía Completa de n8n para Principiantes**](https://www.aipaths.academy/es/guias/n8n-complete-beginners-guide) — Construí tu infraestructura de automatización
+- 📘 [**Validar Tu Idea Antes de Construir**](https://www.aipaths.academy/es/guias/validating-idea-guide) — Validá tu idea antes de invertir tiempo construyendo
 
 ### Herramientas de Investigación Mencionadas
 
@@ -1150,8 +1150,15 @@ Tu nicho está ahí fuera. Usa esta guía para encontrarlo, validarlo y dominarl
 
 **¿Listo para lanzar tu servicio de nicho?**
 
-Continúa con nuestra [Filosofía de Lanzamiento: Haz Cosas Que No Escalan](/blogs/launch-first-project-do-things-that-dont-scale) para aprender cómo conseguir tus primeros 100 clientes.
+Continúa con nuestra [Por Qué el 90% de los Lanzamientos SaaS Fracasan](https://www.aipaths.academy/es/blog/why-90-percent-saas-launches-fail) para aprender cómo conseguir tus primeros 100 clientes.
 
-O salta directo a la implementación con nuestra [Guía Práctica de Lanzamiento de Servicio](/docs/009_launch-service-practical-guide) para plantillas y checklists.
+O salta directo a la implementación con nuestra [Validar Tu Idea Antes de Construir](https://www.aipaths.academy/es/guias/validating-idea-guide) para plantillas y checklists.
 
 ¿Tienes preguntas? Únete a nuestra comunidad en el [Discord de AIPaths](https://discord.gg/aipaths) o [Discord de Anthropic](https://discord.gg/anthropic).
+
+## Contenido relacionado
+
+- 📘 [**Validar Tu Idea Antes de Construir**](https://www.aipaths.academy/es/guias/validating-idea-guide) — El paso que sigue: validá tu nicho antes de invertir tiempo
+- 📘 [**La Guía Completa de Delegación para Solopreneurs**](https://www.aipaths.academy/es/guias/delegation-guide-solopreneurs) — Escalá tu negocio de nicho contratando freelancers
+- 📝 [**El 43% de las Empresas LATAM Usan IA**](https://www.aipaths.academy/es/blog/latam-ai-adoption-side-hustle) — La oportunidad de $300B que podés aprovechar con tu nicho
+- 📝 [**Por Qué el 90% de los Lanzamientos SaaS Fracasan**](https://www.aipaths.academy/es/blog/why-90-percent-saas-launches-fail) — Los errores que evitar cuando lanzás tu producto de nicho

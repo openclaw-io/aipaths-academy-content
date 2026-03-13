@@ -484,6 +484,13 @@ Your first delegation will be imperfect. Your second will be better. By your ten
 
 **Ready to systemize your business further?**
 
-Continue with our [Finding Your Profitable Niche Guide](/docs/008_finding-profitable-niche-guide) to ensure you're delegating work in a market worth serving.
+Continue with our [Finding Your Profitable Niche Guide](https://www.aipaths.academy/en/guides/finding-profitable-niche-guide) to ensure you're delegating work in a market worth serving.
 
-Or explore our [AI Automation Guides](/docs) to automate the repetitive parts of your workflow before delegating the rest.
+Or explore our [AI Automation Guides](https://www.aipaths.academy/en/guides) to automate the repetitive parts of your workflow before delegating the rest.
+
+## Related content
+
+- 📘 [**Finding Your Profitable Niche**](https://www.aipaths.academy/en/guides/finding-profitable-niche-guide) — Make sure you're delegating in a market worth serving
+- 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/guides/validating-idea-guide) — Validate before scaling with freelancers
+- 📝 [**43% of LATAM Companies Use AI**](https://www.aipaths.academy/en/blog/latam-ai-adoption-side-hustle) — The LATAM context for entrepreneurs delegating with AI
+- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/guides/n8n-complete-beginners-guide) — Automate before delegating: reduce what you need to hire
