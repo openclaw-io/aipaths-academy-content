@@ -806,9 +806,11 @@ Then synthesize the best overall solution.
 - [Claude Examples Library](https://docs.anthropic.com/claude/docs/examples)
 
 ### Related Guides
-- [Claude's Context Window Guide](https://www.aipaths.academy/en/guides/claude-context-window)
-- [Building MCP Servers](https://www.aipaths.academy/en/guides/building-first-mcp-server)
-- [AI Agents in Claude Code](https://www.aipaths.academy/en/guides/ai-agents-guide)
+- 📘 [**Claude Context Window: Complete Guide**](https://www.aipaths.academy/en/guides/claude-context-window) — Master context before optimizing prompts
+- 📘 [**Claude Skills: Customize AI Workflows**](https://www.aipaths.academy/en/guides/claude-skills-guide) — Turn your best prompts into reusable Skills
+- 📘 [**Context Engineering: The Evolution**](https://www.aipaths.academy/en/guides/context-engineering-evolution) — The next level after prompt engineering
+- 📝 [**10 Prompt Patterns That Changed My Workflow**](https://www.aipaths.academy/en/blog/prompt-patterns-workflow) — Practical patterns applying these best practices
+- 📝 [**Claude Code vs Cursor**](https://www.aipaths.academy/en/blog/claude-code-vs-cursor) — Where to apply these prompts: tools comparison
 
 ---
 

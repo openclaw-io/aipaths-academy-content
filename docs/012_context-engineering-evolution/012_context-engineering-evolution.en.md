@@ -211,3 +211,10 @@ The shift from prompt engineering to context engineering reflects a deeper truth
 - [Anthropic: Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [LangChain: Context Engineering for Agents](https://blog.langchain.com/context-engineering-for-agents/)
 - [Gartner: Context Engineering](https://www.gartner.com/en/articles/context-engineering)
+
+## Related content
+
+- 📘 [**Prompt Engineering for Claude: Best Practices**](https://www.aipaths.academy/en/guides/prompt-engineering-best-practices) — Where it all started: the foundational discipline context engineering builds upon
+- 📘 [**Claude Context Window: Complete Guide**](https://www.aipaths.academy/en/guides/claude-context-window) — The technical resource context engineering seeks to optimize
+- 📘 [**Claude Skills: Customize Workflows**](https://www.aipaths.academy/en/guides/claude-skills-guide) — A practical implementation of context engineering with Skills
+- 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/guides/agentic-engineering-framework) — The evolution that came next: from context to agentic engineering

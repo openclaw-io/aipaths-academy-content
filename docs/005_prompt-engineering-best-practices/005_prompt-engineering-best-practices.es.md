@@ -806,9 +806,11 @@ Luego sintetiza la mejor solución general.
 - [Biblioteca de Ejemplos de Claude](https://docs.anthropic.com/claude/docs/examples)
 
 ### Guías Relacionadas
-- [Guía de Ventana de Contexto de Claude](https://www.aipaths.academy/es/guias/claude-context-window)
-- [Construyendo Servidores MCP](https://www.aipaths.academy/es/guias/building-first-mcp-server)
-- [Agentes de IA en Claude Code](https://www.aipaths.academy/es/guias/ai-agents-guide)
+- 📘 [**Ventana de Contexto de Claude: Guía Completa**](https://www.aipaths.academy/es/guias/claude-context-window) — Dominá el contexto antes de optimizar los prompts
+- 📘 [**Claude Skills: Personalizar Flujos de Trabajo con IA**](https://www.aipaths.academy/es/guias/claude-skills-guide) — Convertí tus mejores prompts en Skills reutilizables
+- 📘 [**Context Engineering: La Evolución**](https://www.aipaths.academy/es/guias/context-engineering-evolution) — El siguiente nivel después de prompt engineering
+- 📝 [**10 Patrones de Prompts que Cambiaron Mi Workflow**](https://www.aipaths.academy/es/blog/prompt-patterns-workflow) — Patrones prácticos aplicando estas mejores prácticas
+- 📝 [**Claude Code vs Cursor**](https://www.aipaths.academy/es/blog/claude-code-vs-cursor) — Dónde aplicar estos prompts: comparativa de herramientas
 
 ---
 

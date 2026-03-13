@@ -607,3 +607,9 @@ Dale una semana de uso serio. Predigo que no querrás volver atrás.
 **¿Preguntas sobre características específicas?** ¡Déjalas abajo o [abre un issue en GitHub](https://github.com/openclaw-io/aipaths-academy-content/issues)!
 
 **¿Quieres walkthroughs en video?** ¡Déjanos saber qué características quieres ver demostradas!
+
+## Contenido relacionado
+
+- 📝 [**Claude Code vs Cursor: ¿Cuál Elegir?**](https://www.aipaths.academy/es/blog/claude-code-vs-cursor) — Comparativa directa entre las dos herramientas que dominan el desarrollo con IA
+- 📘 [**Prompt Engineering para Claude: Mejores Prácticas**](https://www.aipaths.academy/es/guias/prompt-engineering-best-practices) — Optimizá tus prompts sin importar qué herramienta uses
+- 📘 [**Ventana de Contexto de Claude: Guía Completa**](https://www.aipaths.academy/es/guias/claude-context-window) — Entendé el contexto que alimenta tanto a Cursor como a Claude Code

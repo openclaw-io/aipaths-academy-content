@@ -524,3 +524,10 @@ Claude Skills transform how you work with AI:
 Start with a simple Skill for a task you do frequently. As you get comfortable, add scripts and expand capabilities.
 
 The investment of creating a Skill pays dividends every time Claude automatically applies your exact workflow—no re-explaining required.
+
+## Related content
+
+- 📘 [**Prompt Engineering for Claude: Best Practices**](https://www.aipaths.academy/en/guides/prompt-engineering-best-practices) — The prompting foundation you need before creating advanced Skills
+- 📘 [**Claude Context Window: Complete Guide**](https://www.aipaths.academy/en/guides/claude-context-window) — Understand how Skills interact with available context
+- 📘 [**Context Engineering: The Evolution**](https://www.aipaths.academy/en/guides/context-engineering-evolution) — Skills are a form of applied context engineering
+- 📝 [**Claude Code vs Cursor**](https://www.aipaths.academy/en/blog/claude-code-vs-cursor) — Where Skills work best: environment comparison

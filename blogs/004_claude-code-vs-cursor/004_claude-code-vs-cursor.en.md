@@ -563,3 +563,10 @@ But for professional developers building complex production systems, **Claude Co
 **Still deciding?** Ask questions below or [open an issue on GitHub](https://github.com/openclaw-io/aipaths-academy-content/issues)!
 
 **Want configuration examples?** Let me know what you're building and I'll share specific configs!
+
+## Related content
+
+- 📘 [**Building Your First MCP Server**](https://www.aipaths.academy/en/guides/building-first-mcp-server) — Extend Claude Code capabilities with MCP servers
+- 📘 [**Prompt Engineering for Claude: Best Practices**](https://www.aipaths.academy/en/guides/prompt-engineering-best-practices) — Get more out of Claude Code with optimized prompts
+- 📘 [**Context Engineering: The Evolution**](https://www.aipaths.academy/en/guides/context-engineering-evolution) — The paradigm that explains why Claude Code works so well
+- 📝 [**Cursor 2.0: The AI Code Revolution**](https://www.aipaths.academy/en/blog/cursor-2-0-updates) — Latest updates from Claude Code's rival
