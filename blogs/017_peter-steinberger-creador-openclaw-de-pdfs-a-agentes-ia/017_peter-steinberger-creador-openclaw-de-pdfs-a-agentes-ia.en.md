@@ -153,6 +153,6 @@ Peter Steinberger's story isn't a playbook you can copy. It's something better: 
 
 ## Related content
 
-- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — Understand the complete agent ecosystem that OpenClaw helped create
-- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/guides/configurar-primer-agente-ia-openclaw-guia-completa) — Try OpenClaw yourself: step-by-step tutorial
-- 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/guides/agentic-engineering-framework) — The professional methodology born from tools like OpenClaw
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/docs/022_agentes-ia-guia-completa-2026) — Understand the complete agent ecosystem that OpenClaw helped create
+- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Try OpenClaw yourself: step-by-step tutorial
+- 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/docs/024_agentic-engineering-framework) — The professional methodology born from tools like OpenClaw

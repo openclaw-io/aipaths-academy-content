@@ -484,13 +484,13 @@ Tu primera delegacion sera imperfecta. La segunda sera mejor. Para la decima, te
 
 **¿Listo para sistematizar tu negocio aun mas?**
 
-Continua con nuestra [Guía para Encontrar tu Nicho Rentable](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide) para asegurar que estas delegando trabajo en un mercado que vale la pena servir.
+Continua con nuestra [Guía para Encontrar tu Nicho Rentable](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide) para asegurar que estas delegando trabajo en un mercado que vale la pena servir.
 
 O explora nuestras [Guías de Automatización con IA](https://www.aipaths.academy/es/guias) para automatizar las partes repetitivas de tu workflow antes de delegar el resto.
 
 ## Contenido relacionado
 
-- 📘 [**Encontrar Tu Nicho Rentable**](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide) — Asegurate de estar delegando en un mercado que vale la pena
-- 📘 [**Validar Tu Idea Antes de Construir**](https://www.aipaths.academy/es/guias/validating-idea-guide) — Validá antes de escalar con freelancers
+- 📘 [**Encontrar Tu Nicho Rentable**](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide) — Asegurate de estar delegando en un mercado que vale la pena
+- 📘 [**Validar Tu Idea Antes de Construir**](https://www.aipaths.academy/es/docs/010_validating-idea-guide) — Validá antes de escalar con freelancers
 - 📝 [**El 43% de las Empresas LATAM Usan IA**](https://www.aipaths.academy/es/blog/009_latam-ai-adoption-side-hustle) — El contexto LATAM para emprendedores que delegan con IA
-- 📘 [**Guía Completa de n8n para Principiantes**](https://www.aipaths.academy/es/guias/n8n-complete-beginners-guide) — Automatizá antes de delegar: reducí lo que necesitás contratar
+- 📘 [**Guía Completa de n8n para Principiantes**](https://www.aipaths.academy/es/docs/014_n8n-complete-beginners-guide) — Automatizá antes de delegar: reducí lo que necesitás contratar

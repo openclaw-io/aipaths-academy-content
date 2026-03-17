@@ -153,6 +153,6 @@ Los cambios de politica de WhatsApp de Meta representan un cambio significativo 
 
 ## Contenido relacionado
 
-- 📘 [**Guía de Meta WhatsApp Business API**](https://www.aipaths.academy/es/guias/meta-api-whatsapp) — La guía técnica completa para configurar la API de WhatsApp
-- 📘 [**Guía Completa de n8n para Principiantes**](https://www.aipaths.academy/es/guias/n8n-complete-beginners-guide) — Automatizá WhatsApp con workflows de n8n
-- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — Usá agentes de IA como interfaz de WhatsApp para tu negocio
+- 📘 [**Guía de Meta WhatsApp Business API**](https://www.aipaths.academy/es/docs/017_meta-api-whatsapp) — La guía técnica completa para configurar la API de WhatsApp
+- 📘 [**Guía Completa de n8n para Principiantes**](https://www.aipaths.academy/es/docs/014_n8n-complete-beginners-guide) — Automatizá WhatsApp con workflows de n8n
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/docs/022_agentes-ia-guia-completa-2026) — Usá agentes de IA como interfaz de WhatsApp para tu negocio

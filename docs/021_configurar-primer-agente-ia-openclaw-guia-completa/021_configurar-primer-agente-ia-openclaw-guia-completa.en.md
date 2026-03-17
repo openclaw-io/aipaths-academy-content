@@ -386,7 +386,7 @@ OpenClaw is an active project with frequent updates. Join the community on Disco
 
 ## Related content
 
-- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — Understand what AI agents are and how to choose the right framework
-- 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/guides/agentic-engineering-framework) — Professional principles for working with agents — the next level after setup
-- 📘 [**Security for AI Agents: Practical Guide**](https://www.aipaths.academy/en/guides/seguridad-agentes-ia-guia-practica) — You set up your agent; now secure permissions, data, and costs
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/docs/022_agentes-ia-guia-completa-2026) — Understand what AI agents are and how to choose the right framework
+- 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/docs/024_agentic-engineering-framework) — Professional principles for working with agents — the next level after setup
+- 📘 [**Security for AI Agents: Practical Guide**](https://www.aipaths.academy/en/docs/023_seguridad-agentes-ia-guia-practica) — You set up your agent; now secure permissions, data, and costs
 - 📝 [**Anthropic vs the Pentagon**](https://www.aipaths.academy/en/blog/018_anthropic-pentagono-ia-etica-seguridad-2026) — The geopolitical context behind the models your agents use

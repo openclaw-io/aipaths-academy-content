@@ -153,6 +153,6 @@ Meta's WhatsApp policy changes represent a significant shift in how AI can opera
 
 ## Related content
 
-- 📘 [**Meta WhatsApp Business API Guide**](https://www.aipaths.academy/en/guides/meta-api-whatsapp) — Complete technical guide for setting up the WhatsApp API
-- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/guides/n8n-complete-beginners-guide) — Automate WhatsApp with n8n workflows
-- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — Use AI agents as your WhatsApp business interface
+- 📘 [**Meta WhatsApp Business API Guide**](https://www.aipaths.academy/en/docs/017_meta-api-whatsapp) — Complete technical guide for setting up the WhatsApp API
+- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/docs/014_n8n-complete-beginners-guide) — Automate WhatsApp with n8n workflows
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/docs/022_agentes-ia-guia-completa-2026) — Use AI agents as your WhatsApp business interface

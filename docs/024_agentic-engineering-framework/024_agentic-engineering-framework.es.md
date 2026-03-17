@@ -234,7 +234,7 @@ Si querés ver estos principios aplicados en un sistema real — con context eng
 
 ## Contenido relacionado
 
-- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — Qué son, cómo funcionan y cómo elegir el framework correcto para tu caso
-- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/guias/configurar-primer-agente-ia-openclaw-guia-completa) — Poné en práctica el agentic engineering con un agente real corriendo en tu máquina
-- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/guias/seguridad-agentes-ia-guia-practica) — El pilar de oversight humano aplicado: permisos, costos y protección de datos
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/docs/022_agentes-ia-guia-completa-2026) — Qué son, cómo funcionan y cómo elegir el framework correcto para tu caso
+- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Poné en práctica el agentic engineering con un agente real corriendo en tu máquina
+- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/docs/023_seguridad-agentes-ia-guia-practica) — El pilar de oversight humano aplicado: permisos, costos y protección de datos
 - 📝 [**Peter Steinberger: De PDFs a Agentes de IA**](https://www.aipaths.academy/es/blog/017_peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — La historia detrás de OpenClaw, la herramienta que implementa estos principios

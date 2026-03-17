@@ -174,8 +174,8 @@ That's a significant evolution, and it explains the $2.5 billion valuation.
 ---
 
 **Related Resources:**
-- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/guides/n8n-complete-beginners-guide) — Start here if you're new to n8n
-- 📘 [**Create an AI News Digest with n8n**](https://www.aipaths.academy/en/guides/n8n-ai-news-workflow-free) — Real example of an AI-first n8n workflow
-- 📘 [**Complete RAG Guide: 4 Methods**](https://www.aipaths.academy/en/guides/rag-methods-guide) — Connect your n8n workflows with knowledge bases
+- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/docs/014_n8n-complete-beginners-guide) — Start here if you're new to n8n
+- 📘 [**Create an AI News Digest with n8n**](https://www.aipaths.academy/en/docs/015_n8n-ai-news-workflow-free) — Real example of an AI-first n8n workflow
+- 📘 [**Complete RAG Guide: 4 Methods**](https://www.aipaths.academy/en/docs/016_rag-methods-guide) — Connect your n8n workflows with knowledge bases
 - [AI Agent Orchestration Frameworks – n8n Blog](https://blog.n8n.io/ai-agent-orchestration-frameworks/)
 - [LangChain in n8n | n8n Docs](https://docs.n8n.io/advanced-ai/langchain/overview/)

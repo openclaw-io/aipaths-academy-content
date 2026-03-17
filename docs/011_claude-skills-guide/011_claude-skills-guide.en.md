@@ -527,7 +527,7 @@ The investment of creating a Skill pays dividends every time Claude automaticall
 
 ## Related content
 
-- 📘 [**Prompt Engineering for Claude: Best Practices**](https://www.aipaths.academy/en/guides/prompt-engineering-best-practices) — The prompting foundation you need before creating advanced Skills
-- 📘 [**Claude Context Window: Complete Guide**](https://www.aipaths.academy/en/guides/claude-context-window) — Understand how Skills interact with available context
-- 📘 [**Context Engineering: The Evolution**](https://www.aipaths.academy/en/guides/context-engineering-evolution) — Skills are a form of applied context engineering
+- 📘 [**Prompt Engineering for Claude: Best Practices**](https://www.aipaths.academy/en/docs/005_prompt-engineering-best-practices) — The prompting foundation you need before creating advanced Skills
+- 📘 [**Claude Context Window: Complete Guide**](https://www.aipaths.academy/en/docs/002_claude-context-window) — Understand how Skills interact with available context
+- 📘 [**Context Engineering: The Evolution**](https://www.aipaths.academy/en/docs/012_context-engineering-evolution) — Skills are a form of applied context engineering
 - 📝 [**Claude Code vs Cursor**](https://www.aipaths.academy/en/blog/004_claude-code-vs-cursor) — Where Skills work best: environment comparison

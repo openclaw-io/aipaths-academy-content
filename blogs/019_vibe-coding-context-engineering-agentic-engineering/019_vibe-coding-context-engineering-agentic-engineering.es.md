@@ -145,10 +145,10 @@ Y si querés ver esto en acción — un sistema multi-agente real, con context e
 
 ## Contenido relacionado
 
-- 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/guias/agentic-engineering-framework) — Los 4 pilares del agentic engineering y cómo implementarlos en tu workflow
+- 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/docs/024_agentic-engineering-framework) — Los 4 pilares del agentic engineering y cómo implementarlos en tu workflow
 
-- 📘 [**Context Engineering: La Evolución que Necesitas Entender**](https://www.aipaths.academy/es/guias/context-engineering-evolution) — Guía completa sobre cómo diseñar el contexto que reciben los modelos de IA
+- 📘 [**Context Engineering: La Evolución que Necesitas Entender**](https://www.aipaths.academy/es/docs/012_context-engineering-evolution) — Guía completa sobre cómo diseñar el contexto que reciben los modelos de IA
 
 - 📝 [**Claude Code vs Cursor: ¿Qué Asistente Elegir?**](https://www.aipaths.academy/es/blog/004_claude-code-vs-cursor) — Comparativa práctica de las dos herramientas que dominan el agentic engineering
 
-- 📘 [**Prompt Engineering para Claude: Mejores Prácticas**](https://www.aipaths.academy/es/guias/prompt-engineering-best-practices) — La base técnica que necesitás antes de pasar a context y agentic engineering
+- 📘 [**Prompt Engineering para Claude: Mejores Prácticas**](https://www.aipaths.academy/es/docs/005_prompt-engineering-best-practices) — La base técnica que necesitás antes de pasar a context y agentic engineering

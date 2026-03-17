@@ -75,6 +75,6 @@ La partida de ajedrez entre gobiernos, corporaciones de IA, y usuarios recién e
 
 ## Contenido relacionado
 
-- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — Entendé el ecosistema de agentes que Anthropic y otros están construyendo
-- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/guias/seguridad-agentes-ia-guia-practica) — La seguridad que Anthropic predica aplicada a tus propios agentes
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/docs/022_agentes-ia-guia-completa-2026) — Entendé el ecosistema de agentes que Anthropic y otros están construyendo
+- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/docs/023_seguridad-agentes-ia-guia-practica) — La seguridad que Anthropic predica aplicada a tus propios agentes
 - 📝 [**Peter Steinberger: De PDFs a Agentes de IA**](https://www.aipaths.academy/es/blog/017_peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — Cómo el creador de OpenClaw construye agentes con la misma filosofía de seguridad

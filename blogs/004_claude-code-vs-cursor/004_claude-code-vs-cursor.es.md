@@ -601,9 +601,9 @@ Pero para desarrolladores profesionales construyendo sistemas de producción com
 
 ## Lectura Adicional
 
-- 📘 [**Construyendo Tu Primer Servidor MCP**](https://www.aipaths.academy/es/guias/building-first-mcp-server) — Extendé las capacidades de Claude Code con servidores MCP
-- 📘 [**Prompt Engineering para Claude: Mejores Prácticas**](https://www.aipaths.academy/es/guias/prompt-engineering-best-practices) — Sacale más jugo a Claude Code con prompts optimizados
-- 📘 [**Context Engineering: La Evolución**](https://www.aipaths.academy/es/guias/context-engineering-evolution) — El paradigma que explica por qué Claude Code funciona tan bien
+- 📘 [**Construyendo Tu Primer Servidor MCP**](https://www.aipaths.academy/es/docs/004_building-first-mcp-server) — Extendé las capacidades de Claude Code con servidores MCP
+- 📘 [**Prompt Engineering para Claude: Mejores Prácticas**](https://www.aipaths.academy/es/docs/005_prompt-engineering-best-practices) — Sacale más jugo a Claude Code con prompts optimizados
+- 📘 [**Context Engineering: La Evolución**](https://www.aipaths.academy/es/docs/012_context-engineering-evolution) — El paradigma que explica por qué Claude Code funciona tan bien
 - 📝 [**Cursor 2.0: La Revolución del Código IA**](https://www.aipaths.academy/es/blog/001_cursor-2-0-updates) — Las últimas actualizaciones del rival de Claude Code
 - [10 Patrones de Prompt Que Cambiaron Mi Flujo de Trabajo con Claude](https://www.aipaths.academy/es/blog/003_prompt-patterns-workflow) - Obtén más de Claude Code
 - [Cursor 2.0: Qué Hay de Nuevo y Por Qué Importa](https://www.aipaths.academy/es/blog/001_cursor-2-0-updates) - Análisis profundo de lo último de Cursor

@@ -33,7 +33,7 @@ tags:
 
 **You have an idea. Now what?**
 
-You've done the hard work of [finding your niche](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide). You've identified a specific audience with a pressing problem. You're excited. You want to start building.
+You've done the hard work of [finding your niche](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide). You've identified a specific audience with a pressing problem. You're excited. You want to start building.
 
 **Stop.**
 
@@ -190,7 +190,7 @@ Each level builds on the previous one. Don't skip levels—the insights compound
 **Confidence:** Low
 **What you're testing:** Does demand exist at all?
 
-If you followed our [Finding Your Profitable Niche](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide) guide, you've already done much of this. Here's a quick recap of the key signals:
+If you followed our [Finding Your Profitable Niche](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide) guide, you've already done much of this. Here's a quick recap of the key signals:
 
 ### Search Demand
 
@@ -1229,10 +1229,10 @@ Check out our [SaaS Landing Page Template](https://www.aipaths.academy/es/resour
 
 **Need to revisit your niche?**
 
-Go back to our [Finding Your Profitable Niche Guide](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide) for the complete framework.
+Go back to our [Finding Your Profitable Niche Guide](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide) for the complete framework.
 
 ## Related content
 
-- 📘 [**Finding Your Profitable Niche**](https://www.aipaths.academy/en/guides/finding-profitable-niche-guide) — The previous step: find your niche before validating
-- 📘 [**The Complete Delegation Guide for Solopreneurs**](https://www.aipaths.academy/en/guides/delegation-guide-solopreneurs) — Validated your idea? Now scale by delegating
+- 📘 [**Finding Your Profitable Niche**](https://www.aipaths.academy/en/docs/008_finding-profitable-niche-guide) — The previous step: find your niche before validating
+- 📘 [**The Complete Delegation Guide for Solopreneurs**](https://www.aipaths.academy/en/docs/013_delegation-guide-solopreneurs) — Validated your idea? Now scale by delegating
 - 📝 [**Why 90% of SaaS Launches Fail**](https://www.aipaths.academy/en/blog/012_why-90-percent-saas-launches-fail) — The most common launch mistakes and how to avoid them

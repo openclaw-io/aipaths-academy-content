@@ -664,6 +664,6 @@ Change the Schedule Trigger to weekly:
 
 ## Related content
 
-- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/guides/n8n-complete-beginners-guide) — First time with n8n? Start here
-- 📘 [**Complete RAG Guide: 4 Methods**](https://www.aipaths.academy/en/guides/rag-methods-guide) — Take your workflows to the next level by connecting them with knowledge bases
+- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/docs/014_n8n-complete-beginners-guide) — First time with n8n? Start here
+- 📘 [**Complete RAG Guide: 4 Methods**](https://www.aipaths.academy/en/docs/016_rag-methods-guide) — Take your workflows to the next level by connecting them with knowledge bases
 - 📝 [**n8n is Now an AI-First Platform**](https://www.aipaths.academy/en/blog/014_n8n-ai-first-platform) — The context on why n8n became the ideal tool for AI workflows

@@ -153,6 +153,6 @@ La historia de Peter Steinberger no es un playbook que puedas copiar. Es algo me
 
 ## Contenido relacionado
 
-- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — Entendé el ecosistema completo de agentes que OpenClaw ayudó a crear
-- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/guias/configurar-primer-agente-ia-openclaw-guia-completa) — Probá OpenClaw vos mismo: tutorial paso a paso
-- 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/guias/agentic-engineering-framework) — La metodología profesional que nació de herramientas como OpenClaw
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/docs/022_agentes-ia-guia-completa-2026) — Entendé el ecosistema completo de agentes que OpenClaw ayudó a crear
+- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Probá OpenClaw vos mismo: tutorial paso a paso
+- 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/docs/024_agentic-engineering-framework) — La metodología profesional que nació de herramientas como OpenClaw

@@ -168,8 +168,8 @@ Those who start today will have agents with months of accumulated memory, optimi
 
 ## Related content
 
-- 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/guides/agentic-engineering-framework) — The 4 pillars for working professionally with AI agents
-- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/guides/configurar-primer-agente-ia-openclaw-guia-completa) — Step-by-step tutorial to install and run your first agent
-- 📘 [**Security for AI Agents: Practical Guide**](https://www.aipaths.academy/en/guides/seguridad-agentes-ia-guia-practica) — Permissions, data, and costs: what you need to secure before giving autonomy to an agent
+- 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/docs/024_agentic-engineering-framework) — The 4 pillars for working professionally with AI agents
+- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Step-by-step tutorial to install and run your first agent
+- 📘 [**Security for AI Agents: Practical Guide**](https://www.aipaths.academy/en/docs/023_seguridad-agentes-ia-guia-practica) — Permissions, data, and costs: what you need to secure before giving autonomy to an agent
 - 📝 [**Peter Steinberger: From PDFs to AI Agents**](https://www.aipaths.academy/en/blog/017_peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — The story of the OpenClaw creator and the 43 projects that came before
 - 📝 [**Anthropic vs the Pentagon**](https://www.aipaths.academy/en/blog/018_anthropic-pentagono-ia-etica-seguridad-2026) — The fight over AI that defines who builds the agents of the future

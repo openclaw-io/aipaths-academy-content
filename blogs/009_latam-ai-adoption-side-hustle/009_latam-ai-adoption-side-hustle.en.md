@@ -321,7 +321,7 @@ Here's what most people get wrong: **You don't need to be a data scientist or ML
 
 **Resources:**
 - OpenAI Prompt Engineering Guide (free)
-- [AIPaths Academy Prompt Engineering Best Practices](/en/guides/prompt-engineering-best-practices)
+- [AIPaths Academy Prompt Engineering Best Practices](/en/docs/005_prompt-engineering-best-practices)
 - Practice with Claude or ChatGPT daily
 
 **2. API Basics** (2-3 weeks to learn)
@@ -612,10 +612,10 @@ The only question is: **Will you watch it happen, or will you profit from it?**
 ## Resources to Get Started
 
 **Essential Reading:**
-- [AI Agents Guide](/en/guides/ai-agents-guide) - Understanding AI agents
-- [Prompt Engineering Best Practices](/en/guides/prompt-engineering-best-practices) - Master prompting
-- [Finding Your Profitable Niche](/en/guides/finding-profitable-niche-guide) - Identify and validate opportunities
-- [Building Your First MCP Server](/en/guides/building-first-mcp-server) - Advanced automation
+- [AI Agents Guide](/en/docs/001_ai-agents-guide) - Understanding AI agents
+- [Prompt Engineering Best Practices](/en/docs/005_prompt-engineering-best-practices) - Master prompting
+- [Finding Your Profitable Niche](/en/docs/008_finding-profitable-niche-guide) - Identify and validate opportunities
+- [Building Your First MCP Server](/en/docs/004_building-first-mcp-server) - Advanced automation
 
 **Community & Support:**
 - [Anthropic Discord](https://discord.gg/anthropic) - Claude community & support
@@ -661,6 +661,6 @@ The only question is: **Will you watch it happen, or will you profit from it?**
 
 ## Related content
 
-- 📘 [**Finding Your Profitable Niche**](https://www.aipaths.academy/en/guides/finding-profitable-niche-guide) — Identify your opportunity in the LATAM AI market
-- 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/guides/validating-idea-guide) — Validate your side hustle before investing
-- 📘 [**The Complete Delegation Guide for Solopreneurs**](https://www.aipaths.academy/en/guides/delegation-guide-solopreneurs) — Scale your LATAM business with freelancers
+- 📘 [**Finding Your Profitable Niche**](https://www.aipaths.academy/en/docs/008_finding-profitable-niche-guide) — Identify your opportunity in the LATAM AI market
+- 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/docs/010_validating-idea-guide) — Validate your side hustle before investing
+- 📘 [**The Complete Delegation Guide for Solopreneurs**](https://www.aipaths.academy/en/docs/013_delegation-guide-solopreneurs) — Scale your LATAM business with freelancers

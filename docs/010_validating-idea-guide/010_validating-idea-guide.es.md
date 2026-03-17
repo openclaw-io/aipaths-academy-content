@@ -33,7 +33,7 @@ tags:
 
 **Tienes una idea. ¿Y ahora qué?**
 
-Ya hiciste el trabajo difícil de [encontrar tu nicho](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide). Identificaste una audiencia específica con un problema urgente. Estás emocionado. Quieres empezar a construir.
+Ya hiciste el trabajo difícil de [encontrar tu nicho](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide). Identificaste una audiencia específica con un problema urgente. Estás emocionado. Quieres empezar a construir.
 
 **Para.**
 
@@ -190,7 +190,7 @@ Cada nivel se construye sobre el anterior. No te saltes niveles—los insights s
 **Confianza:** Baja
 **Lo que estás probando:** ¿Existe demanda en absoluto?
 
-Si seguiste nuestra guía de [Encontrar Tu Nicho Rentable](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide), ya hiciste mucho de esto. Aquí hay un resumen rápido de las señales clave:
+Si seguiste nuestra guía de [Encontrar Tu Nicho Rentable](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide), ya hiciste mucho de esto. Aquí hay un resumen rápido de las señales clave:
 
 ### Demanda de Búsqueda
 
@@ -1232,10 +1232,10 @@ Revisa nuestra [Plantilla de Landing Page SaaS](https://www.aipaths.academy/es/r
 
 **¿Necesitas revisar tu nicho?**
 
-Vuelve a nuestra [Guía para Encontrar Tu Nicho Rentable](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide) para el framework completo.
+Vuelve a nuestra [Guía para Encontrar Tu Nicho Rentable](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide) para el framework completo.
 
 ## Contenido relacionado
 
-- 📘 [**Encontrar Tu Nicho Rentable**](https://www.aipaths.academy/es/guias/finding-profitable-niche-guide) — El paso anterior: encontrá tu nicho antes de validar
-- 📘 [**La Guía Completa de Delegación para Solopreneurs**](https://www.aipaths.academy/es/guias/delegation-guide-solopreneurs) — Validaste tu idea; ahora escalá delegando
+- 📘 [**Encontrar Tu Nicho Rentable**](https://www.aipaths.academy/es/docs/008_finding-profitable-niche-guide) — El paso anterior: encontrá tu nicho antes de validar
+- 📘 [**La Guía Completa de Delegación para Solopreneurs**](https://www.aipaths.academy/es/docs/013_delegation-guide-solopreneurs) — Validaste tu idea; ahora escalá delegando
 - 📝 [**Por Qué el 90% de los Lanzamientos SaaS Fracasan**](https://www.aipaths.academy/es/blog/012_why-90-percent-saas-launches-fail) — Los errores de lanzamiento más comunes y cómo evitarlos

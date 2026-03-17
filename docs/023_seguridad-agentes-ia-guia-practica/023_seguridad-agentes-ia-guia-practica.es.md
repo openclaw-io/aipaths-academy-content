@@ -190,7 +190,7 @@ No necesitás ser un experto en ciberseguridad. El 80% de la protección viene d
 
 ## Contenido relacionado
 
-- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — El panorama completo de agentes de IA: qué son, cómo funcionan y cuál elegir
-- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/guias/configurar-primer-agente-ia-openclaw-guia-completa) — Tutorial paso a paso para instalar tu agente con las mejores prácticas de seguridad
-- 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/guias/agentic-engineering-framework) — El pilar de oversight humano que complementa esta guía de seguridad
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/docs/022_agentes-ia-guia-completa-2026) — El panorama completo de agentes de IA: qué son, cómo funcionan y cuál elegir
+- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Tutorial paso a paso para instalar tu agente con las mejores prácticas de seguridad
+- 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/docs/024_agentic-engineering-framework) — El pilar de oversight humano que complementa esta guía de seguridad
 - 📝 [**Moltbook: La Red Social de Agentes de IA**](https://www.aipaths.academy/es/blog/016_moltbook-social-network-ai-agents) — Qué pasa cuando los agentes interactúan entre sí sin supervisión adecuada

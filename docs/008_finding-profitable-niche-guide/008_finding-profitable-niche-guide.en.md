@@ -987,7 +987,7 @@ Learn from solopreneurs who got it right.
 
 **Pricing:** $1500-$2500/month
 
-**Related resource:** [n8n Complete Beginners Guide](https://www.aipaths.academy/en/guides/n8n-complete-beginners-guide)
+**Related resource:** [n8n Complete Beginners Guide](https://www.aipaths.academy/en/docs/014_n8n-complete-beginners-guide)
 
 ### Example 2: AI Customer Support for Micro-SaaS
 
@@ -1099,11 +1099,11 @@ Learn from solopreneurs who got it right.
 
 ### Free Resources from AIPaths Academy
 
-- **[AI Agents Guide](https://www.aipaths.academy/en/guides/ai-agents-guide)** - Understanding AI agents fundamentally
-- **[Building Your First MCP Server](https://www.aipaths.academy/en/guides/building-first-mcp-server)** - Extend Claude's capabilities
-- **[Prompt Engineering Best Practices](https://www.aipaths.academy/en/guides/prompt-engineering-best-practices)** - Write better prompts for niche solutions
-- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/guides/n8n-complete-beginners-guide) — Build your automation infrastructure
-- 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/guides/validating-idea-guide) — Validate your idea before investing time building
+- **[AI Agents Guide](https://www.aipaths.academy/en/docs/001_ai-agents-guide)** - Understanding AI agents fundamentally
+- **[Building Your First MCP Server](https://www.aipaths.academy/en/docs/004_building-first-mcp-server)** - Extend Claude's capabilities
+- **[Prompt Engineering Best Practices](https://www.aipaths.academy/en/docs/005_prompt-engineering-best-practices)** - Write better prompts for niche solutions
+- 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/docs/014_n8n-complete-beginners-guide) — Build your automation infrastructure
+- 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/docs/010_validating-idea-guide) — Validate your idea before investing time building
 
 ### Research Tools Mentioned
 
@@ -1152,13 +1152,13 @@ Your niche is out there. Use this guide to find it, validate it, and dominate it
 
 Continue with our [Why 90% of SaaS Launches Fail](https://www.aipaths.academy/en/blog/012_why-90-percent-saas-launches-fail) to learn how to get your first 100 customers.
 
-Or jump straight to implementation with our [Validate Your Idea Before Building](https://www.aipaths.academy/en/guides/validating-idea-guide) for templates and checklists.
+Or jump straight to implementation with our [Validate Your Idea Before Building](https://www.aipaths.academy/en/docs/010_validating-idea-guide) for templates and checklists.
 
 Have questions? Join our community in the [AIPaths Discord](https://discord.gg/aipaths) or [Anthropic Discord](https://discord.gg/anthropic).
 
 ## Related content
 
-- 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/guides/validating-idea-guide) — The next step: validate your niche before investing time
-- 📘 [**The Complete Delegation Guide for Solopreneurs**](https://www.aipaths.academy/en/guides/delegation-guide-solopreneurs) — Scale your niche business by hiring freelancers
+- 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/docs/010_validating-idea-guide) — The next step: validate your niche before investing time
+- 📘 [**The Complete Delegation Guide for Solopreneurs**](https://www.aipaths.academy/en/docs/013_delegation-guide-solopreneurs) — Scale your niche business by hiring freelancers
 - 📝 [**43% of LATAM Companies Use AI**](https://www.aipaths.academy/en/blog/009_latam-ai-adoption-side-hustle) — The $300B opportunity you can capture with your niche
 - 📝 [**Why 90% of SaaS Launches Fail**](https://www.aipaths.academy/en/blog/012_why-90-percent-saas-launches-fail) — Mistakes to avoid when launching your niche product

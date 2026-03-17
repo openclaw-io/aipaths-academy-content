@@ -343,7 +343,7 @@ Claude Code has 14 tools available. Each tool use adds to your context:
 
 ## Related content
 
-- 📘 [**Prompt Engineering for Claude: Best Practices**](https://www.aipaths.academy/en/guides/prompt-engineering-best-practices) — Optimize your prompts to make the most of the context window
-- 📘 [**Context Engineering: The Evolution**](https://www.aipaths.academy/en/guides/context-engineering-evolution) — From prompt engineering to context engineering: the paradigm shift
-- 📘 [**Claude Skills: Customize Workflows**](https://www.aipaths.academy/en/guides/claude-skills-guide) — Automate workflows that leverage context intelligently
+- 📘 [**Prompt Engineering for Claude: Best Practices**](https://www.aipaths.academy/en/docs/005_prompt-engineering-best-practices) — Optimize your prompts to make the most of the context window
+- 📘 [**Context Engineering: The Evolution**](https://www.aipaths.academy/en/docs/012_context-engineering-evolution) — From prompt engineering to context engineering: the paradigm shift
+- 📘 [**Claude Skills: Customize Workflows**](https://www.aipaths.academy/en/docs/011_claude-skills-guide) — Automate workflows that leverage context intelligently
 - 📝 [**Cursor 2.0: The AI Code Revolution**](https://www.aipaths.academy/en/blog/001_cursor-2-0-updates) — How Cursor handles context for code assistance

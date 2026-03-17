@@ -877,10 +877,10 @@ These 10 patterns transformed my Claude workflow from frustrating to incredibly 
 
 ## Further Reading
 
-- 📘 [**Prompt Engineering for Claude: Best Practices**](https://www.aipaths.academy/en/guides/prompt-engineering-best-practices) — The complete guide behind these patterns
-- 📘 [**Claude Context Window: Complete Guide**](https://www.aipaths.academy/en/guides/claude-context-window) — Understand how context affects prompt quality
-- 📘 [**Building MCP Servers**](https://www.aipaths.academy/en/guides/building-first-mcp-server) — Extend Claude capabilities with custom tools
-- 📘 [**Claude Skills: Customize Workflows**](https://www.aipaths.academy/en/guides/claude-skills-guide) — Turn these patterns into reusable Skills
+- 📘 [**Prompt Engineering for Claude: Best Practices**](https://www.aipaths.academy/en/docs/005_prompt-engineering-best-practices) — The complete guide behind these patterns
+- 📘 [**Claude Context Window: Complete Guide**](https://www.aipaths.academy/en/docs/002_claude-context-window) — Understand how context affects prompt quality
+- 📘 [**Building MCP Servers**](https://www.aipaths.academy/en/docs/004_building-first-mcp-server) — Extend Claude capabilities with custom tools
+- 📘 [**Claude Skills: Customize Workflows**](https://www.aipaths.academy/en/docs/011_claude-skills-guide) — Turn these patterns into reusable Skills
 - [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/claude/docs/prompt-engineering)
 
 ---

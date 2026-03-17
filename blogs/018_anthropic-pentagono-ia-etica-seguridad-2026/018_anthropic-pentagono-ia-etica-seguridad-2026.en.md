@@ -75,6 +75,6 @@ The chess game between governments, AI corporations, and users is just beginning
 
 ## Related content
 
-- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — Understand the agent ecosystem Anthropic and others are building
-- 📘 [**Security for AI Agents: Practical Guide**](https://www.aipaths.academy/en/guides/seguridad-agentes-ia-guia-practica) — The security Anthropic preaches applied to your own agents
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/docs/022_agentes-ia-guia-completa-2026) — Understand the agent ecosystem Anthropic and others are building
+- 📘 [**Security for AI Agents: Practical Guide**](https://www.aipaths.academy/en/docs/023_seguridad-agentes-ia-guia-practica) — The security Anthropic preaches applied to your own agents
 - 📝 [**Peter Steinberger: From PDFs to AI Agents**](https://www.aipaths.academy/en/blog/017_peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — How the OpenClaw creator builds agents with the same security philosophy

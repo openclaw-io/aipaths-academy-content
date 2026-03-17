@@ -214,7 +214,7 @@ El cambio de prompt engineering a context engineering refleja una verdad más pr
 
 ## Contenido relacionado
 
-- 📘 [**Prompt Engineering para Claude: Mejores Prácticas**](https://www.aipaths.academy/es/guias/prompt-engineering-best-practices) — Donde empezó todo: la disciplina base sobre la que se construye context engineering
-- 📘 [**Ventana de Contexto de Claude: Guía Completa**](https://www.aipaths.academy/es/guias/claude-context-window) — El recurso técnico que context engineering busca optimizar
-- 📘 [**Claude Skills: Personalizar Flujos de Trabajo**](https://www.aipaths.academy/es/guias/claude-skills-guide) — Una implementación práctica de context engineering con Skills
-- 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/guias/agentic-engineering-framework) — La evolución que vino después: de context engineering a agentic engineering
+- 📘 [**Prompt Engineering para Claude: Mejores Prácticas**](https://www.aipaths.academy/es/docs/005_prompt-engineering-best-practices) — Donde empezó todo: la disciplina base sobre la que se construye context engineering
+- 📘 [**Ventana de Contexto de Claude: Guía Completa**](https://www.aipaths.academy/es/docs/002_claude-context-window) — El recurso técnico que context engineering busca optimizar
+- 📘 [**Claude Skills: Personalizar Flujos de Trabajo**](https://www.aipaths.academy/es/docs/011_claude-skills-guide) — Una implementación práctica de context engineering con Skills
+- 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/docs/024_agentic-engineering-framework) — La evolución que vino después: de context engineering a agentic engineering

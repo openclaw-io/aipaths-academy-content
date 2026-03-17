@@ -470,6 +470,6 @@ The opportunity is real. But only for founders who understand the rules are diff
 
 ## Related content
 
-- 📘 [**Finding Your Profitable Niche**](https://www.aipaths.academy/en/guides/finding-profitable-niche-guide) — The first step most skip: finding a real niche
-- 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/guides/validating-idea-guide) — The second step: validate before building
+- 📘 [**Finding Your Profitable Niche**](https://www.aipaths.academy/en/docs/008_finding-profitable-niche-guide) — The first step most skip: finding a real niche
+- 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/docs/010_validating-idea-guide) — The second step: validate before building
 - 📝 [**43% of LATAM Companies Use AI**](https://www.aipaths.academy/en/blog/009_latam-ai-adoption-side-hustle) — Where the real SaaS opportunities are in LATAM
