@@ -75,10 +75,9 @@ El veredicto: NVIDIA acaba de convertir a OpenClaw de "el proyecto open source m
 
 ## Contenido relacionado
 
-- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — Todo lo que necesitás saber sobre agentes de IA antes de instalar NemoClaw
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/docs/022_agentes-ia-guia-completa-2026) — Todo lo que necesitás saber sobre agentes de IA antes de instalar NemoClaw
 
-- 📘 [**Cómo Configurar Tu Primer Agente con OpenClaw**](https://www.aipaths.academy/es/guias/configurar-primer-agente-ia-openclaw-guia-completa) — Empezá con OpenClaw hoy mientras NemoClaw llega
+- 📘 [**Cómo Configurar Tu Primer Agente con OpenClaw**](https://www.aipaths.academy/es/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Empezá con OpenClaw hoy mientras NemoClaw llega
 
-- 📝 [**Perplexity vs OpenClaw: El Primer Competidor Directo**](https://www.aipaths.academy/es/blog/020_perplexity-personal-computer-vs-openclaw) — Cómo se compara la alternativa cerrada de $200/mes
 
-- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/guias/seguridad-agentes-ia-guia-practica) — Los guardrails que NemoClaw viene a complementar
+- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/docs/023_seguridad-agentes-ia-guia-practica) — Los guardrails que NemoClaw viene a complementar
