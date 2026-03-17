@@ -237,4 +237,4 @@ Si querés ver estos principios aplicados en un sistema real — con context eng
 - 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — What they are, how they work, and how to choose the right framework
 - 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/guides/configurar-primer-agente-ia-openclaw-guia-completa) — Put agentic engineering into practice with a real agent running on your machine
 - 📘 [**Security for AI Agents: Practical Guide**](https://www.aipaths.academy/en/guides/seguridad-agentes-ia-guia-practica) — The human oversight pillar applied: permissions, costs, and data protection
-- 📝 [**Peter Steinberger: From PDFs to AI Agents**](https://www.aipaths.academy/en/blog/peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — The story behind OpenClaw, the tool that implements these principles
+- 📝 [**Peter Steinberger: From PDFs to AI Agents**](https://www.aipaths.academy/en/blog/017_peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — The story behind OpenClaw, the tool that implements these principles

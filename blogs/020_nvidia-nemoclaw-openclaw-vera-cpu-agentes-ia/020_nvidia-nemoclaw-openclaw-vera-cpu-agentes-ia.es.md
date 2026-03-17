@@ -79,6 +79,6 @@ El veredicto: NVIDIA acaba de convertir a OpenClaw de "el proyecto open source m
 
 - 📘 [**Cómo Configurar Tu Primer Agente con OpenClaw**](https://www.aipaths.academy/es/guias/configurar-primer-agente-ia-openclaw-guia-completa) — Empezá con OpenClaw hoy mientras NemoClaw llega
 
-- 📝 [**Perplexity vs OpenClaw: El Primer Competidor Directo**](https://www.aipaths.academy/es/blog/perplexity-personal-computer-vs-openclaw) — Cómo se compara la alternativa cerrada de $200/mes
+- 📝 [**Perplexity vs OpenClaw: El Primer Competidor Directo**](https://www.aipaths.academy/es/blog/020_perplexity-personal-computer-vs-openclaw) — Cómo se compara la alternativa cerrada de $200/mes
 
 - 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/guias/seguridad-agentes-ia-guia-practica) — Los guardrails que NemoClaw viene a complementar

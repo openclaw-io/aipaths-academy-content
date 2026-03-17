@@ -332,4 +332,4 @@ Ahora que entendés los 4 métodos:
 - 📘 [**Guía Completa de n8n para Principiantes**](https://www.aipaths.academy/es/guias/n8n-complete-beginners-guide) — Aprendé n8n para construir pipelines de RAG sin código
 - 📘 [**Crea un Digest de Noticias IA con n8n**](https://www.aipaths.academy/es/guias/n8n-ai-news-workflow-free) — Ejemplo práctico de un workflow que usa procesamiento de datos con IA
 - 📘 [**Prompt Engineering para Claude: Mejores Prácticas**](https://www.aipaths.academy/es/guias/prompt-engineering-best-practices) — Optimizá los prompts que usan tus pipelines de RAG
-- 📝 [**Construye un Chatbot de Documentación con Claude y RAG**](https://www.aipaths.academy/es/blog/rag-documentation-chatbot) — Tutorial práctico aplicando estos métodos de RAG
+- 📝 [**Construye un Chatbot de Documentación con Claude y RAG**](https://www.aipaths.academy/es/blog/007_rag-documentation-chatbot) — Tutorial práctico aplicando estos métodos de RAG

@@ -1150,7 +1150,7 @@ Your niche is out there. Use this guide to find it, validate it, and dominate it
 
 **Ready to launch your niche service?**
 
-Continue with our [Why 90% of SaaS Launches Fail](https://www.aipaths.academy/en/blog/why-90-percent-saas-launches-fail) to learn how to get your first 100 customers.
+Continue with our [Why 90% of SaaS Launches Fail](https://www.aipaths.academy/en/blog/012_why-90-percent-saas-launches-fail) to learn how to get your first 100 customers.
 
 Or jump straight to implementation with our [Validate Your Idea Before Building](https://www.aipaths.academy/en/guides/validating-idea-guide) for templates and checklists.
 
@@ -1160,5 +1160,5 @@ Have questions? Join our community in the [AIPaths Discord](https://discord.gg/a
 
 - 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/guides/validating-idea-guide) — The next step: validate your niche before investing time
 - 📘 [**The Complete Delegation Guide for Solopreneurs**](https://www.aipaths.academy/en/guides/delegation-guide-solopreneurs) — Scale your niche business by hiring freelancers
-- 📝 [**43% of LATAM Companies Use AI**](https://www.aipaths.academy/en/blog/latam-ai-adoption-side-hustle) — The $300B opportunity you can capture with your niche
-- 📝 [**Why 90% of SaaS Launches Fail**](https://www.aipaths.academy/en/blog/why-90-percent-saas-launches-fail) — Mistakes to avoid when launching your niche product
+- 📝 [**43% of LATAM Companies Use AI**](https://www.aipaths.academy/en/blog/009_latam-ai-adoption-side-hustle) — The $300B opportunity you can capture with your niche
+- 📝 [**Why 90% of SaaS Launches Fail**](https://www.aipaths.academy/en/blog/012_why-90-percent-saas-launches-fail) — Mistakes to avoid when launching your niche product

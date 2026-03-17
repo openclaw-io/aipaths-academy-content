@@ -610,6 +610,6 @@ Give it one week of serious use. I predict you won't want to go back.
 
 ## Related content
 
-- 📝 [**Claude Code vs Cursor: Which to Choose?**](https://www.aipaths.academy/en/blog/claude-code-vs-cursor) — Direct comparison between the two tools dominating AI development
+- 📝 [**Claude Code vs Cursor: Which to Choose?**](https://www.aipaths.academy/en/blog/004_claude-code-vs-cursor) — Direct comparison between the two tools dominating AI development
 - 📘 [**Prompt Engineering for Claude: Best Practices**](https://www.aipaths.academy/en/guides/prompt-engineering-best-practices) — Optimize your prompts regardless of which tool you use
 - 📘 [**Claude Context Window: Complete Guide**](https://www.aipaths.academy/en/guides/claude-context-window) — Understand the context feeding both Cursor and Claude Code

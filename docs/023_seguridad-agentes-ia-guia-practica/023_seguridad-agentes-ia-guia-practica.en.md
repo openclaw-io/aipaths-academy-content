@@ -193,4 +193,4 @@ You don't need to be a cybersecurity expert. 80% of protection comes from consis
 - 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — The complete AI agents landscape: what they are, how they work, and which to choose
 - 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/guides/configurar-primer-agente-ia-openclaw-guia-completa) — Step-by-step tutorial to install your agent with security best practices
 - 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/guides/agentic-engineering-framework) — The human oversight pillar that complements this security guide
-- 📝 [**Moltbook: The AI Agent Social Network**](https://www.aipaths.academy/en/blog/moltbook-social-network-ai-agents) — What happens when agents interact with each other without proper oversight
+- 📝 [**Moltbook: The AI Agent Social Network**](https://www.aipaths.academy/en/blog/016_moltbook-social-network-ai-agents) — What happens when agents interact with each other without proper oversight

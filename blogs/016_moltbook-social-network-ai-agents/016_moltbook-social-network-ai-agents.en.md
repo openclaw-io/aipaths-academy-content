@@ -192,4 +192,4 @@ The platform may have been messy, overhyped, and riddled with security holes, bu
 
 - 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/guides/agentes-ia-guia-completa-2026) — Everything you need to know about AI agents before making them interact
 - 📘 [**Security for AI Agents: Practical Guide**](https://www.aipaths.academy/en/guides/seguridad-agentes-ia-guia-practica) — Why security matters even more when agents talk to each other
-- 📝 [**Anthropic vs the Pentagon**](https://www.aipaths.academy/en/blog/anthropic-pentagono-ia-etica-seguridad-2026) — The ethics and security debate defining the future of autonomous agents
+- 📝 [**Anthropic vs the Pentagon**](https://www.aipaths.academy/en/blog/018_anthropic-pentagono-ia-etica-seguridad-2026) — The ethics and security debate defining the future of autonomous agents

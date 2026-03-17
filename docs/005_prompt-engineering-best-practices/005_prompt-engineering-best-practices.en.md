@@ -809,8 +809,8 @@ Then synthesize the best overall solution.
 - 📘 [**Claude Context Window: Complete Guide**](https://www.aipaths.academy/en/guides/claude-context-window) — Master context before optimizing prompts
 - 📘 [**Claude Skills: Customize AI Workflows**](https://www.aipaths.academy/en/guides/claude-skills-guide) — Turn your best prompts into reusable Skills
 - 📘 [**Context Engineering: The Evolution**](https://www.aipaths.academy/en/guides/context-engineering-evolution) — The next level after prompt engineering
-- 📝 [**10 Prompt Patterns That Changed My Workflow**](https://www.aipaths.academy/en/blog/prompt-patterns-workflow) — Practical patterns applying these best practices
-- 📝 [**Claude Code vs Cursor**](https://www.aipaths.academy/en/blog/claude-code-vs-cursor) — Where to apply these prompts: tools comparison
+- 📝 [**10 Prompt Patterns That Changed My Workflow**](https://www.aipaths.academy/en/blog/003_prompt-patterns-workflow) — Practical patterns applying these best practices
+- 📝 [**Claude Code vs Cursor**](https://www.aipaths.academy/en/blog/004_claude-code-vs-cursor) — Where to apply these prompts: tools comparison
 
 ---
 

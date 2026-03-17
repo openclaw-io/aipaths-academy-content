@@ -346,4 +346,4 @@ Claude Code tiene 14 herramientas disponibles. Cada uso de herramienta agrega a 
 - 📘 [**Prompt Engineering para Claude: Mejores Prácticas**](https://www.aipaths.academy/es/guias/prompt-engineering-best-practices) — Optimizá tus prompts para aprovechar al máximo la ventana de contexto
 - 📘 [**Context Engineering: La Evolución**](https://www.aipaths.academy/es/guias/context-engineering-evolution) — De prompt engineering a context engineering: el cambio de paradigma
 - 📘 [**Claude Skills: Personalizar Flujos de Trabajo**](https://www.aipaths.academy/es/guias/claude-skills-guide) — Automatizá workflows que aprovechan el contexto de forma inteligente
-- 📝 [**Cursor 2.0: La Revolución del Código IA**](https://www.aipaths.academy/es/blog/cursor-2-0-updates) — Cómo Cursor maneja el contexto para asistencia de código
+- 📝 [**Cursor 2.0: La Revolución del Código IA**](https://www.aipaths.academy/es/blog/001_cursor-2-0-updates) — Cómo Cursor maneja el contexto para asistencia de código

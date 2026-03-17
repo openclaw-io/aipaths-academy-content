@@ -809,8 +809,8 @@ Luego sintetiza la mejor solución general.
 - 📘 [**Ventana de Contexto de Claude: Guía Completa**](https://www.aipaths.academy/es/guias/claude-context-window) — Dominá el contexto antes de optimizar los prompts
 - 📘 [**Claude Skills: Personalizar Flujos de Trabajo con IA**](https://www.aipaths.academy/es/guias/claude-skills-guide) — Convertí tus mejores prompts en Skills reutilizables
 - 📘 [**Context Engineering: La Evolución**](https://www.aipaths.academy/es/guias/context-engineering-evolution) — El siguiente nivel después de prompt engineering
-- 📝 [**10 Patrones de Prompts que Cambiaron Mi Workflow**](https://www.aipaths.academy/es/blog/prompt-patterns-workflow) — Patrones prácticos aplicando estas mejores prácticas
-- 📝 [**Claude Code vs Cursor**](https://www.aipaths.academy/es/blog/claude-code-vs-cursor) — Dónde aplicar estos prompts: comparativa de herramientas
+- 📝 [**10 Patrones de Prompts que Cambiaron Mi Workflow**](https://www.aipaths.academy/es/blog/003_prompt-patterns-workflow) — Patrones prácticos aplicando estas mejores prácticas
+- 📝 [**Claude Code vs Cursor**](https://www.aipaths.academy/es/blog/004_claude-code-vs-cursor) — Dónde aplicar estos prompts: comparativa de herramientas
 
 ---
 

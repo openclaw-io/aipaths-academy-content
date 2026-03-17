@@ -492,5 +492,5 @@ Or explore our [AI Automation Guides](https://www.aipaths.academy/en/guides) to 
 
 - 📘 [**Finding Your Profitable Niche**](https://www.aipaths.academy/en/guides/finding-profitable-niche-guide) — Make sure you're delegating in a market worth serving
 - 📘 [**Validate Your Idea Before Building**](https://www.aipaths.academy/en/guides/validating-idea-guide) — Validate before scaling with freelancers
-- 📝 [**43% of LATAM Companies Use AI**](https://www.aipaths.academy/en/blog/latam-ai-adoption-side-hustle) — The LATAM context for entrepreneurs delegating with AI
+- 📝 [**43% of LATAM Companies Use AI**](https://www.aipaths.academy/en/blog/009_latam-ai-adoption-side-hustle) — The LATAM context for entrepreneurs delegating with AI
 - 📘 [**n8n Complete Beginners Guide**](https://www.aipaths.academy/en/guides/n8n-complete-beginners-guide) — Automate before delegating: reduce what you need to hire

@@ -666,4 +666,4 @@ Cambia el Schedule Trigger a semanal:
 
 - 📘 [**Guía Completa de n8n para Principiantes**](https://www.aipaths.academy/es/guias/n8n-complete-beginners-guide) — Si es tu primera vez con n8n, empezá por acá
 - 📘 [**Guía Completa de RAG: 4 Métodos**](https://www.aipaths.academy/es/guias/rag-methods-guide) — Llevá tus workflows al siguiente nivel conectándolos con bases de conocimiento
-- 📝 [**n8n es Ahora una Plataforma AI-First**](https://www.aipaths.academy/es/blog/n8n-ai-first-platform) — El contexto de por qué n8n se convirtió en la herramienta ideal para workflows de IA
+- 📝 [**n8n es Ahora una Plataforma AI-First**](https://www.aipaths.academy/es/blog/014_n8n-ai-first-platform) — El contexto de por qué n8n se convirtió en la herramienta ideal para workflows de IA

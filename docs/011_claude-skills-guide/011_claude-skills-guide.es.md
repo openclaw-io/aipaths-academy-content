@@ -530,4 +530,4 @@ La inversión de crear un Skill rinde dividendos cada vez que Claude aplica auto
 - 📘 [**Prompt Engineering para Claude: Mejores Prácticas**](https://www.aipaths.academy/es/guias/prompt-engineering-best-practices) — La base de prompting que necesitás antes de crear Skills avanzados
 - 📘 [**Ventana de Contexto de Claude: Guía Completa**](https://www.aipaths.academy/es/guias/claude-context-window) — Entendé cómo los Skills interactúan con el contexto disponible
 - 📘 [**Context Engineering: La Evolución**](https://www.aipaths.academy/es/guias/context-engineering-evolution) — Skills son una forma de context engineering aplicado
-- 📝 [**Claude Code vs Cursor**](https://www.aipaths.academy/es/blog/claude-code-vs-cursor) — Dónde funcionan mejor los Skills: comparativa de entornos
+- 📝 [**Claude Code vs Cursor**](https://www.aipaths.academy/es/blog/004_claude-code-vs-cursor) — Dónde funcionan mejor los Skills: comparativa de entornos

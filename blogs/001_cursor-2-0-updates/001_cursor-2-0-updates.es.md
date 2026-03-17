@@ -610,6 +610,6 @@ Dale una semana de uso serio. Predigo que no querrás volver atrás.
 
 ## Contenido relacionado
 
-- 📝 [**Claude Code vs Cursor: ¿Cuál Elegir?**](https://www.aipaths.academy/es/blog/claude-code-vs-cursor) — Comparativa directa entre las dos herramientas que dominan el desarrollo con IA
+- 📝 [**Claude Code vs Cursor: ¿Cuál Elegir?**](https://www.aipaths.academy/es/blog/004_claude-code-vs-cursor) — Comparativa directa entre las dos herramientas que dominan el desarrollo con IA
 - 📘 [**Prompt Engineering para Claude: Mejores Prácticas**](https://www.aipaths.academy/es/guias/prompt-engineering-best-practices) — Optimizá tus prompts sin importar qué herramienta uses
 - 📘 [**Ventana de Contexto de Claude: Guía Completa**](https://www.aipaths.academy/es/guias/claude-context-window) — Entendé el contexto que alimenta tanto a Cursor como a Claude Code

@@ -249,5 +249,5 @@ Meta asigna calificaciones de calidad (Alta/Media/Baja) basadas en:
 ## Contenido relacionado
 
 - 📘 [**Guía Completa de n8n para Principiantes**](https://www.aipaths.academy/es/guias/n8n-complete-beginners-guide) — Automatizá WhatsApp con n8n: la combinación más popular
-- 📝 [**API de WhatsApp Business: Cambios de Política 2026**](https://www.aipaths.academy/es/blog/meta-whatsapp-api-2026-policy) — Los cambios regulatorios que afectan cómo usás la API
+- 📝 [**API de WhatsApp Business: Cambios de Política 2026**](https://www.aipaths.academy/es/blog/015_meta-whatsapp-api-2026-policy) — Los cambios regulatorios que afectan cómo usás la API
 - 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — Conectá agentes de IA a WhatsApp para atención automatizada
