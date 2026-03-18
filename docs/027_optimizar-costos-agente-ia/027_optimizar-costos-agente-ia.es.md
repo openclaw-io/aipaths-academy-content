@@ -218,10 +218,10 @@ Los agentes de IA no tienen por qué ser caros. Tienen que estar bien diseñados
 
 ## Contenido relacionado
 
-- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — Qué son, cómo funcionan y cómo elegir el framework correcto
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/docs/022_agentes-ia-guia-completa-2026) — Qué son, cómo funcionan y cómo elegir el framework correcto
 
-- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/guias/seguridad-agentes-ia-guia-practica) — Permisos, datos y costos — los riesgos reales y cómo mitigarlos
+- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/docs/023_seguridad-agentes-ia-guia-practica) — Permisos, datos y costos — los riesgos reales y cómo mitigarlos
 
-- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/guias/configurar-primer-agente-ia-openclaw-guia-completa) — Setup completo paso a paso para empezar con agentes de IA
+- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Setup completo paso a paso para empezar con agentes de IA
 
-- 📝 [**De Vibe Coding a Agentic Engineering: La Evolución**](https://www.aipaths.academy/es/blog/vibe-coding-context-engineering-agentic-engineering) — Cómo cambió la forma de trabajar con IA en 12 meses
+- 📝 [**De Vibe Coding a Agentic Engineering: La Evolución**](https://www.aipaths.academy/es/blog/019_vibe-coding-context-engineering-agentic-engineering) — Cómo cambió la forma de trabajar con IA en 12 meses
