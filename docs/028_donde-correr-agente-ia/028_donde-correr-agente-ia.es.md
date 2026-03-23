@@ -202,12 +202,12 @@ Lo más importante: no dejes que esta decisión te frene. Un agente corriendo en
 
 ## Contenido relacionado
 
-- 📘 [**Mejor VPS para OpenClaw en 2026: Guía Comparativa**](https://www.aipaths.academy/es/guias/mejor-vps-openclaw) — Si elegiste VPS, acá comparamos los top 5 proveedores
+- 📘 [**Mejor VPS para OpenClaw en 2026: Guía Comparativa**](https://www.aipaths.academy/es/docs/mejor-vps-openclaw) — Si elegiste VPS, acá comparamos los top 5 proveedores
 
-- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/guias/optimizar-costos-agente-ia) — Elegiste dónde correrlo; ahora optimizá cuánto gastás en API
+- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/docs/025_optimizar-costos-agente-ia) — Elegiste dónde correrlo; ahora optimizá cuánto gastás en API
 
-- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/guias/seguridad-agentes-ia-guia-practica) — Permisos, datos y costos: lo que necesitás asegurar sin importar dónde corra
+- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/docs/023_seguridad-agentes-ia-guia-practica) — Permisos, datos y costos: lo que necesitás asegurar sin importar dónde corra
 
-- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/guias/configurar-primer-agente-ia-openclaw-guia-completa) — Tutorial paso a paso para instalar y configurar tu primer agente
+- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Tutorial paso a paso para instalar y configurar tu primer agente
 
-- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/guias/agentes-ia-guia-completa-2026) — Si todavía no sabés qué es un agente de IA, empezá por acá
+- 📘 [**Agentes de IA en 2026: Guía Completa**](https://www.aipaths.academy/es/docs/022_agentes-ia-guia-completa-2026) — Si todavía no sabés qué es un agente de IA, empezá por acá
