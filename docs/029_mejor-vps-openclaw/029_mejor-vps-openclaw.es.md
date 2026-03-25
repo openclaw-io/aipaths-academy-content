@@ -221,10 +221,10 @@ Lo más importante: no gastes de más en el VPS. OpenClaw funciona perfecto en u
 
 ## Contenido relacionado
 
-- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/guias/optimizar-costos-agente-ia) — El VPS es solo el hosting; acá optimizás los costos de API que van arriba
+- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/docs/025_optimizar-costos-agente-ia) — El VPS es solo el hosting; acá optimizás los costos de API que van arriba
 
-- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/guias/seguridad-agentes-ia-guia-practica) — Imprescindible antes de exponer un VPS a internet con un agente de IA
+- 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/docs/023_seguridad-agentes-ia-guia-practica) — Imprescindible antes de exponer un VPS a internet con un agente de IA
 
-- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/guias/configurar-primer-agente-ia-openclaw-guia-completa) — Una vez que tengas tu VPS, seguí esta guía para instalar OpenClaw
+- 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Una vez que tengas tu VPS, seguí esta guía para instalar OpenClaw
 
 - 📝 [**Perplexity vs OpenClaw: El Primer Competidor Directo**](https://www.aipaths.academy/es/blog/perplexity-personal-computer-vs-openclaw) — Por qué un VPS de $6/mes le gana a los $200/mes de Perplexity
