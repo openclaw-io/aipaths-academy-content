@@ -41,7 +41,6 @@ Lo que esto significa para tu VPS:
 
 No todos necesitan el mismo VPS. Acá va una tabla realista basada en experiencia propia y reportes de la comunidad:
 
-<!-- unsupported block type: table -->
 
 > 💡 Tip: Si vas con 1-2 GB de RAM, agregá swap (2GB mínimo). OpenClaw funciona, pero browser automation puede causar OOM sin swap.
 
@@ -159,7 +158,6 @@ Si tenés paciencia y habilidades técnicas, es una opción increíble para expe
 
 ## Tabla comparativa rápida
 
-<!-- unsupported block type: table -->
 
 ## Seguridad: lo que TENÉS que saber antes de instalar
 

@@ -47,7 +47,6 @@ La contra: costo mensual que se acumula (en 1-2 años pagaste el equivalente a u
 
 ## Tabla comparativa: Hardware vs VPS
 
-<!-- unsupported block type: table -->
 
 ## ¿Cómo elegir?
 
@@ -85,7 +84,6 @@ Si recién estás empezando, no necesitás comprar nada. Tu laptop funciona perf
 
 ## Tabla comparativa: Hardware
 
-<!-- unsupported block type: table -->
 
 # Decisión 3: Si elegiste VPS → ¿Qué tipo de VPS?
 
@@ -119,7 +117,6 @@ Es más caro que un VPS pelado por los mismos recursos, pero te ahorrás todo el
 
 ## Tabla comparativa: Tipos de VPS
 
-<!-- unsupported block type: table -->
 
 # Decisión bonus: ¿Modelos locales o API?
 
@@ -131,7 +128,6 @@ Esta no es una decisión de infraestructura en sí, pero cambia completamente qu
 
 **Nuestra recomendación:** Empezá con APIs. Son más potentes, más fáciles de usar, y el costo por request es bajo. Los modelos locales son un complemento interesante para tareas específicas (procesamiento de datos sensibles, reducir costos en tareas repetitivas), no un reemplazo de los modelos frontier.
 
-<!-- unsupported block type: table -->
 
 # Tu camino de decisión: el resumen
 
