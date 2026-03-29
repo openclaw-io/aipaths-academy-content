@@ -198,9 +198,9 @@ Lo más importante: no dejes que esta decisión te frene. Un agente corriendo en
 
 ## Contenido relacionado
 
-- 📘 [**Mejor VPS para OpenClaw en 2026: Guía Comparativa**](https://www.aipaths.academy/es/docs/mejor-vps-openclaw) — Si elegiste VPS, acá comparamos los top 5 proveedores
+- 📘 [**Mejor VPS para OpenClaw en 2026: Guía Comparativa**](https://www.aipaths.academy/es/docs/030_mejor-vps-openclaw) — Si elegiste VPS, acá comparamos los top 5 proveedores
 
-- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/docs/025_optimizar-costos-agente-ia) — Elegiste dónde correrlo; ahora optimizá cuánto gastás en API
+- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/docs/027_optimizar-costos-agente-ia) — Elegiste dónde correrlo; ahora optimizá cuánto gastás en API
 
 - 📘 [**Seguridad para Agentes de IA: Guía Práctica**](https://www.aipaths.academy/es/docs/023_seguridad-agentes-ia-guia-practica) — Permisos, datos y costos: lo que necesitás asegurar sin importar dónde corra
 

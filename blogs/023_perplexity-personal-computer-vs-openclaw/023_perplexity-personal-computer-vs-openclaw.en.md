@@ -32,3 +32,13 @@ Beyond the technical comparison, this launch confirms three trends: 1) Local age
 ## Should OpenClaw be worried?
 
 Honestly: no. Personal Computer targets US corporate professionals willing to pay $200/month for convenience. OpenClaw targets builders, developers, and entrepreneurs worldwide who want full control and aren't willing to hand their data to a closed company. Different audiences, different needs. And Perplexity entering the market doesn't shrink the space — it grows it. The verdict: Perplexity just spent millions in marketing to validate a category that OpenClaw already leads in open source. Thanks, Perplexity.
+
+## Related Content
+
+- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — If Perplexity charges $200/month, here's how to do it for free with OpenClaw
+
+- 📘 [**How to Optimize Your AI Agent Costs**](https://www.aipaths.academy/en/docs/027_optimizar-costos-agente-ia) — 5 strategies to spend $30-80/month instead of $200
+
+- 📝 [**Peter Steinberger: The Story of OpenClaw's Creator**](https://www.aipaths.academy/en/blog/017_peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — Who's behind the open source project competing with Perplexity
+
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/docs/022_agentes-ia-guia-completa-2026) — Everything you need to know about AI agents before choosing a platform

@@ -85,7 +85,7 @@ Más allá de la comparación técnica, el lanzamiento de Personal Computer conf
 
 - 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Si Perplexity cobra $200/mes, acá te mostramos cómo hacerlo gratis con OpenClaw
 
-- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/docs/025_optimizar-costos-agente-ia) — 5 estrategias para gastar $30-80/mes en vez de $200
+- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/docs/027_optimizar-costos-agente-ia) — 5 estrategias para gastar $30-80/mes en vez de $200
 
 - 📝 [**Peter Steinberger: La Historia del Creador de OpenClaw**](https://www.aipaths.academy/es/blog/017_peter-steinberger-creador-openclaw-de-pdfs-a-agentes-ia) — Quién está detrás del proyecto open source que compite con Perplexity
 

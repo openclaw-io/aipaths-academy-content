@@ -79,7 +79,7 @@ Composer 2 no es perfecto. No reemplaza a Claude para razonamiento complejo ni a
 
 ## Contenido relacionado
 
-- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/docs/025_optimizar-costos-agente-ia) — Model routing, prompt caching y las estrategias que bajan tu factura a la mitad
+- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/docs/027_optimizar-costos-agente-ia) — Model routing, prompt caching y las estrategias que bajan tu factura a la mitad
 
 - 📝 [**De Vibe Coding a Agentic Engineering**](https://www.aipaths.academy/es/blog/019_vibe-coding-context-engineering-agentic-engineering) — La evolución de programar con IA que llevó a modelos como Composer 2
 

@@ -64,3 +64,13 @@ Beyond the monthly VPS fee: bandwidth overages (most plans include 1-20TB, usual
 ## Conclusion: our recommendation
 
 For most users: Hetzner Cloud. Best price-to-performance, reliable, and the community favorite for self-hosting AI agents. If you're in LATAM and need low latency: Vultr with their São Paulo data center. If it's your first VPS ever: DigitalOcean — the documentation alone is worth the slight premium. And if you're still deciding between a VPS and your own hardware (Mac Mini), check our guide on Where to Run Your AI Agent for the full comparison.
+
+## Related Content
+
+- 📘 [**How to Optimize Your AI Agent Costs**](https://www.aipaths.academy/en/docs/027_optimizar-costos-agente-ia) — The VPS is just hosting; here you optimize the API costs on top
+
+- 📘 [**AI Agent Security: A Practical Guide**](https://www.aipaths.academy/en/docs/023_seguridad-agentes-ia-guia-practica) — Essential before exposing a VPS to the internet with an AI agent
+
+- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Once you have your VPS, follow this guide to install OpenClaw
+
+- 📝 [**Perplexity vs OpenClaw: The First Direct Competitor**](https://www.aipaths.academy/en/blog/023_perplexity-personal-computer-vs-openclaw) — Why a $6/month VPS beats Perplexity's $200/month

@@ -51,3 +51,13 @@ The last line of defense. Set hard spending limits per agent so no single agent 
 ## Optimization checklist
 
 Use this to evaluate your current setup: □ Is each agent/task using the cheapest model that works? (Strategy 1) □ Are your system prompts concise and complete? (Strategy 2) □ Are you leveraging prompt caching? (Strategy 3) □ Are there tasks you could move to local models? (Strategy 4) □ Do you have spending limits per agent? (Strategy 5) □ Do you monitor daily token consumption? □ Can you explain which model each agent uses and why? Each of these can be implemented incrementally. Start with model routing and prompt caching — those two alone typically cut costs 40-60%.
+
+## Related Content
+
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/docs/022_agentes-ia-guia-completa-2026) — What they are, how they work, and how to choose the right framework
+
+- 📘 [**AI Agent Security: A Practical Guide**](https://www.aipaths.academy/en/docs/023_seguridad-agentes-ia-guia-practica) — Permissions, data, and costs — the real risks and how to mitigate them
+
+- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Complete step-by-step setup to get started with AI agents
+
+- 📝 [**From Vibe Coding to Agentic Engineering: The Evolution**](https://www.aipaths.academy/en/blog/019_vibe-coding-context-engineering-agentic-engineering) — How the way we work with AI changed in 12 months

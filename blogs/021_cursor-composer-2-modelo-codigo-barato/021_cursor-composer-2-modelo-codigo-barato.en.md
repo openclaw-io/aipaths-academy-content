@@ -79,7 +79,7 @@ Composer 2 isn't perfect. It won't replace Claude for complex reasoning or GPT f
 
 ## Related content
 
-- 📘 [**How to Optimize Your AI Agent Costs**](https://www.aipaths.academy/en/docs/025_optimizar-costos-agente-ia) — Model routing, prompt caching and strategies to cut your bill in half
+- 📘 [**How to Optimize Your AI Agent Costs**](https://www.aipaths.academy/en/docs/027_optimizar-costos-agente-ia) — Model routing, prompt caching and strategies to cut your bill in half
 
 - 📝 [**From Vibe Coding to Agentic Engineering**](https://www.aipaths.academy/en/blog/019_vibe-coding-context-engineering-agentic-engineering) — The evolution of coding with AI that led to models like Composer 2
 

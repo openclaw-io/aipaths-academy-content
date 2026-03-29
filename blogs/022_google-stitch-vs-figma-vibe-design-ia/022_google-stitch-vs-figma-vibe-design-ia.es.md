@@ -87,6 +87,6 @@ De vibe coding a vibe design. De modelos caros a modelos baratos. De herramienta
 
 - 📘 [**Agentic Engineering: El Framework Completo**](https://www.aipaths.academy/es/docs/024_agentic-engineering-framework) — Los principios profesionales para trabajar con IA como copiloto
 
-- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/docs/025_optimizar-costos-agente-ia) — Si el diseño es gratis, el código barato... ¿cuánto gastás en tu agente?
+- 📘 [**Cómo Optimizar los Costos de Tu Agente de IA**](https://www.aipaths.academy/es/docs/027_optimizar-costos-agente-ia) — Si el diseño es gratis, el código barato... ¿cuánto gastás en tu agente?
 
 - 📘 [**Cómo Validar Tu Idea Antes de Construir**](https://www.aipaths.academy/es/docs/010_validating-idea-guide) — Ahora que las herramientas son gratis, el diferencial es la idea

@@ -38,3 +38,15 @@ Own hardware → High budget: Mac Mini M4. Medium: recycled PC. Low: Raspberry P
 ## FAQ — Real questions from our audience
 
 "Can my API account get banned for using OpenClaw?" — No. The API is designed for programmatic use. Different from automating the web interface (which DOES violate TOS). "Can I use an old PC instead of buying a Mac Mini?" — Yes. Install Ubuntu Server, it works the same but noisier and more power-hungry. "Do I need a fixed IP or domain?" — Not necessarily. Tailscale gives you secure remote access without exposing ports. "How many agents can I run on a Mac Mini?" — With cloud APIs, dozens. The bottleneck is the API, not local hardware. "What happens if power or internet goes out?" — Agent loses connection, reconnects automatically when restored. For high availability, use a VPS. "Is it safe to give an AI agent access to desktop/files?" — Create a dedicated OS user, restrict permissions, use workspace-only mode. See our Security Guide. "Which Mac Mini model? Base or more RAM?" — Base 16GB for cloud agents. 24GB if you want local models.
+
+## Related Content
+
+- 📘 [**Best VPS for OpenClaw in 2026: Comparative Guide**](https://www.aipaths.academy/en/docs/030_mejor-vps-openclaw) — If you chose VPS, here we compare the top 5 providers
+
+- 📘 [**How to Optimize Your AI Agent Costs**](https://www.aipaths.academy/en/docs/027_optimizar-costos-agente-ia) — You chose where to run it; now optimize how much you spend on APIs
+
+- 📘 [**AI Agent Security: A Practical Guide**](https://www.aipaths.academy/en/docs/023_seguridad-agentes-ia-guia-practica) — Permissions, data, and costs: what you need to secure regardless of where it runs
+
+- 📘 [**How to Set Up Your First AI Agent with OpenClaw**](https://www.aipaths.academy/en/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Step-by-step tutorial to install and configure your first agent
+
+- 📘 [**AI Agents in 2026: Complete Guide**](https://www.aipaths.academy/en/docs/022_agentes-ia-guia-completa-2026) — If you don't know what an AI agent is yet, start here

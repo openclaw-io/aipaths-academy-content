@@ -87,6 +87,6 @@ From vibe coding to vibe design. From expensive models to cheap models. From pai
 
 - 📘 [**Agentic Engineering: The Complete Framework**](https://www.aipaths.academy/en/docs/024_agentic-engineering-framework) — Professional principles for working with AI as a copilot
 
-- 📘 [**How to Optimize Your AI Agent Costs**](https://www.aipaths.academy/en/docs/025_optimizar-costos-agente-ia) — If design is free and code is cheap... how much are you spending on your agent?
+- 📘 [**How to Optimize Your AI Agent Costs**](https://www.aipaths.academy/en/docs/027_optimizar-costos-agente-ia) — If design is free and code is cheap... how much are you spending on your agent?
 
 - 📘 [**How to Validate Your Idea Before Building**](https://www.aipaths.academy/en/docs/010_validating-idea-guide) — Now that tools are free, the differentiator is the idea

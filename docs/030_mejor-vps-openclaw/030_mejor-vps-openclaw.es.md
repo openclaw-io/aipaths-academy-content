@@ -225,4 +225,4 @@ Lo más importante: no gastes de más en el VPS. OpenClaw funciona perfecto en u
 
 - 📘 [**Cómo Configurar Tu Primer Agente de IA con OpenClaw**](https://www.aipaths.academy/es/docs/021_configurar-primer-agente-ia-openclaw-guia-completa) — Una vez que tengas tu VPS, seguí esta guía para instalar OpenClaw
 
-- 📝 [**Perplexity vs OpenClaw: El Primer Competidor Directo**](https://www.aipaths.academy/es/blog/perplexity-personal-computer-vs-openclaw) — Por qué un VPS de $6/mes le gana a los $200/mes de Perplexity
+- 📝 [**Perplexity vs OpenClaw: El Primer Competidor Directo**](https://www.aipaths.academy/es/blog/023_perplexity-personal-computer-vs-openclaw) — Por qué un VPS de $6/mes le gana a los $200/mes de Perplexity
