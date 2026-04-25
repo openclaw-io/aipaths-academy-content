@@ -5,7 +5,8 @@ title: "Opus 4.7 cayó en SimpleBench: qué significa realmente para tus agentes
 description: "Un benchmark viral mostró a Claude Opus 4.7 por debajo de Opus 4.6 en SimpleBench. Esto no significa que el modelo sea peor: significa que hay que evaluar IA por caso de uso."
 author: "AIPaths Academy"
 publishedAt: "2026-04-25T17:30:07.782Z"
-updatedAt: "2026-04-25T17:30:07.782Z"
+updatedAt: "2026-04-25T17:49:51.000Z"
+coverImage: "https://raw.githubusercontent.com/openclaw-io/aipaths-academy-content/main/public/images/blogs/027_opus-47-simplebench-regression-agentes-ia/hero.png"
 tags:
   - claude
   - anthropic
