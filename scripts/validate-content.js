@@ -134,7 +134,7 @@ function validateFile(filePath) {
     const bodyContent = content.replace(/^---\n[\s\S]*?\n---\n/, '');
 
     // Run all validations
-    validateHeadingStructure(bodyContent, result);
+    validateHeadingStructure(bodyContent, frontmatter, result);
     validateFrontmatter(frontmatter, result);
     validateLocale(filePath, frontmatter, result);
     validateMDXSyntax(bodyContent, result);
@@ -201,7 +201,17 @@ function parseFrontmatter(content) {
   return frontmatter;
 }
 
-function validateHeadingStructure(content, result) {
+function normalizeTitleForComparison(value) {
+  return String(value || '')
+    .replace(/^#+\s+/, '')
+    .replace(/[“”]/g, '"')
+    .replace(/[‘’]/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim()
+    .toLowerCase();
+}
+
+function validateHeadingStructure(content, frontmatter, result) {
   const lines = content.split('\n');
   let inCodeBlock = false;
   let h1Count = 0;
@@ -238,11 +248,23 @@ function validateHeadingStructure(content, result) {
     }
   });
 
-  // ERROR: Must have exactly 1 H1
-  if (h1Count === 0) {
-    result.addError('No H1 heading found. Document must have exactly one H1 title.');
-  } else if (h1Count > 1) {
-    result.addError(`Multiple H1 headings found (${h1Count}). Only the document title should be H1.`, h1Line);
+  // The site template renders frontmatter.title as the page H1.
+  // Body content should not duplicate that title as its first H1.
+  if (h1Count > 1) {
+    result.addError(`Multiple H1 headings found (${h1Count}). Use the frontmatter title for the page H1 and H2/H3 for body sections.`, h1Line);
+  }
+
+  const firstMeaningfulLine = lines.map(line => line.trim()).find(Boolean);
+  if (
+    frontmatter?.title &&
+    firstMeaningfulLine?.startsWith('# ') &&
+    normalizeTitleForComparison(firstMeaningfulLine) === normalizeTitleForComparison(frontmatter.title)
+  ) {
+    const duplicateLine = lines.findIndex(line => line.trim() === firstMeaningfulLine) + 1;
+    result.addError(
+      'Body starts with an H1 that duplicates frontmatter.title. Remove the leading # title; the page template renders it.',
+      duplicateLine
+    );
   }
 
   // WARNING: Should have at least 3 H2 sections for good navigation

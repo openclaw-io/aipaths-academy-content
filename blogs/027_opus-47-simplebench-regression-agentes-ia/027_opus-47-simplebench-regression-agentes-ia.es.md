@@ -16,8 +16,6 @@ tags:
 readingTime: 5
 ---
 
-# Opus 4.7 cayó en SimpleBench: qué significa realmente para tus agentes de IA
-
 Un post en Reddit empezó a circular con una captura simple pero bastante incómoda: en **SimpleBench**, Claude Opus 4.7 aparece por debajo de Opus 4.6.
 
 La tabla mostraba esto:
