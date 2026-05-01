@@ -1,7 +1,7 @@
 ---
 content_id: "docs-claude-code-cheat-sheet-6-meses-uso-diario"
 locale: "es"
-title: "Claude Code: guía práctica después de 6 meses de uso diario"
+title: "Claude Code cheat sheet after 6 months of daily use"
 description: "Guía práctica de Claude Code tras meses de uso diario: workflow, contexto, skills, hooks, seguridad y prompts para trabajar más rápido sin perder control."
 author: "AIPaths Academy"
 publishedAt: "2026-05-01T19:03:59.322Z"
